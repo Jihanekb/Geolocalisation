@@ -1,0 +1,72 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Nearby</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+
+        <link rel="stylesheet" href="{% static 'css/style.css' %}"> 
+
+        <!--Leaflet CSS-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+
+        <!-- Leaflet JS-->
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+
+        <!-- Set map height-->
+        <style>
+            
+            #mapid { height: 450px; width: 600px; transform: translate(110%, 30%);} 
+         
+        </style>
+
+    </head>
+    
+    <body>
+
+        <div class="wrapper0">
+            <form class="d-flex" method= POST action="{% url 'searched-places' %}">
+
+                {% csrf_token %}
+
+                <input type = "search" id = "place" name="searched" class="input" placeholder="what are you looking for?">
+
+                <button class="btn btn-outline-secondary" type='submit' >
+                    <i class="fas fa-search"></i>
+                </button>
+
+            </form>
+            
+        </div>
+
+        <div class= wrapper>
+            <h1>Get there the fastest you can!!</h1>
+
+        </div>
+
+        <!-- map div-->
+        <div id="mapid"></div>
+        
+        <!-- map js-->
+        <script>
+            var map = L.map('mapid').setView([34.01979, -6.82829], 17);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+            L.marker([34.01979, -6.82829]).addTo(map)
+            .bindPopup('I am here.')
+            .openPopup()
+
+        </script>
+    </body>
+</html> 

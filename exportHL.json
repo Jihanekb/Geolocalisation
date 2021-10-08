@@ -1,0 +1,1459 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-15T17:11:36Z",
+    "timestamp_areas_base": "2021-09-15T15:56:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 412407572,
+      "lat": 33.9907777,
+      "lon": -6.8373826,
+      "tags": {
+        "name": "Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414130093,
+      "lat": 33.9954437,
+      "lon": -6.8509562,
+      "tags": {
+        "name": "Soundouss Hotel",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516664650,
+      "lat": 34.0296671,
+      "lon": -6.8372301,
+      "tags": {
+        "name": "Hotel Des Oudaias",
+        "tourism": "hotel",
+        "wikidata": "Q66082310"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527903350,
+      "lat": 34.0142801,
+      "lon": -6.8317277,
+      "tags": {
+        "addr:city": "Rabat ⵕⵕⴱⴰⵟ الرباط",
+        "addr:housenumber": "2",
+        "addr:street": "Rue Ifni",
+        "name": "Helnan Chellah",
+        "phone": "+212 537 66 83 00",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "http://www.helnan.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527903393,
+      "lat": 34.0196347,
+      "lon": -6.8298442,
+      "tags": {
+        "name": "La Tour Hassan Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527903400,
+      "lat": 34.0205362,
+      "lon": -6.8298919,
+      "tags": {
+        "name": "Hotel Rabat",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528061362,
+      "lat": 33.9648683,
+      "lon": -6.8477025,
+      "tags": {
+        "name": "Villa Mandarine",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1139044163,
+      "lat": 34.0181051,
+      "lon": -6.8352916,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:street": "Avenue Mohamed V",
+        "email": "hotelbalima@menara.ma",
+        "fax": "00212 537 70 74 50",
+        "name": "Hôtel Balima",
+        "phone": "00212 537 70 79 67",
+        "tourism": "hotel",
+        "website": "http://www.hotel-balima.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1151736192,
+      "lat": 34.0175523,
+      "lon": -6.8279625,
+      "tags": {
+        "name": "Le Diwan",
+        "operator": "Accor",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1259440479,
+      "lat": 34.0164358,
+      "lon": -6.8366651,
+      "tags": {
+        "name": "Majliss",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1324037779,
+      "lat": 34.0213828,
+      "lon": -6.8395033,
+      "tags": {
+        "designation": "*",
+        "name": "Hotel Majestic",
+        "source": "June 2011",
+        "tourism": "hotel",
+        "wikidata": "Q59955786"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1719030425,
+      "lat": 34.0204173,
+      "lon": -6.828931,
+      "tags": {
+        "name": "Yasmine Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1811888412,
+      "lat": 34.0192103,
+      "lon": -6.8228848,
+      "tags": {
+        "name": "Hotel Mercure Sherazade",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122738367,
+      "lat": 34.0162377,
+      "lon": -6.8322101,
+      "tags": {
+        "name": "Le Pietri",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2226826932,
+      "lat": 34.0257722,
+      "lon": -6.8260428,
+      "tags": {
+        "name": "Hotel Golden Tulip",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191163,
+      "lat": 33.9968005,
+      "lon": -6.8458387,
+      "tags": {
+        "name": "Mihad Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191199,
+      "lat": 33.9965337,
+      "lon": -6.8474374,
+      "tags": {
+        "name": "Hotel Atlantic",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585574489,
+      "lat": 34.0207436,
+      "lon": -6.8271643,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:housenumber": "45",
+        "addr:street": "Avenue Moulay Ismail شارع مولاي اسماعيل",
+        "name": "Hôtel Rihab",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3118154627,
+      "lat": 34.0225205,
+      "lon": -6.8315281,
+      "tags": {
+        "name": "Hôtel Malak",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410415535,
+      "lat": 34.0213761,
+      "lon": -6.8364806,
+      "tags": {
+        "name": "Capitol",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410415538,
+      "lat": 34.0209254,
+      "lon": -6.8369941,
+      "tags": {
+        "name": "Splendide",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410436675,
+      "lat": 34.0207139,
+      "lon": -6.8355565,
+      "tags": {
+        "name": "Royal Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3423060128,
+      "lat": 34.008147,
+      "lon": -6.8446378,
+      "tags": {
+        "addr:street": "Avenue Oqba",
+        "name": "Oumlil",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434912303,
+      "lat": 34.0219532,
+      "lon": -6.8309195,
+      "tags": {
+        "name": "Malak",
+        "tourism": "hotel",
+        "website": "http://www.malakhotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436991239,
+      "lat": 34.0226818,
+      "lon": -6.8395168,
+      "tags": {
+        "name": "Hotel De France",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437027284,
+      "lat": 34.0227911,
+      "lon": -6.8393318,
+      "tags": {
+        "addr:city": "الرباط",
+        "name": "Hotel d'Alger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437027285,
+      "lat": 34.0233104,
+      "lon": -6.8391398,
+      "tags": {
+        "name": "Hotel Du Marché",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437027286,
+      "lat": 34.0228632,
+      "lon": -6.8390685,
+      "tags": {
+        "name": "Hotel Assaada",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437027287,
+      "lat": 34.0229712,
+      "lon": -6.8386968,
+      "tags": {
+        "addr:city": "الرباط",
+        "name": "Hotel Des Voyageurs",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812346,
+      "lat": 34.020697,
+      "lon": -6.8424711,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe",
+        "building": "hotel",
+        "name": "Hotel Afrique",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772969802,
+      "lat": 34.0145459,
+      "lon": -6.8364125,
+      "tags": {
+        "name": "Hôtel Bélère",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801930662,
+      "lat": 34.0213879,
+      "lon": -6.8374809,
+      "tags": {
+        "addr:city": "الرباط",
+        "name": "Berlin",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980286198,
+      "lat": 34.0228794,
+      "lon": -6.8461415,
+      "tags": {
+        "name": "Hôtel Texuda",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4174180594,
+      "lat": 34.0241454,
+      "lon": -6.832152,
+      "tags": {
+        "name": "bouregreg",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4189950299,
+      "lat": 34.0210045,
+      "lon": -6.8378024,
+      "tags": {
+        "name": "Hôtel Gaulois",
+        "phone": "+2125377223022",
+        "tourism": "hotel",
+        "wikidata": "Q59955790"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4528921091,
+      "lat": 33.9697533,
+      "lon": -6.8914096,
+      "tags": {
+        "name": "فاطمة المسكينية",
+        "name:ar": "فاطمة المسكينية",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792445702,
+      "lat": 34.0206749,
+      "lon": -6.8425641,
+      "tags": {
+        "name": "Ifriquia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4918746221,
+      "lat": 34.0174483,
+      "lon": -6.8254135,
+      "tags": {
+        "addr:street": "Avenue d'Alger شارع الجزائر",
+        "name": "Annakhil",
+        "name:fr": "Annakhil",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044928725,
+      "lat": 34.0126979,
+      "lon": -6.8315132,
+      "tags": {
+        "addr:street": "Avenue Mohamed V",
+        "name": "Mess Off Rabat",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5139965921,
+      "lat": 33.9951481,
+      "lon": -6.8496665,
+      "tags": {
+        "name": "rent-inn",
+        "name:fr": "rent-inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5154645133,
+      "lat": 34.025442,
+      "lon": -6.8380137,
+      "tags": {
+        "name:zh": "酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5337305522,
+      "lat": 34.0231296,
+      "lon": -6.8381372,
+      "tags": {
+        "addr:housenumber": "312",
+        "addr:street": "Ave. Mohammed V. Place du Marche",
+        "internet_access": "wlan",
+        "name": "Hotel Dorhmi",
+        "opening_hours": "24/7",
+        "phone": "037723898",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5337666822,
+      "lat": 34.0227411,
+      "lon": -6.8381122,
+      "tags": {
+        "addr:housenumber": "313",
+        "addr:street": "Avenue Mohammad V Place du Marche",
+        "internet_access": "wlan",
+        "name": "Hotel Dorhmi",
+        "opening_hours": "24/7",
+        "phone": "037723898",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5767000084,
+      "lat": 34.0184273,
+      "lon": -6.8355399,
+      "tags": {
+        "addr:street": "Rue Al Bassra",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782839884,
+      "lat": 34.0029059,
+      "lon": -6.850626,
+      "tags": {
+        "addr:street": "Rue Azegza",
+        "name": "Smarts Hotel",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483829985,
+      "lat": 34.0171757,
+      "lon": -6.8342002,
+      "tags": {
+        "name:en": "Hotel Velleda",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6693613985,
+      "lat": 34.0202309,
+      "lon": -6.8413174,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Alsace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6743197385,
+      "lat": 34.0228005,
+      "lon": -6.8373844,
+      "tags": {
+        "name": "فندق الشعب",
+        "name:ar": "فندق الشعب",
+        "name:en": "Hotel chaab",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7223498585,
+      "lat": 34.023315,
+      "lon": -6.8376611,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Impasse Slitane",
+        "email": "kayezer3@gmail.com",
+        "internet_access": "wlan",
+        "name": "Kayezer",
+        "phone": "+212 661-217931",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7668031254,
+      "lat": 33.9203645,
+      "lon": -6.8409148,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:street": "Avenue Mohammed VI",
+        "name": "The Ritz-Carlton Rabat Dar Es Salam",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8179111121,
+      "lat": 33.9962447,
+      "lon": -6.8474921,
+      "tags": {
+        "name": "Gardenia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910909282,
+      "lat": 34.0242119,
+      "lon": -6.8366599,
+      "tags": {
+        "addr:housenumber": "133",
+        "addr:street": "Rue Souika Ancienne Medina",
+        "name": "Dar El Idrissi",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 248682072,
+      "nodes": [
+        2554380462,
+        2554380463,
+        2554380464,
+        2554380465,
+        2554380466,
+        2554380467,
+        2554380462
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Rive",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256107715,
+      "nodes": [
+        2618027895,
+        2618027630,
+        3391890773,
+        2618027578,
+        2836130827,
+        2618027650,
+        3391890706,
+        2618027895
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "11",
+        "height": "42.78",
+        "name": "Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332075980,
+      "nodes": [
+        3391890059,
+        3391890090,
+        3391890920,
+        3391890755,
+        3391890062,
+        3391890587,
+        3391890749,
+        3391890951,
+        3391890748,
+        3391890728,
+        3391890741,
+        3391890709,
+        3391890506,
+        3391890773,
+        2618027630,
+        2618027895,
+        3391890706,
+        3391890583,
+        3391890947,
+        3391890562,
+        3391890059
+      ],
+      "tags": {
+        "name": "Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 344071578,
+      "nodes": [
+        3508287061,
+        3508287062,
+        3508287063,
+        3508287064,
+        3508287065,
+        3508287066,
+        3508287061
+      ],
+      "tags": {
+        "addr:street": "شارع الحسن الثاني",
+        "building": "hotel",
+        "building:levels": "6",
+        "name": "Hotel Oscar",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360958342,
+      "nodes": [
+        3654962442,
+        3654962443,
+        3654962444,
+        3654962445,
+        3654962442
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "7",
+        "height": "27.22",
+        "name": "Hotel Balima",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 449075021,
+      "nodes": [
+        4460447955,
+        4460447956,
+        4460447957,
+        4460447958,
+        4460447959,
+        4460447960,
+        4460447961,
+        4460447962,
+        4460447963,
+        4460447964,
+        4460447965,
+        4460447966,
+        4460447967,
+        4460447955
+      ],
+      "tags": {
+        "building": "yes",
+        "operator": "Soundouss",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 485150406,
+      "nodes": [
+        4779174913,
+        4779174849,
+        4779174915,
+        4779175024,
+        4779174914,
+        4779174910,
+        4779175034,
+        4779175042,
+        4779174909,
+        4779174908,
+        4779174907,
+        4779174912,
+        4779175041,
+        4779174883,
+        4779174862,
+        4779174864,
+        4779174913
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hotel Farah",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608744801,
+      "nodes": [
+        5766800263,
+        5766800262,
+        5766800261,
+        5766800260,
+        5766800263
+      ],
+      "tags": {
+        "addr:street": "Rue Benghazi",
+        "building": "hotel",
+        "name": "Hotel Lemusee",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608744805,
+      "nodes": [
+        5766800275,
+        4212631296,
+        5766800274,
+        5766800273,
+        5766800275
+      ],
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "2",
+        "addr:postcode": "10000",
+        "addr:street": "Rue Gandhi",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "ONOMO Hotel Rabat Médina",
+        "phone": "+212537703074",
+        "tourism": "hotel",
+        "website": "https://onomohotel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609552697,
+      "nodes": [
+        5773536056,
+        5773536055,
+        5773536054,
+        5773536053,
+        5773536056
+      ],
+      "tags": {
+        "addr:street": "Avenue Al Mouqaouama شارع المقاومة",
+        "building": "hotel",
+        "name": "Hotel Lutece",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609574302,
+      "nodes": [
+        5773721220,
+        5773721219,
+        5773721218,
+        5773721217,
+        5773721220
+      ],
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "building": "hotel",
+        "name": "Hotel Paris",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 611644498,
+      "nodes": [
+        5790346259,
+        5790346258,
+        5790346257,
+        5790346256,
+        5790346259
+      ],
+      "tags": {
+        "addr:street": "Rue Bani Yadder زنقة بني يدر",
+        "building": "hotel",
+        "name": "Villa Diyafa Boutique Hotel and Spa",
+        "source": "Kaart Ground Survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654506454,
+      "nodes": [
+        6132928359,
+        6132928360,
+        6132928361,
+        6132928362,
+        6132928359
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ibis Hotel Agdal",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 823846548,
+      "nodes": [
+        7691892894,
+        7691892895,
+        7691892896,
+        7691892897,
+        7691892894
+      ],
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:street": "Avenue Annakhil شارع النخيل",
+        "building": "yes",
+        "name": "The view",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7691892894,
+      "lat": 33.9548305,
+      "lon": -6.8672755
+    },
+    {
+      "type": "node",
+      "id": 7691892895,
+      "lat": 33.9549661,
+      "lon": -6.8674918
+    },
+    {
+      "type": "node",
+      "id": 7691892896,
+      "lat": 33.9551974,
+      "lon": -6.8672418
+    },
+    {
+      "type": "node",
+      "id": 7691892897,
+      "lat": 33.9550698,
+      "lon": -6.8670495
+    },
+    {
+      "type": "node",
+      "id": 5790346256,
+      "lat": 33.9435299,
+      "lon": -6.815998
+    },
+    {
+      "type": "node",
+      "id": 5790346259,
+      "lat": 33.9444089,
+      "lon": -6.8162096
+    },
+    {
+      "type": "node",
+      "id": 2618027578,
+      "lat": 33.9901605,
+      "lon": -6.8377089
+    },
+    {
+      "type": "node",
+      "id": 3391890506,
+      "lat": 33.9900682,
+      "lon": -6.8373128
+    },
+    {
+      "type": "node",
+      "id": 3391890709,
+      "lat": 33.9901482,
+      "lon": -6.8371009
+    },
+    {
+      "type": "node",
+      "id": 3391890728,
+      "lat": 33.9902305,
+      "lon": -6.8369668
+    },
+    {
+      "type": "node",
+      "id": 3391890741,
+      "lat": 33.9901727,
+      "lon": -6.8371174
+    },
+    {
+      "type": "node",
+      "id": 3391890748,
+      "lat": 33.9901816,
+      "lon": -6.8369266
+    },
+    {
+      "type": "node",
+      "id": 5790346257,
+      "lat": 33.9436083,
+      "lon": -6.8155253
+    },
+    {
+      "type": "node",
+      "id": 5790346258,
+      "lat": 33.9444872,
+      "lon": -6.8157369
+    },
+    {
+      "type": "node",
+      "id": 6132928359,
+      "lat": 33.9988825,
+      "lon": -6.859081
+    },
+    {
+      "type": "node",
+      "id": 6132928360,
+      "lat": 33.9986836,
+      "lon": -6.8585281
+    },
+    {
+      "type": "node",
+      "id": 6132928361,
+      "lat": 33.998414,
+      "lon": -6.8586704
+    },
+    {
+      "type": "node",
+      "id": 6132928362,
+      "lat": 33.9985994,
+      "lon": -6.8592233
+    },
+    {
+      "type": "node",
+      "id": 4460447955,
+      "lat": 33.9955475,
+      "lon": -6.8511038
+    },
+    {
+      "type": "node",
+      "id": 4460447956,
+      "lat": 33.9955886,
+      "lon": -6.8509912
+    },
+    {
+      "type": "node",
+      "id": 4460447957,
+      "lat": 33.9955064,
+      "lon": -6.8509482
+    },
+    {
+      "type": "node",
+      "id": 4460447958,
+      "lat": 33.9955297,
+      "lon": -6.8508785
+    },
+    {
+      "type": "node",
+      "id": 4460447959,
+      "lat": 33.9953852,
+      "lon": -6.850794
+    },
+    {
+      "type": "node",
+      "id": 4460447960,
+      "lat": 33.9953707,
+      "lon": -6.8508275
+    },
+    {
+      "type": "node",
+      "id": 4460447961,
+      "lat": 33.9953563,
+      "lon": -6.8508195
+    },
+    {
+      "type": "node",
+      "id": 4460447962,
+      "lat": 33.9952962,
+      "lon": -6.8509952
+    },
+    {
+      "type": "node",
+      "id": 4460447963,
+      "lat": 33.9953896,
+      "lon": -6.8510448
+    },
+    {
+      "type": "node",
+      "id": 4460447964,
+      "lat": 33.9953952,
+      "lon": -6.8510247
+    },
+    {
+      "type": "node",
+      "id": 4460447965,
+      "lat": 33.9954619,
+      "lon": -6.8510595
+    },
+    {
+      "type": "node",
+      "id": 4460447966,
+      "lat": 33.9954585,
+      "lon": -6.8510756
+    },
+    {
+      "type": "node",
+      "id": 4460447967,
+      "lat": 33.9955297,
+      "lon": -6.8511132
+    },
+    {
+      "type": "node",
+      "id": 3508287061,
+      "lat": 34.0124963,
+      "lon": -6.8496317
+    },
+    {
+      "type": "node",
+      "id": 3508287062,
+      "lat": 34.0125919,
+      "lon": -6.8494413
+    },
+    {
+      "type": "node",
+      "id": 3508287063,
+      "lat": 34.0125496,
+      "lon": -6.8493179
+    },
+    {
+      "type": "node",
+      "id": 3508287064,
+      "lat": 34.0122317,
+      "lon": -6.8491087
+    },
+    {
+      "type": "node",
+      "id": 3508287065,
+      "lat": 34.0121405,
+      "lon": -6.8493072
+    },
+    {
+      "type": "node",
+      "id": 3508287066,
+      "lat": 34.0122117,
+      "lon": -6.849444
+    },
+    {
+      "type": "node",
+      "id": 2618027630,
+      "lat": 33.9904807,
+      "lon": -6.8368828
+    },
+    {
+      "type": "node",
+      "id": 2618027650,
+      "lat": 33.9903384,
+      "lon": -6.8378055
+    },
+    {
+      "type": "node",
+      "id": 2618027895,
+      "lat": 33.9906942,
+      "lon": -6.8369847
+    },
+    {
+      "type": "node",
+      "id": 2836130827,
+      "lat": 33.9902962,
+      "lon": -6.8377826
+    },
+    {
+      "type": "node",
+      "id": 3391890059,
+      "lat": 33.9910845,
+      "lon": -6.8363124
+    },
+    {
+      "type": "node",
+      "id": 3391890062,
+      "lat": 33.9905285,
+      "lon": -6.8364143
+    },
+    {
+      "type": "node",
+      "id": 3391890090,
+      "lat": 33.9909355,
+      "lon": -6.8362109
+    },
+    {
+      "type": "node",
+      "id": 3391890562,
+      "lat": 33.9907175,
+      "lon": -6.8372109
+    },
+    {
+      "type": "node",
+      "id": 3391890583,
+      "lat": 33.9905129,
+      "lon": -6.8378014
+    },
+    {
+      "type": "node",
+      "id": 3391890587,
+      "lat": 33.990464,
+      "lon": -6.836358
+    },
+    {
+      "type": "node",
+      "id": 3391890706,
+      "lat": 33.9903723,
+      "lon": -6.8377272
+    },
+    {
+      "type": "node",
+      "id": 3391890749,
+      "lat": 33.9903039,
+      "lon": -6.8367549
+    },
+    {
+      "type": "node",
+      "id": 3391890755,
+      "lat": 33.990633,
+      "lon": -6.8361809
+    },
+    {
+      "type": "node",
+      "id": 3391890773,
+      "lat": 33.990266,
+      "lon": -6.8374366
+    },
+    {
+      "type": "node",
+      "id": 3391890920,
+      "lat": 33.9908821,
+      "lon": -6.8363204
+    },
+    {
+      "type": "node",
+      "id": 3391890947,
+      "lat": 33.9907531,
+      "lon": -6.8372381
+    },
+    {
+      "type": "node",
+      "id": 3391890951,
+      "lat": 33.9902594,
+      "lon": -6.8367339
+    },
+    {
+      "type": "node",
+      "id": 5766800260,
+      "lat": 34.0155988,
+      "lon": -6.8322951
+    },
+    {
+      "type": "node",
+      "id": 5766800261,
+      "lat": 34.0156896,
+      "lon": -6.8321109
+    },
+    {
+      "type": "node",
+      "id": 5766800262,
+      "lat": 34.0158208,
+      "lon": -6.8322051
+    },
+    {
+      "type": "node",
+      "id": 5766800263,
+      "lat": 34.01573,
+      "lon": -6.8323892
+    },
+    {
+      "type": "node",
+      "id": 5773536053,
+      "lat": 34.0255238,
+      "lon": -6.8431443
+    },
+    {
+      "type": "node",
+      "id": 5773536054,
+      "lat": 34.0256127,
+      "lon": -6.8430518
+    },
+    {
+      "type": "node",
+      "id": 5773536055,
+      "lat": 34.0256556,
+      "lon": -6.8431118
+    },
+    {
+      "type": "node",
+      "id": 5773536056,
+      "lat": 34.0255667,
+      "lon": -6.8432044
+    },
+    {
+      "type": "node",
+      "id": 5773721217,
+      "lat": 34.0207499,
+      "lon": -6.8414031
+    },
+    {
+      "type": "node",
+      "id": 5773721218,
+      "lat": 34.0208077,
+      "lon": -6.8412301
+    },
+    {
+      "type": "node",
+      "id": 5773721219,
+      "lat": 34.0209183,
+      "lon": -6.8412839
+    },
+    {
+      "type": "node",
+      "id": 5773721220,
+      "lat": 34.0208605,
+      "lon": -6.8414569
+    },
+    {
+      "type": "node",
+      "id": 3654962442,
+      "lat": 34.0183459,
+      "lon": -6.8353953
+    },
+    {
+      "type": "node",
+      "id": 3654962443,
+      "lat": 34.0183922,
+      "lon": -6.8352481
+    },
+    {
+      "type": "node",
+      "id": 3654962444,
+      "lat": 34.0180886,
+      "lon": -6.8350934
+    },
+    {
+      "type": "node",
+      "id": 3654962445,
+      "lat": 34.0180357,
+      "lon": -6.8352272
+    },
+    {
+      "type": "node",
+      "id": 4212631296,
+      "lat": 34.0201714,
+      "lon": -6.8347179
+    },
+    {
+      "type": "node",
+      "id": 5766800273,
+      "lat": 34.0199288,
+      "lon": -6.8347049
+    },
+    {
+      "type": "node",
+      "id": 5766800274,
+      "lat": 34.0199911,
+      "lon": -6.8345909
+    },
+    {
+      "type": "node",
+      "id": 5766800275,
+      "lat": 34.0201158,
+      "lon": -6.8348318
+    },
+    {
+      "type": "node",
+      "id": 2554380462,
+      "lat": 34.0178964,
+      "lon": -6.8252186
+    },
+    {
+      "type": "node",
+      "id": 2554380463,
+      "lat": 34.0180213,
+      "lon": -6.8249896
+    },
+    {
+      "type": "node",
+      "id": 2554380464,
+      "lat": 34.0183085,
+      "lon": -6.8252442
+    },
+    {
+      "type": "node",
+      "id": 2554380465,
+      "lat": 34.0182273,
+      "lon": -6.8253617
+    },
+    {
+      "type": "node",
+      "id": 2554380466,
+      "lat": 34.018281,
+      "lon": -6.8255515
+    },
+    {
+      "type": "node",
+      "id": 2554380467,
+      "lat": 34.018115,
+      "lon": -6.8256766
+    },
+    {
+      "type": "node",
+      "id": 4779174849,
+      "lat": 34.0253855,
+      "lon": -6.825503
+    },
+    {
+      "type": "node",
+      "id": 4779174862,
+      "lat": 34.0257612,
+      "lon": -6.8258088
+    },
+    {
+      "type": "node",
+      "id": 4779174864,
+      "lat": 34.0255389,
+      "lon": -6.8257605
+    },
+    {
+      "type": "node",
+      "id": 4779174883,
+      "lat": 34.0258946,
+      "lon": -6.8260287
+    },
+    {
+      "type": "node",
+      "id": 4779174907,
+      "lat": 34.0257679,
+      "lon": -6.8264539
+    },
+    {
+      "type": "node",
+      "id": 4779174908,
+      "lat": 34.0257479,
+      "lon": -6.826368
+    },
+    {
+      "type": "node",
+      "id": 4779174909,
+      "lat": 34.0256834,
+      "lon": -6.8263452
+    },
+    {
+      "type": "node",
+      "id": 4779174910,
+      "lat": 34.0254545,
+      "lon": -6.8259268
+    },
+    {
+      "type": "node",
+      "id": 4779174912,
+      "lat": 34.0258346,
+      "lon": -6.8264686
+    },
+    {
+      "type": "node",
+      "id": 4779174913,
+      "lat": 34.02555,
+      "lon": -6.8255164
+    },
+    {
+      "type": "node",
+      "id": 4779174914,
+      "lat": 34.0253922,
+      "lon": -6.8258678
+    },
+    {
+      "type": "node",
+      "id": 4779174915,
+      "lat": 34.0253478,
+      "lon": -6.8257914
+    },
+    {
+      "type": "node",
+      "id": 4779175024,
+      "lat": 34.0253922,
+      "lon": -6.8258048
+    },
+    {
+      "type": "node",
+      "id": 4779175034,
+      "lat": 34.0254478,
+      "lon": -6.8259711
+    },
+    {
+      "type": "node",
+      "id": 4779175041,
+      "lat": 34.0258655,
+      "lon": -6.8262419
+    },
+    {
+      "type": "node",
+      "id": 4779175042,
+      "lat": 34.0257079,
+      "lon": -6.8260274
+    }
+  ]
+}

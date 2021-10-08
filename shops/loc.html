@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Nearby</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+
+        <link rel="stylesheet" href="{% static 'css/styless.css' %}"> 
+
+    </head>
+    
+    <body>
+
+        <div class="sugg">
+            <ul style="padding-left:0px">
+                <li style="display:inline"><a href="{% url 'Banks' %}">Banks</a></li>
+                <li style="display:inline"><a href="{% url 'Restaurants' %}">Restaurant</a></li>
+                <li style="display:inline"><a href="{% url 'Shops' %}">Shops</a></li>
+                <li style="display:inline"><a href="{% url 'Hotels' %}">Hotels</a></li>
+            </ul>
+        </div>
+
+        <div class="wrap">
+            <form class="d-flex" method= POST >
+
+                {% csrf_token %}
+
+                <input type = "number" step="any" name="longitude" placeholder="longitude">
+                <input type = "number" step="any" name="latitude" placeholder="latitude">
+
+                <button class="btn btn-outline-secondary" name="length" type='submit' >
+                    <i class="fas fa-search"></i>
+                </button>
+
+            </form>
+            
+        </div>
+    </body>
+</html>

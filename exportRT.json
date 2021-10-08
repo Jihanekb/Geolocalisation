@@ -1,0 +1,3163 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-15T17:12:48Z",
+    "timestamp_areas_base": "2021-09-15T15:56:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 527903417,
+      "lat": 34.0276571,
+      "lon": -6.8302298,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Matelot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527903419,
+      "lat": 34.0275671,
+      "lon": -6.829779,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Blue Berry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527903421,
+      "lat": 34.0275296,
+      "lon": -6.829488,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Venezia Ice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 820325892,
+      "lat": 34.0172901,
+      "lon": -6.831868,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Rue Ghafsa",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Ty Potes",
+        "opening_hours": "Tu-Su 12:00-14:45; Th-Sa 12:00-14:45,19:00-22:46",
+        "phone": "+212 5 37 70 79 65",
+        "website": "http://typotes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 954684016,
+      "lat": 34.0202844,
+      "lon": -6.8276726,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Coq Magic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1152869977,
+      "lat": 34.0184807,
+      "lon": -6.8348346,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Mama"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153017550,
+      "lat": 34.0160907,
+      "lon": -6.8309051,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Le studio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153033252,
+      "lat": 34.0216395,
+      "lon": -6.8418268,
+      "tags": {
+        "addr:street": "Rue Jazirat Al Arab",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Dar Naji",
+        "opening_hours": "Mo-Su 12:00-00:00",
+        "phone": "+212537262528"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234613145,
+      "lat": 33.973573,
+      "lon": -6.8303753,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655636975,
+      "lat": 33.9614431,
+      "lon": -6.865253,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Antibo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1686813869,
+      "lat": 34.0154111,
+      "lon": -6.8373784,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Tajine wa Tanja",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824603881,
+      "lat": 33.983194,
+      "lon": -6.8504024,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1881125380,
+      "lat": 34.0007669,
+      "lon": -6.8495311,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Yoka Sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122740204,
+      "lat": 34.0162377,
+      "lon": -6.8322852,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2376595023,
+      "lat": 34.0186711,
+      "lon": -6.8281004,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "30",
+        "cuisine": "oriental;savory_pancakes",
+        "name": "Tam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429240932,
+      "lat": 33.9944415,
+      "lon": -6.8468964,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Taiyaki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429253210,
+      "lat": 33.994973,
+      "lon": -6.8471941,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "107 bis",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "amenity": "restaurant",
+        "name": "Terra Luna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257580,
+      "lat": 33.9955178,
+      "lon": -6.8474784,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Arthé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257588,
+      "lat": 33.9951946,
+      "lon": -6.8476035,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Grillades Adil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191128,
+      "lat": 33.996765,
+      "lon": -6.8467668,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "First Pizza",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191170,
+      "lat": 33.9969651,
+      "lon": -6.8461633,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Caesar's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191197,
+      "lat": 33.9966426,
+      "lon": -6.8471479,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Picasso",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2438950708,
+      "lat": 34.0004122,
+      "lon": -6.8463083,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La cantine du marché",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2447056565,
+      "lat": 34.0200062,
+      "lon": -6.8355982,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "7ème art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585719480,
+      "lat": 34.0217199,
+      "lon": -6.826974,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Poisson Magic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585728105,
+      "lat": 34.0220879,
+      "lon": -6.8266666,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585728106,
+      "lat": 34.0221324,
+      "lon": -6.8265915,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Gallinicta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2614581990,
+      "lat": 34.018044,
+      "lon": -6.8293215,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "40",
+        "cuisine": "french",
+        "name": "Le p'tit resto",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623534660,
+      "lat": 34.0147067,
+      "lon": -6.8307576,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Koutoubia",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2822859263,
+      "lat": 34.0198912,
+      "lon": -6.8233916,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Restaurant Nostalgia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2834620353,
+      "lat": 34.0325828,
+      "lon": -6.8382333,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Club Nautique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2849893505,
+      "lat": 33.9599811,
+      "lon": -6.8678608,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sushi Box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111466401,
+      "lat": 34.0239239,
+      "lon": -6.8307214,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Ouzoud"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3116667697,
+      "lat": 34.0163492,
+      "lon": -6.8304817,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Esperanza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3116671632,
+      "lat": 34.0165031,
+      "lon": -6.8302324,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Rive"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3189941701,
+      "lat": 34.0202439,
+      "lon": -6.8280303,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rotisserie Hassan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190085747,
+      "lat": 34.0185999,
+      "lon": -6.8281602,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Resto 3.0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3266775615,
+      "lat": 33.9996097,
+      "lon": -6.8494363,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "California"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399572676,
+      "lat": 34.0197502,
+      "lon": -6.8310487,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "name": "Sotto Sopra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399594593,
+      "lat": 34.0225091,
+      "lon": -6.8377476,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "El bahia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399596463,
+      "lat": 34.0224029,
+      "lon": -6.8383695,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Rica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400339148,
+      "lat": 34.0144277,
+      "lon": -6.8308211,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "L'R du goût"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400353975,
+      "lat": 34.013475,
+      "lon": -6.8304299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pizzeria Al Forno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400363603,
+      "lat": 34.0139406,
+      "lon": -6.8279357,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bab Essad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3408869241,
+      "lat": 34.0023958,
+      "lon": -6.8460529,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dar Naji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409211006,
+      "lat": 34.0178394,
+      "lon": -6.8293181,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Rue Er-Ryad",
+        "amenity": "restaurant",
+        "name": "La Menara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254121,
+      "lat": 34.0159872,
+      "lon": -6.8317492,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dalia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254122,
+      "lat": 34.0167808,
+      "lon": -6.8318469,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Point Chaud"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254123,
+      "lat": 34.0168945,
+      "lon": -6.832379,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pieea Vera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410380881,
+      "lat": 34.0211643,
+      "lon": -6.8315143,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Chantilly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410380883,
+      "lat": 34.021026,
+      "lon": -6.8315429,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "10000",
+        "addr:street": "Avenue Patrice Lumumba",
+        "amenity": "restaurant",
+        "name": "Zerda",
+        "name:fr": "Zerda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3417369066,
+      "lat": 34.0163656,
+      "lon": -6.82871,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Arabica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3417548199,
+      "lat": 33.9997916,
+      "lon": -6.8459747,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Gustie Sapori"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3417559335,
+      "lat": 33.9996969,
+      "lon": -6.8461436,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Le Saxo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3433430966,
+      "lat": 33.9901132,
+      "lon": -6.8497583,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "By Cap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434788503,
+      "lat": 34.0227995,
+      "lon": -6.8301512,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "restaurant",
+        "name": "Corrida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436707870,
+      "lat": 33.9546927,
+      "lon": -6.8653464,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Latium"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436728307,
+      "lat": 33.955381,
+      "lon": -6.8661613,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Cuchara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436728308,
+      "lat": 33.9554984,
+      "lon": -6.8663083,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The Noodle House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436728309,
+      "lat": 33.9534769,
+      "lon": -6.8638351,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Terrazza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436728310,
+      "lat": 33.955979,
+      "lon": -6.8666626,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Zayyane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474846529,
+      "lat": 34.0203039,
+      "lon": -6.8285313,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "name": "Mister Brochette",
+        "phone": "+212 6 74 31 77 90"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3476116018,
+      "lat": 33.9855372,
+      "lon": -6.8284958,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dar Naji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3524082553,
+      "lat": 34.0083478,
+      "lon": -6.8395114,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3644957867,
+      "lat": 33.996747,
+      "lon": -6.8460555,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:street": "Avenue Atlas",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "international",
+        "name": "Les Epices",
+        "phone": "+212537686323",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701062336,
+      "lat": 33.9954771,
+      "lon": -6.850578,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "name": "Pinchos",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119326,
+      "lat": 34.0020186,
+      "lon": -6.851874,
+      "tags": {
+        "addr:street": "Avenue Ibn Sina",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "turkish",
+        "name": "Citirusta",
+        "phone": "+212 537 773 498"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119327,
+      "lat": 34.0022176,
+      "lon": -6.8507341,
+      "tags": {
+        "addr:street": "Avenue Oqba شارع عقبة",
+        "amenity": "restaurant",
+        "cuisine": "Grillades",
+        "delivery": "yes",
+        "name": "Coq Magic",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119328,
+      "lat": 34.0058019,
+      "lon": -6.8466383,
+      "tags": {
+        "addr:street": "Avenue Oqba شارع عقبة",
+        "amenity": "restaurant",
+        "capacity": "100",
+        "delivery": "no",
+        "name": "Goethe 2.0",
+        "smoking": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119330,
+      "lat": 34.0046591,
+      "lon": -6.8469897,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "100",
+        "cuisine": "regional",
+        "name": "Chez Ouazzani",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119349,
+      "lat": 33.9977447,
+      "lon": -6.8483053,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery": "no",
+        "name": "Pinchos",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812348,
+      "lat": 34.0203191,
+      "lon": -6.8438873,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe",
+        "amenity": "restaurant",
+        "name": "Couvert d'Or"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812362,
+      "lat": 34.0190386,
+      "lon": -6.8361921,
+      "tags": {
+        "addr:street": "Avenue Mohamed V",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "french",
+        "name": "Le Grand Comptoir",
+        "smoking": "yes",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812393,
+      "lat": 34.0034395,
+      "lon": -6.8490975,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "french",
+        "name": "Le Bartoldi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761782560,
+      "lat": 34.0206193,
+      "lon": -6.8267618,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Zumbra Jus",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761829461,
+      "lat": 34.0196745,
+      "lon": -6.8258324,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Restaurant - Rotisserie Aya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761829462,
+      "lat": 34.0199457,
+      "lon": -6.8258512,
+      "tags": {
+        "addr:street": "Avenue Al Alaouiyine",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Addik Snack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761830875,
+      "lat": 34.020198,
+      "lon": -6.8256071,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "La passerelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761873889,
+      "lat": 34.0207647,
+      "lon": -6.824351,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Happy Fish"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761875140,
+      "lat": 34.0205304,
+      "lon": -6.8242096,
+      "tags": {
+        "addr:street": "Rue Zagora Hassan",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Santo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762256960,
+      "lat": 34.018773,
+      "lon": -6.8254374,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Le Mare Nostrum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762282957,
+      "lat": 34.0192771,
+      "lon": -6.8256076,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Sens du goût",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772188002,
+      "lat": 34.0175478,
+      "lon": -6.8277983,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "La Brasserie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3778163867,
+      "lat": 34.0206468,
+      "lon": -6.8305218,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pilippe Rey. Petit Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780664458,
+      "lat": 34.0213371,
+      "lon": -6.8262187,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Croquette"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801907559,
+      "lat": 34.0218622,
+      "lon": -6.831376,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "saada food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801918557,
+      "lat": 34.0214867,
+      "lon": -6.8306375,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "restaurant",
+        "name": "exotic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807082657,
+      "lat": 34.0184978,
+      "lon": -6.8260252,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Chiwates du terroir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3898242991,
+      "lat": 34.016457,
+      "lon": -6.8507726,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Restaurant Riyad Al Hassan",
+        "phone": "0534600788"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3923290881,
+      "lat": 34.0007034,
+      "lon": -6.8459905,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Le Georges"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3945689600,
+      "lat": 34.0156052,
+      "lon": -6.8211928,
+      "tags": {
+        "addr:city": "Rabat  الرباط",
+        "addr:city:ar": "الرباط",
+        "addr:housenumber": "2bis",
+        "addr:housenumber:ar": "2 أ",
+        "addr:postcode": "10000",
+        "addr:street": "Avenue Ahmed El Yazidi شارع أحمد اليزيدي",
+        "addr:street:ar": "شارع أحمد اليزيدي",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Giardino الجيردينو",
+        "name:ar": "الجيردينو",
+        "name:fr": "Il Giardino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980286199,
+      "lat": 34.0179112,
+      "lon": -6.8514265,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Tout Va Bien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980321316,
+      "lat": 34.0176887,
+      "lon": -6.8518931,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Risse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4000728974,
+      "lat": 33.9581699,
+      "lon": -6.872866,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Grillardiere"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061643770,
+      "lat": 34.0177968,
+      "lon": -6.8253706,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "L'hacienda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4131533273,
+      "lat": 34.0253428,
+      "lon": -6.8461406,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Tacos De Mexico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4153519989,
+      "lat": 34.0181794,
+      "lon": -6.8341539,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "kebab",
+        "name": "Al Fanous"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4165595898,
+      "lat": 34.0167421,
+      "lon": -6.8238134,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "l'escale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4174410289,
+      "lat": 34.0243524,
+      "lon": -6.8313973,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "restaurant",
+        "name": "goût du détroit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230705953,
+      "lat": 34.0178999,
+      "lon": -6.8344944,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Paparotti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658882,
+      "lat": 34.0175977,
+      "lon": -6.834841,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger;steak_house",
+        "name": "Anoual Grillade",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851395,
+      "lat": 34.0200798,
+      "lon": -6.8497348,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291852591,
+      "lat": 34.0253139,
+      "lon": -6.8461605,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Tacos de Mexico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4550007496,
+      "lat": 34.0246188,
+      "lon": -6.847127,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "restaurant le mandarin",
+        "name:en": "restaurant le mandarin",
+        "name:fr": "restaurant le mandarin",
+        "website": "http://www.lemandarin.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4551931089,
+      "lat": 34.0214861,
+      "lon": -6.8484941,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Restaurant Tian An Men Chinois",
+        "name:en": "Restaurant Tian An Men Chinois",
+        "name:fr": "Restaurant Tian An Men Chinois"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743897,
+      "lat": 34.0223029,
+      "lon": -6.8466163,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Mirabilis",
+        "name:fr": "Mirabilis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588889954,
+      "lat": 34.0208864,
+      "lon": -6.8427846,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Avenue Maghreb Arabe شارع المغرب العربي",
+        "amenity": "restaurant",
+        "cuisine": "syrian",
+        "internet_access": "wlan",
+        "name": "Al Shami",
+        "opening_hours": "10:00-1:00",
+        "phone": "+212 537 262 629"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631853803,
+      "lat": 33.9906956,
+      "lon": -6.826108,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La Flambée"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4635080690,
+      "lat": 33.9902694,
+      "lon": -6.8514909,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Villa M"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4715189404,
+      "lat": 34.0263347,
+      "lon": -6.8336183,
+      "tags": {
+        "addr:city": "الرباط",
+        "addr:housenumber": "3",
+        "addr:postcode": "10100",
+        "addr:street": "Rue Benjelloul, Souk sebat Medina",
+        "amenity": "restaurant",
+        "cuisine": "african;moroccan",
+        "internet_access": "wlan",
+        "name": "Dar El Medina",
+        "phone": "+212 634-007113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771573121,
+      "lat": 33.9979129,
+      "lon": -6.8476144,
+      "tags": {
+        "addr:street": "Avenue de France شارع فرنسا",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "شجرة الصنوبر",
+        "name:ar": "شجرة الصنوبر",
+        "name:en": "Pin house",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4784366822,
+      "lat": 34.000914,
+      "lon": -6.8439043,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Kung Fu",
+        "name:zh": "功夫餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792445831,
+      "lat": 34.0205096,
+      "lon": -6.8431608,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "syrian",
+        "name": "Yamal Acham",
+        "phone": "+212 537 720 276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4848024122,
+      "lat": 34.0176714,
+      "lon": -6.8348919,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "le petit beur",
+        "name:fr": "le petit beur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4849901424,
+      "lat": 34.0244389,
+      "lon": -6.8393538,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975972937,
+      "lat": 33.9551279,
+      "lon": -6.8942507,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5103407454,
+      "lat": 34.0163626,
+      "lon": -6.8345566,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "name": "Mr. Brochette"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5106350166,
+      "lat": 34.0013919,
+      "lon": -6.8503468,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "turkish",
+        "name": "Istanbul Express - Turkish Restaurant",
+        "phone": "+212 537 680 606"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5106359059,
+      "lat": 34.0014813,
+      "lon": -6.8503934,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "JaponeZa",
+        "phone": "+212537686871"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5140213318,
+      "lat": 33.9893312,
+      "lon": -6.8509776,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Domino's Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5212859728,
+      "lat": 34.0156829,
+      "lon": -6.8344541,
+      "tags": {
+        "addr:housenumber": "471",
+        "addr:street": "Avenue Mohamed V",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "email": "zoomfoodrabat@Gmail.com",
+        "internet_access": "wlan",
+        "name": "Zoom Pizza",
+        "phone": "0537208327"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5233654531,
+      "lat": 33.9965487,
+      "lon": -6.8453441,
+      "tags": {
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Le limonadier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268844089,
+      "lat": 33.9986388,
+      "lon": -6.84561,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "miss one"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268909789,
+      "lat": 33.9979411,
+      "lon": -6.846885,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pizzaria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587539721,
+      "lat": 34.0217604,
+      "lon": -6.831512,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "restaurant",
+        "name": "Mondolini Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5691011722,
+      "lat": 34.0235888,
+      "lon": -6.8388323,
+      "tags": {
+        "addr:city": "الرباط",
+        "addr:housenumber": "256",
+        "addr:street": "Avenue Mohamed V شارع محمد الخامس",
+        "amenity": "restaurant",
+        "cuisine": "moroccan",
+        "name": "Restaurant de la liberation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5691018122,
+      "lat": 34.0238059,
+      "lon": -6.8389547,
+      "tags": {
+        "addr:housenumber": "256",
+        "addr:street": "Avenue Mohamed V شارع محمد الخامس",
+        "amenity": "restaurant",
+        "cuisine": "moroccan",
+        "name": "Restaurant de la Liberation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5767000090,
+      "lat": 34.0173435,
+      "lon": -6.8303257,
+      "tags": {
+        "addr:street": "Rue Moulay Ali Cherif",
+        "amenity": "restaurant",
+        "name": "Snoopy Burger",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379785,
+      "lat": 34.0166521,
+      "lon": -6.8508071,
+      "tags": {
+        "addr:street": "Rue Al Hind",
+        "amenity": "restaurant",
+        "name": "Lys Rose",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379801,
+      "lat": 34.0146823,
+      "lon": -6.8506596,
+      "tags": {
+        "addr:street": "Avenue Madagascar",
+        "amenity": "restaurant",
+        "name": "Hungry Birds",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771913100,
+      "lat": 34.0227635,
+      "lon": -6.8502653,
+      "tags": {
+        "addr:street": "Rue Seddik Hsain زنقة الصديق حساين",
+        "amenity": "restaurant",
+        "name": "Sultina",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771913134,
+      "lat": 34.0216642,
+      "lon": -6.8470895,
+      "tags": {
+        "addr:street": "Rue Paris زنقة باريس",
+        "amenity": "restaurant",
+        "name": "Sun Way",
+        "smoking": "outside",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774156686,
+      "lat": 34.01457,
+      "lon": -6.8288156,
+      "tags": {
+        "addr:street": "Avenue Patrice Lumumba",
+        "amenity": "restaurant",
+        "name": "Ardeco Cuisine and Parquet",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774156698,
+      "lat": 34.0122756,
+      "lon": -6.8271165,
+      "tags": {
+        "addr:street": "Rue Moulay Ali Cherif",
+        "amenity": "restaurant",
+        "name": "Restaurant Les 2 Palais",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780118578,
+      "lat": 34.0061634,
+      "lon": -6.8473631,
+      "tags": {
+        "addr:street": "Rue Al Achaari",
+        "amenity": "restaurant",
+        "name": "Globe Restaurant",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780118579,
+      "lat": 34.0055219,
+      "lon": -6.8470077,
+      "tags": {
+        "addr:street": "Avenue Oqba",
+        "amenity": "restaurant",
+        "name": "Reggio",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780118581,
+      "lat": 34.0060444,
+      "lon": -6.8463673,
+      "tags": {
+        "addr:street": "Avenue Oqba",
+        "amenity": "restaurant",
+        "name": "Restaurant Havana",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780118582,
+      "lat": 34.0060867,
+      "lon": -6.8463211,
+      "tags": {
+        "addr:street": "Avenue Oqba",
+        "amenity": "restaurant",
+        "name": "Restaurant Pizza Musique & Expo",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780118583,
+      "lat": 34.0061223,
+      "lon": -6.8462835,
+      "tags": {
+        "addr:street": "Avenue Oqba",
+        "amenity": "restaurant",
+        "name": "Bistrot Burger",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555397,
+      "lat": 33.9956645,
+      "lon": -6.8497382,
+      "tags": {
+        "addr:street": "Avenue Atlas",
+        "amenity": "restaurant",
+        "name": "Sushi Box",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555408,
+      "lat": 33.9976548,
+      "lon": -6.8510203,
+      "tags": {
+        "addr:street": "Avenue Ibn Sina",
+        "amenity": "restaurant",
+        "name": "Angelo Nardelli",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782838143,
+      "lat": 34.000063,
+      "lon": -6.8482053,
+      "tags": {
+        "addr:street": "Rue Oued Baht",
+        "amenity": "restaurant",
+        "name": "Adelis",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782839857,
+      "lat": 34.0051773,
+      "lon": -6.848094,
+      "tags": {
+        "addr:street": "Avenue de Bin El Ouidane",
+        "amenity": "restaurant",
+        "name": "La Italiana",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784542755,
+      "lat": 33.9997651,
+      "lon": -6.8445937,
+      "tags": {
+        "addr:street": "Avenue Omar Ibn Khattab",
+        "amenity": "restaurant",
+        "name": "La Galerie",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5890468189,
+      "lat": 34.0267279,
+      "lon": -6.8339196,
+      "tags": {
+        "addr:housenumber": "23",
+        "addr:postcode": "10000",
+        "addr:street": "Rue Moulay Brahim, Old Medina",
+        "amenity": "restaurant",
+        "email": "info@darzaki.com",
+        "name": "Dar Zaki",
+        "name:fr": "Dar Zaki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5892403685,
+      "lat": 34.0218033,
+      "lon": -6.8467944,
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Tacos Avenue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5988944687,
+      "lat": 34.015457,
+      "lon": -6.8348345,
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Grill 23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6093488585,
+      "lat": 34.0163587,
+      "lon": -6.8598653,
+      "tags": {
+        "addr:street": "Douar el askar",
+        "amenity": "restaurant",
+        "cuisine": "fish;pancake;deli;arab;moroccan",
+        "name": "حميدو",
+        "name:ar": "حميدو",
+        "name:en": "Hamido",
+        "name:fr": "Hamido"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164526685,
+      "lat": 34.0159822,
+      "lon": -6.8346564,
+      "tags": {
+        "addr:housenumber": "437",
+        "addr:street": "Avenue Mohamed V شارع محمد الخامس",
+        "amenity": "restaurant",
+        "cuisine": "lebanese",
+        "name": "Säidoune",
+        "name:en": "Saidoune"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6281555886,
+      "lat": 34.0015073,
+      "lon": -6.8468562,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "شوارما مازن الشام",
+        "name:ar": "شوارما مازن الشام",
+        "name:fr": "Chawarma Maeen Cham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6424286296,
+      "lat": 34.0254836,
+      "lon": -6.8283796,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza;coffee_shop",
+        "name:en": "Ladies and gentelmen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6424286297,
+      "lat": 34.0251745,
+      "lon": -6.8291619,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza;barbecue;chicken;pizza;burger;pasta;moroccan;local",
+        "name:en": "Snack Figuid"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6424286298,
+      "lat": 34.0163199,
+      "lon": -6.8348973,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza;pizza",
+        "name:en": "Pizza capri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6424286788,
+      "lat": 34.0155281,
+      "lon": -6.8351045,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza;pizza;moroccan;sandwich",
+        "name:en": "Midi soir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6443917587,
+      "lat": 34.0198572,
+      "lon": -6.8345092,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "La Ruche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6567607585,
+      "lat": 34.0259778,
+      "lon": -6.8396469,
+      "tags": {
+        "addr:city": "الرباط",
+        "amenity": "restaurant",
+        "name": "Good Way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6796031187,
+      "lat": 34.0209726,
+      "lon": -6.8315614,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dar Safran"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6907295385,
+      "lat": 34.0274972,
+      "lon": -6.8342086,
+      "tags": {
+        "addr:city": "الرباط",
+        "amenity": "restaurant",
+        "cuisine": "moroccan",
+        "name": "Le Ziryab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7006652772,
+      "lat": 33.9938546,
+      "lon": -6.8492639,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Be Wok"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7006674722,
+      "lat": 33.9815635,
+      "lon": -6.8644706,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Campus Al Irfane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7006682369,
+      "lat": 33.9815383,
+      "lon": -6.8643642,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7182605620,
+      "lat": 34.0171042,
+      "lon": -6.8349251,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "La passion du jus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185006100,
+      "lat": 33.9833478,
+      "lon": -6.8287415,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:housenumber": "173",
+        "addr:street": "Avenue Mohammed VI شارع محمد السادس",
+        "amenity": "restaurant",
+        "cuisine": "tropical",
+        "name": "MAYA-Restaurant lounge",
+        "opening_hours": "12:00-15:00,19:00-2:00",
+        "phone": "+212-668-064110",
+        "website": "https://maya-cantina-tropical.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185300117,
+      "lat": 33.9840851,
+      "lon": -6.8285645,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:postcode": "10000",
+        "addr:street": "Avenue Mohammed VI شارع محمد السادس",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "la rambla",
+        "opening_hours": "12:00-15:00,19:00-2:00",
+        "phone": "0600-123965",
+        "website": "https://www.facebook.com/pages/category/Restaurant/La-Rambla-Rabat-104818921050839/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7191502532,
+      "lat": 33.9751172,
+      "lon": -6.8576625,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Chez guedi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7211581185,
+      "lat": 34.015618,
+      "lon": -6.8355673,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "arab",
+        "name": "911"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7814955178,
+      "lat": 33.9562758,
+      "lon": -6.8673451,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La piz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7814955179,
+      "lat": 33.956403,
+      "lon": -6.8674977,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Twin apple"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8119378672,
+      "lat": 34.0031943,
+      "lon": -6.8453073,
+      "tags": {
+        "addr:city": "rabat",
+        "addr:housenumber": "18",
+        "addr:postcode": "10000",
+        "addr:street": "Avenue Omar Ibn Al Khattab",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "mitsuki sushi",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "phone": "+212662162107",
+        "website": "https://www.instagram.com/mitsuki.rabat/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8183930918,
+      "lat": 33.9961734,
+      "lon": -6.8554125,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "local"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8190556046,
+      "lat": 34.0210439,
+      "lon": -6.8421435,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8193704748,
+      "lat": 33.9913637,
+      "lon": -6.8511906,
+      "tags": {
+        "alt_name": "5B",
+        "amenity": "restaurant",
+        "name": "Les Cinq B",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+212537672100"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8290415617,
+      "lat": 34.0099602,
+      "lon": -6.8433838,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name:fr": "La Cerveceria",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "phone": "+212530303432",
+        "website": "https://m.facebook.com/LaCerveceriaRabat/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8301253283,
+      "lat": 33.989165,
+      "lon": -6.8513037,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Too much (El Chapo)",
+        "opening_hours": "Mo-Su 11:00-03:00; PH off",
+        "phone": "+212661113838"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8308461617,
+      "lat": 34.0024606,
+      "lon": -6.8509401,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "arab",
+        "name": "Yamal Acham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8308461618,
+      "lat": 34.0021734,
+      "lon": -6.8505314,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Clandestino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8388134817,
+      "lat": 34.0208301,
+      "lon": -6.8304208,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "مطعم سفره",
+        "name:en": "Restaurant Sufra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8401946794,
+      "lat": 33.9962299,
+      "lon": -6.8474284,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:housenumber": "23",
+        "addr:street": "Avenue Atlas شارع الأطلس",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean;coffee_shop",
+        "diet:halal": "yes",
+        "diet:healthy": "yes",
+        "name": "Restaurant Gardenia",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "takeaway": "yes",
+        "website": "https://www.gardeniarabat.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8420288917,
+      "lat": 33.9794775,
+      "lon": -6.8956636,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "local;regional",
+        "name": "Dar Naji",
+        "opening_hours": "Tu-Su 11:00-00:00",
+        "phone": "+212662888005"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8431740217,
+      "lat": 34.0013525,
+      "lon": -6.8467198,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "arab",
+        "email": "maisonbeyrouth@gmail.com",
+        "internet_access": "wlan",
+        "name": "Maison Beyrouth",
+        "phone": "+212537686309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8482056617,
+      "lat": 34.0012824,
+      "lon": -6.8503064,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Maya Sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8606559874,
+      "lat": 34.0008296,
+      "lon": -6.8565175,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "MOOJOOD",
+        "phone": "+212537297940",
+        "website": "http://moojood.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8772400717,
+      "lat": 34.0006373,
+      "lon": -6.8567255,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "موجود",
+        "name:en": "Moojood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8783674457,
+      "lat": 33.9561737,
+      "lon": -6.868444,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Eat Néocantine",
+        "phone": "+212661444684"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911080217,
+      "lat": 34.003439,
+      "lon": -6.8463787,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "local;regional",
+        "internet_access": "wlan",
+        "name": "Allo Beldi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9070638117,
+      "lat": 33.9923007,
+      "lon": -6.8829307,
+      "tags": {
+        "amenity": "restaurant",
+        "name:fr": "Poissons El Alami",
+        "phone": "0537792609"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258265963,
+      "nodes": [
+        2636533641,
+        2636533636,
+        2636533638,
+        2636533633,
+        2636533640,
+        2636533643,
+        2636533646,
+        2636533630,
+        2636533635,
+        2636533632,
+        2636533639,
+        2636533644,
+        2636533634,
+        2636533629,
+        2636533637,
+        2636533645,
+        2636533631,
+        2636533642,
+        2636533641
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Naloub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 279311856,
+      "nodes": [
+        2835335795,
+        2835335796,
+        2835335797,
+        2835335798,
+        2835335799,
+        2835335800,
+        2835335801,
+        2835335802,
+        2835335803,
+        2835335804,
+        2835335805,
+        2835335806,
+        2835335807,
+        2835335808,
+        2835335795
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Nejma"
+      }
+    },
+    {
+      "type": "way",
+      "id": 280430004,
+      "nodes": [
+        2845457357,
+        2845457358,
+        2845457359,
+        2845457360,
+        2845457361,
+        2845457362,
+        2845457363,
+        2845457364,
+        2845457365,
+        2845457366,
+        2845457367,
+        2845457368,
+        2845457369,
+        2845457370,
+        2845457371,
+        2845457372,
+        2845457373,
+        2845457374,
+        2845457375,
+        2845457376,
+        2845457377,
+        2845457378,
+        2845457379,
+        2845457380,
+        2845457381,
+        2845457382,
+        2845457383,
+        2845457384,
+        2845457385,
+        2845457386,
+        2845457387,
+        2845457388,
+        2845457389,
+        2845457390,
+        2845457391,
+        2845457392,
+        2845457393,
+        2845457394,
+        2845457395,
+        2845457396,
+        2845457397,
+        2845457398,
+        2845457399,
+        2845457400,
+        2845457601,
+        2845457602,
+        2845457603,
+        2845457604,
+        2845457357
+      ],
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "burger;pizza;sandwich;coffee_shop;regional",
+        "diet:halal": "yes",
+        "name": "مطعم النرجس",
+        "name:ar": "مطعم النرجس",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "opening_hours:covid19": "same"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395452766,
+      "nodes": [
+        3983112145,
+        3983112081,
+        3983113373,
+        3983112155,
+        3983112145
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Tazaj"
+      }
+    },
+    {
+      "type": "way",
+      "id": 449071750,
+      "nodes": [
+        4460418635,
+        4460418636,
+        4460418637,
+        4460418638,
+        4460418639,
+        4460418640,
+        4460418641,
+        4460418630,
+        4460418642,
+        4460418643,
+        4460418644,
+        4460418645,
+        4460418646,
+        4460418647,
+        3705833204,
+        4460418649,
+        4460418650,
+        4460418651,
+        4460418652,
+        4460418653,
+        4460418654,
+        4460418655,
+        4460418635
+      ],
+      "tags": {
+        "addr:street": "Rue Abderahmane Ghafiqi زنقة عبد الرحمن الغافقي",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sushi",
+        "name": "16"
+      }
+    },
+    {
+      "type": "way",
+      "id": 745643338,
+      "nodes": [
+        2429228653,
+        2429240906,
+        6979292188,
+        6979292189,
+        2429228653
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Tacos de Lyon."
+      }
+    },
+    {
+      "type": "way",
+      "id": 769118879,
+      "nodes": [
+        7179581152,
+        7179581153,
+        7179581154,
+        4498842472,
+        7179581155,
+        7179581156,
+        7179581152
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 871716038,
+      "nodes": [
+        8119391434,
+        8119391435,
+        8119391436,
+        8119391437,
+        8119391434
+      ],
+      "tags": {
+        "addr:city": "rabat",
+        "addr:postcode": "10000",
+        "addr:street": "gare agdal",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sushi",
+        "image": "https://www.instagram.com/p/BvuF24WjJRh/",
+        "name": "mitsuki sushi gare agdal",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "phone": "+212662162107",
+        "reservation": "yes",
+        "stars": "4",
+        "takeaway": "yes",
+        "website": "https://www.instagram.com/mitsuki.rabat/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 902979786,
+      "nodes": [
+        8386741406,
+        8386741403,
+        8386741404,
+        8386741405,
+        8386741406
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Le Four A Bois",
+        "opening_hours": "Mo-Sa 07:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636533629,
+      "lat": 33.9523319,
+      "lon": -6.8973146
+    },
+    {
+      "type": "node",
+      "id": 2636533630,
+      "lat": 33.9522488,
+      "lon": -6.8972584
+    },
+    {
+      "type": "node",
+      "id": 2636533631,
+      "lat": 33.9523084,
+      "lon": -6.8973782
+    },
+    {
+      "type": "node",
+      "id": 2636533632,
+      "lat": 33.9522835,
+      "lon": -6.8972523
+    },
+    {
+      "type": "node",
+      "id": 2636533633,
+      "lat": 33.9522173,
+      "lon": -6.897337
+    },
+    {
+      "type": "node",
+      "id": 2636533634,
+      "lat": 33.9523265,
+      "lon": -6.8972912
+    },
+    {
+      "type": "node",
+      "id": 2636533635,
+      "lat": 33.9522633,
+      "lon": -6.8972526
+    },
+    {
+      "type": "node",
+      "id": 2636533636,
+      "lat": 33.9522449,
+      "lon": -6.8973822
+    },
+    {
+      "type": "node",
+      "id": 2636533637,
+      "lat": 33.9523304,
+      "lon": -6.8973392
+    },
+    {
+      "type": "node",
+      "id": 2636533638,
+      "lat": 33.9522251,
+      "lon": -6.8973595
+    },
+    {
+      "type": "node",
+      "id": 2636533639,
+      "lat": 33.9523013,
+      "lon": -6.8972596
+    },
+    {
+      "type": "node",
+      "id": 2636533640,
+      "lat": 33.9522164,
+      "lon": -6.8973122
+    },
+    {
+      "type": "node",
+      "id": 2636533641,
+      "lat": 33.9522639,
+      "lon": -6.8973906
+    },
+    {
+      "type": "node",
+      "id": 2636533642,
+      "lat": 33.9522903,
+      "lon": -6.8973889
+    },
+    {
+      "type": "node",
+      "id": 2636533643,
+      "lat": 33.9522225,
+      "lon": -6.897289
+    },
+    {
+      "type": "node",
+      "id": 2636533644,
+      "lat": 33.9523173,
+      "lon": -6.8972746
+    },
+    {
+      "type": "node",
+      "id": 2636533645,
+      "lat": 33.952322,
+      "lon": -6.8973614
+    },
+    {
+      "type": "node",
+      "id": 2636533646,
+      "lat": 33.9522324,
+      "lon": -6.8972726
+    },
+    {
+      "type": "node",
+      "id": 2835335795,
+      "lat": 33.9612365,
+      "lon": -6.8850553
+    },
+    {
+      "type": "node",
+      "id": 2835335796,
+      "lat": 33.9611978,
+      "lon": -6.8850156
+    },
+    {
+      "type": "node",
+      "id": 2835335797,
+      "lat": 33.961161,
+      "lon": -6.88506
+    },
+    {
+      "type": "node",
+      "id": 2835335798,
+      "lat": 33.9611164,
+      "lon": -6.8850868
+    },
+    {
+      "type": "node",
+      "id": 2835335799,
+      "lat": 33.9610719,
+      "lon": -6.8850927
+    },
+    {
+      "type": "node",
+      "id": 2835335800,
+      "lat": 33.9610196,
+      "lon": -6.8850646
+    },
+    {
+      "type": "node",
+      "id": 2835335801,
+      "lat": 33.9609818,
+      "lon": -6.8850226
+    },
+    {
+      "type": "node",
+      "id": 2835335802,
+      "lat": 33.9609663,
+      "lon": -6.8849806
+    },
+    {
+      "type": "node",
+      "id": 2835335803,
+      "lat": 33.9609237,
+      "lon": -6.8850016
+    },
+    {
+      "type": "node",
+      "id": 2835335804,
+      "lat": 33.9609441,
+      "lon": -6.8850611
+    },
+    {
+      "type": "node",
+      "id": 2835335805,
+      "lat": 33.9609925,
+      "lon": -6.8851172
+    },
+    {
+      "type": "node",
+      "id": 2835335806,
+      "lat": 33.9610554,
+      "lon": -6.8851464
+    },
+    {
+      "type": "node",
+      "id": 2835335807,
+      "lat": 33.9611193,
+      "lon": -6.8851487
+    },
+    {
+      "type": "node",
+      "id": 2835335808,
+      "lat": 33.9611881,
+      "lon": -6.8851137
+    },
+    {
+      "type": "node",
+      "id": 2845457357,
+      "lat": 33.9688928,
+      "lon": -6.8796001
+    },
+    {
+      "type": "node",
+      "id": 2845457358,
+      "lat": 33.9689043,
+      "lon": -6.8796174
+    },
+    {
+      "type": "node",
+      "id": 2845457359,
+      "lat": 33.9690262,
+      "lon": -6.8796157
+    },
+    {
+      "type": "node",
+      "id": 2845457360,
+      "lat": 33.9690218,
+      "lon": -6.8796723
+    },
+    {
+      "type": "node",
+      "id": 2845457361,
+      "lat": 33.9690335,
+      "lon": -6.8797271
+    },
+    {
+      "type": "node",
+      "id": 2845457362,
+      "lat": 33.9690526,
+      "lon": -6.8797678
+    },
+    {
+      "type": "node",
+      "id": 2845457363,
+      "lat": 33.9690746,
+      "lon": -6.8798032
+    },
+    {
+      "type": "node",
+      "id": 2845457364,
+      "lat": 33.9691083,
+      "lon": -6.8798351
+    },
+    {
+      "type": "node",
+      "id": 2845457365,
+      "lat": 33.9691436,
+      "lon": -6.8798581
+    },
+    {
+      "type": "node",
+      "id": 2845457366,
+      "lat": 33.9691861,
+      "lon": -6.879874
+    },
+    {
+      "type": "node",
+      "id": 2845457367,
+      "lat": 33.9692287,
+      "lon": -6.8798722
+    },
+    {
+      "type": "node",
+      "id": 2845457368,
+      "lat": 33.9692683,
+      "lon": -6.8798616
+    },
+    {
+      "type": "node",
+      "id": 2845457369,
+      "lat": 33.969305,
+      "lon": -6.8798457
+    },
+    {
+      "type": "node",
+      "id": 2845457370,
+      "lat": 33.9693358,
+      "lon": -6.8798192
+    },
+    {
+      "type": "node",
+      "id": 2845457371,
+      "lat": 33.9693593,
+      "lon": -6.8797873
+    },
+    {
+      "type": "node",
+      "id": 2845457372,
+      "lat": 33.9693828,
+      "lon": -6.8797484
+    },
+    {
+      "type": "node",
+      "id": 2845457373,
+      "lat": 33.9693931,
+      "lon": -6.8797077
+    },
+    {
+      "type": "node",
+      "id": 2845457374,
+      "lat": 33.9694019,
+      "lon": -6.8796634
+    },
+    {
+      "type": "node",
+      "id": 2845457375,
+      "lat": 33.9694826,
+      "lon": -6.8796794
+    },
+    {
+      "type": "node",
+      "id": 2845457376,
+      "lat": 33.9694708,
+      "lon": -6.879736
+    },
+    {
+      "type": "node",
+      "id": 2845457377,
+      "lat": 33.9694534,
+      "lon": -6.8797893
+    },
+    {
+      "type": "node",
+      "id": 2845457378,
+      "lat": 33.9694723,
+      "lon": -6.8798014
+    },
+    {
+      "type": "node",
+      "id": 2845457379,
+      "lat": 33.969449,
+      "lon": -6.8798497
+    },
+    {
+      "type": "node",
+      "id": 2845457380,
+      "lat": 33.9694379,
+      "lon": -6.8798416
+    },
+    {
+      "type": "node",
+      "id": 2845457381,
+      "lat": 33.9694078,
+      "lon": -6.8798872
+    },
+    {
+      "type": "node",
+      "id": 2845457382,
+      "lat": 33.9694145,
+      "lon": -6.8798993
+    },
+    {
+      "type": "node",
+      "id": 2845457383,
+      "lat": 33.96937,
+      "lon": -6.8799368
+    },
+    {
+      "type": "node",
+      "id": 2845457384,
+      "lat": 33.9693645,
+      "lon": -6.8799261
+    },
+    {
+      "type": "node",
+      "id": 2845457385,
+      "lat": 33.9693211,
+      "lon": -6.8799529
+    },
+    {
+      "type": "node",
+      "id": 2845457386,
+      "lat": 33.9693244,
+      "lon": -6.8799677
+    },
+    {
+      "type": "node",
+      "id": 2845457387,
+      "lat": 33.9692721,
+      "lon": -6.8799838
+    },
+    {
+      "type": "node",
+      "id": 2845457388,
+      "lat": 33.969271,
+      "lon": -6.8799704
+    },
+    {
+      "type": "node",
+      "id": 2845457389,
+      "lat": 33.9692299,
+      "lon": -6.8799771
+    },
+    {
+      "type": "node",
+      "id": 2845457390,
+      "lat": 33.9692288,
+      "lon": -6.8799985
+    },
+    {
+      "type": "node",
+      "id": 2845457391,
+      "lat": 33.9691776,
+      "lon": -6.8799931
+    },
+    {
+      "type": "node",
+      "id": 2845457392,
+      "lat": 33.9691765,
+      "lon": -6.8799811
+    },
+    {
+      "type": "node",
+      "id": 2845457393,
+      "lat": 33.9691298,
+      "lon": -6.8799704
+    },
+    {
+      "type": "node",
+      "id": 2845457394,
+      "lat": 33.9691275,
+      "lon": -6.8799824
+    },
+    {
+      "type": "node",
+      "id": 2845457395,
+      "lat": 33.9690853,
+      "lon": -6.879965
+    },
+    {
+      "type": "node",
+      "id": 2845457396,
+      "lat": 33.9690475,
+      "lon": -6.8799395
+    },
+    {
+      "type": "node",
+      "id": 2845457397,
+      "lat": 33.9690197,
+      "lon": -6.8799167
+    },
+    {
+      "type": "node",
+      "id": 2845457398,
+      "lat": 33.9690263,
+      "lon": -6.879906
+    },
+    {
+      "type": "node",
+      "id": 2845457399,
+      "lat": 33.9689963,
+      "lon": -6.8798724
+    },
+    {
+      "type": "node",
+      "id": 2845457400,
+      "lat": 33.9689718,
+      "lon": -6.8798336
+    },
+    {
+      "type": "node",
+      "id": 2845457601,
+      "lat": 33.9689607,
+      "lon": -6.8798014
+    },
+    {
+      "type": "node",
+      "id": 2845457602,
+      "lat": 33.9689485,
+      "lon": -6.8797678
+    },
+    {
+      "type": "node",
+      "id": 2845457603,
+      "lat": 33.9689084,
+      "lon": -6.8798054
+    },
+    {
+      "type": "node",
+      "id": 2845457604,
+      "lat": 33.9688234,
+      "lon": -6.8796575
+    },
+    {
+      "type": "node",
+      "id": 7179581152,
+      "lat": 33.9833482,
+      "lon": -6.8495462
+    },
+    {
+      "type": "node",
+      "id": 7179581156,
+      "lat": 33.9803068,
+      "lon": -6.8489482
+    },
+    {
+      "type": "node",
+      "id": 4498842472,
+      "lat": 33.9799704,
+      "lon": -6.8475607
+    },
+    {
+      "type": "node",
+      "id": 7179581154,
+      "lat": 33.9819608,
+      "lon": -6.8454308
+    },
+    {
+      "type": "node",
+      "id": 7179581155,
+      "lat": 33.9805963,
+      "lon": -6.8483385
+    },
+    {
+      "type": "node",
+      "id": 7179581153,
+      "lat": 33.9841358,
+      "lon": -6.8486698
+    },
+    {
+      "type": "node",
+      "id": 8119391434,
+      "lat": 34.000884,
+      "lon": -6.8573565
+    },
+    {
+      "type": "node",
+      "id": 8119391435,
+      "lat": 34.0008412,
+      "lon": -6.8574112
+    },
+    {
+      "type": "node",
+      "id": 8119391436,
+      "lat": 34.0007198,
+      "lon": -6.8572806
+    },
+    {
+      "type": "node",
+      "id": 8119391437,
+      "lat": 34.0007653,
+      "lon": -6.8572258
+    },
+    {
+      "type": "node",
+      "id": 8386741403,
+      "lat": 33.9970888,
+      "lon": -6.8592351
+    },
+    {
+      "type": "node",
+      "id": 8386741404,
+      "lat": 33.9971148,
+      "lon": -6.8593148
+    },
+    {
+      "type": "node",
+      "id": 8386741405,
+      "lat": 33.9973255,
+      "lon": -6.859215
+    },
+    {
+      "type": "node",
+      "id": 8386741406,
+      "lat": 33.9972996,
+      "lon": -6.8591353
+    },
+    {
+      "type": "node",
+      "id": 3983112081,
+      "lat": 33.9952565,
+      "lon": -6.850056
+    },
+    {
+      "type": "node",
+      "id": 3983112145,
+      "lat": 33.9953165,
+      "lon": -6.8498602
+    },
+    {
+      "type": "node",
+      "id": 3983112155,
+      "lat": 33.9954444,
+      "lon": -6.8499219
+    },
+    {
+      "type": "node",
+      "id": 3983113373,
+      "lat": 33.9953753,
+      "lon": -6.8501184
+    },
+    {
+      "type": "node",
+      "id": 2429228653,
+      "lat": 33.9945401,
+      "lon": -6.847007
+    },
+    {
+      "type": "node",
+      "id": 2429240906,
+      "lat": 33.9945554,
+      "lon": -6.8469703
+    },
+    {
+      "type": "node",
+      "id": 6979292188,
+      "lat": 33.9944766,
+      "lon": -6.8469251
+    },
+    {
+      "type": "node",
+      "id": 6979292189,
+      "lat": 33.9944622,
+      "lon": -6.8469619
+    },
+    {
+      "type": "node",
+      "id": 3705833204,
+      "lat": 34.0016685,
+      "lon": -6.8543301
+    },
+    {
+      "type": "node",
+      "id": 4460418630,
+      "lat": 34.0017485,
+      "lon": -6.8540907
+    },
+    {
+      "type": "node",
+      "id": 4460418635,
+      "lat": 34.0018953,
+      "lon": -6.8542409
+    },
+    {
+      "type": "node",
+      "id": 4460418636,
+      "lat": 34.0018475,
+      "lon": -6.8541819
+    },
+    {
+      "type": "node",
+      "id": 4460418637,
+      "lat": 34.0018341,
+      "lon": -6.8541967
+    },
+    {
+      "type": "node",
+      "id": 4460418638,
+      "lat": 34.0017974,
+      "lon": -6.8541551
+    },
+    {
+      "type": "node",
+      "id": 4460418639,
+      "lat": 34.0018186,
+      "lon": -6.8541296
+    },
+    {
+      "type": "node",
+      "id": 4460418640,
+      "lat": 34.0017896,
+      "lon": -6.8540962
+    },
+    {
+      "type": "node",
+      "id": 4460418641,
+      "lat": 34.0017724,
+      "lon": -6.8541196
+    },
+    {
+      "type": "node",
+      "id": 4460418642,
+      "lat": 34.0016529,
+      "lon": -6.8542128
+    },
+    {
+      "type": "node",
+      "id": 4460418643,
+      "lat": 34.0016418,
+      "lon": -6.8542007
+    },
+    {
+      "type": "node",
+      "id": 4460418644,
+      "lat": 34.0016184,
+      "lon": -6.8542275
+    },
+    {
+      "type": "node",
+      "id": 4460418645,
+      "lat": 34.0016462,
+      "lon": -6.8542597
+    },
+    {
+      "type": "node",
+      "id": 4460418646,
+      "lat": 34.0016156,
+      "lon": -6.8543027
+    },
+    {
+      "type": "node",
+      "id": 4460418647,
+      "lat": 34.0016551,
+      "lon": -6.8543469
+    },
+    {
+      "type": "node",
+      "id": 4460418649,
+      "lat": 34.0017652,
+      "lon": -6.8544434
+    },
+    {
+      "type": "node",
+      "id": 4460418650,
+      "lat": 34.0018275,
+      "lon": -6.8543616
+    },
+    {
+      "type": "node",
+      "id": 4460418651,
+      "lat": 34.0018152,
+      "lon": -6.8543455
+    },
+    {
+      "type": "node",
+      "id": 4460418652,
+      "lat": 34.0018386,
+      "lon": -6.8543134
+    },
+    {
+      "type": "node",
+      "id": 4460418653,
+      "lat": 34.0018564,
+      "lon": -6.8543321
+    },
+    {
+      "type": "node",
+      "id": 4460418654,
+      "lat": 34.0018808,
+      "lon": -6.854304
+    },
+    {
+      "type": "node",
+      "id": 4460418655,
+      "lat": 34.0018619,
+      "lon": -6.8542798
+    }
+  ]
+}

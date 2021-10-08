@@ -1,0 +1,6900 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-03T23:20:10Z",
+    "timestamp_areas_base": "2021-09-03T22:03:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 410950648,
+      "lat": 33.9540447,
+      "lon": -6.8534265,
+      "tags": {
+        "name": "Marjane Hay Ryad",
+        "operator": "Marjane",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412406335,
+      "lat": 33.9821138,
+      "lon": -6.8287801,
+      "tags": {
+        "name": "Label'Vie Souissi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444352379,
+      "lat": 33.9482419,
+      "lon": -6.8695243,
+      "tags": {
+        "name": "Asswak Assalam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 954683999,
+      "lat": 34.028843,
+      "lon": -6.8344955,
+      "tags": {
+        "name": "Ensemble Artisanal",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1151758139,
+      "lat": 34.0188393,
+      "lon": -6.8299462,
+      "tags": {
+        "name": "Supermarché de la Tour Hassan",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1152998847,
+      "lat": 34.0184006,
+      "lon": -6.830425,
+      "tags": {
+        "shop": "newsagent",
+        "tobacco": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153047594,
+      "lat": 34.0164375,
+      "lon": -6.8308568,
+      "tags": {
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619322,
+      "lat": 33.9797912,
+      "lon": -6.8210396,
+      "tags": {
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619333,
+      "lat": 33.9795163,
+      "lon": -6.8214381,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619335,
+      "lat": 33.9372462,
+      "lon": -6.8142176,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619338,
+      "lat": 33.979623,
+      "lon": -6.8212343,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619340,
+      "lat": 33.94086,
+      "lon": -6.8101836,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1234619347,
+      "lat": 33.9621729,
+      "lon": -6.8100205,
+      "tags": {
+        "name": "Rachida's store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1255216615,
+      "lat": 33.9560463,
+      "lon": -6.8687042,
+      "tags": {
+        "designation": "Chez Aziz - Fruits et Légumes",
+        "name": "Chez Aziz",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655023672,
+      "lat": 33.9629145,
+      "lon": -6.8609751,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655636983,
+      "lat": 33.9615824,
+      "lon": -6.8672006,
+      "tags": {
+        "addr:postcode": "10100",
+        "addr:street": "Attine",
+        "name": "Koutoubia",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655665413,
+      "lat": 33.9616075,
+      "lon": -6.8667891,
+      "tags": {
+        "addr:postcode": "10100",
+        "addr:street": "Attine",
+        "name": "Posseidon",
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655665423,
+      "lat": 33.9662126,
+      "lon": -6.8599851,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655665444,
+      "lat": 33.9696221,
+      "lon": -6.8642845,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655882043,
+      "lat": 33.9629153,
+      "lon": -6.86091,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1657503438,
+      "lat": 33.952888,
+      "lon": -6.8541801,
+      "tags": {
+        "name": "Electroplanet",
+        "shop": "hifi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1811888411,
+      "lat": 34.0193452,
+      "lon": -6.8231962,
+      "tags": {
+        "name": "BIM",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824603741,
+      "lat": 33.9814147,
+      "lon": -6.8577677,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824603783,
+      "lat": 33.9831095,
+      "lon": -6.8505365,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1881124839,
+      "lat": 34.0023902,
+      "lon": -6.8519558,
+      "tags": {
+        "addr:street": "Avenue Ibn Sina",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "name": "Carrefour Market",
+        "opening_hours": "09:00-21:00",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423318951,
+      "lat": 34.0003532,
+      "lon": -6.846242,
+      "tags": {
+        "addr:housenumber": "61",
+        "addr:street": "rue sebou",
+        "drink:wine": "yes",
+        "name": "Les vignes de l'Agdal",
+        "opening_hours": "Mo-Th, Sa, Su 09:30-20:00; Fr 09:30-12:00, 15:00-20:00",
+        "phone": "+212537771314",
+        "shop": "alcohol",
+        "website": "https://www.lesvignesdelagdal.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423321381,
+      "lat": 34.0044285,
+      "lon": -6.8511853,
+      "tags": {
+        "name": "Nicolas",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423326336,
+      "lat": 34.0057871,
+      "lon": -6.8499823,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423326864,
+      "lat": 34.0057026,
+      "lon": -6.8500199,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423334480,
+      "lat": 34.018869,
+      "lon": -6.8298808,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423338210,
+      "lat": 34.0211663,
+      "lon": -6.8271173,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423347999,
+      "lat": 34.0168389,
+      "lon": -6.8317608,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423362895,
+      "lat": 33.9694611,
+      "lon": -6.8643369,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423364764,
+      "lat": 33.9621808,
+      "lon": -6.8771284,
+      "tags": {
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "fr:Carrefour Market",
+        "name": "Carrefour Market",
+        "name:fa": "کارفور",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423368221,
+      "lat": 33.9819467,
+      "lon": -6.8288057,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2424534547,
+      "lat": 34.000253,
+      "lon": -6.8463714,
+      "tags": {
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2427142038,
+      "lat": 34.0187264,
+      "lon": -6.8281301,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132109,
+      "lat": 33.993329,
+      "lon": -6.846211,
+      "tags": {
+        "name": "Librairie Basta",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132118,
+      "lat": 33.9933223,
+      "lon": -6.8462512,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132119,
+      "lat": 33.9934423,
+      "lon": -6.8459051,
+      "tags": {
+        "name": "Aldo (Chaussures)",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132131,
+      "lat": 33.9933067,
+      "lon": -6.8463263,
+      "tags": {
+        "name": "Boucherie Al Wafa",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132132,
+      "lat": 33.9935513,
+      "lon": -6.8458274,
+      "tags": {
+        "name": "Stradivarius",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429133655,
+      "lat": 33.9933579,
+      "lon": -6.8461117,
+      "tags": {
+        "name": "Pressto",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429147950,
+      "lat": 33.9934268,
+      "lon": -6.8464068,
+      "tags": {
+        "addr:housenumber": "115",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "name": "Fenêtre sur cour",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429147951,
+      "lat": 33.9932889,
+      "lon": -6.8463746,
+      "tags": {
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429147952,
+      "lat": 33.9931933,
+      "lon": -6.8466965,
+      "tags": {
+        "name": "Jules",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429147954,
+      "lat": 33.9932756,
+      "lon": -6.846675,
+      "tags": {
+        "addr:housenumber": "104",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "name": "Librairie Ibn Sina",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429147956,
+      "lat": 33.9936559,
+      "lon": -6.8465194,
+      "tags": {
+        "name": "Galerie",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175337,
+      "lat": 33.993887,
+      "lon": -6.8469935,
+      "tags": {
+        "name": "call it Spring (chaussures)",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175338,
+      "lat": 33.9939469,
+      "lon": -6.8470255,
+      "tags": {
+        "name": "Parfois (sacs)",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175339,
+      "lat": 33.993987,
+      "lon": -6.8466636,
+      "tags": {
+        "name": "épicerie",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175340,
+      "lat": 33.9940715,
+      "lon": -6.8470739,
+      "tags": {
+        "addr:housenumber": "92",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "name": "Madini (Parfums)",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175342,
+      "lat": 33.9941405,
+      "lon": -6.8467574,
+      "tags": {
+        "name": "Devred",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175346,
+      "lat": 33.9939292,
+      "lon": -6.8466662,
+      "tags": {
+        "name": "Bouquiniste",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175348,
+      "lat": 33.9940515,
+      "lon": -6.8467145,
+      "tags": {
+        "name": "Brice",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175354,
+      "lat": 33.9938091,
+      "lon": -6.8466099,
+      "tags": {
+        "name": "Paradoy",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429175359,
+      "lat": 33.993867,
+      "lon": -6.8466287,
+      "tags": {
+        "name": "Casanova",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429240896,
+      "lat": 33.9943592,
+      "lon": -6.8468562,
+      "tags": {
+        "name": "Malakite",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429240906,
+      "lat": 33.9945554,
+      "lon": -6.8469703,
+      "tags": {
+        "name": "Nanou (Shoes)",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429247925,
+      "lat": 33.9943503,
+      "lon": -6.84717,
+      "tags": {
+        "name": "Beauty Love",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429247926,
+      "lat": 33.9942814,
+      "lon": -6.8471593,
+      "tags": {
+        "name": "Beauty Success",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429247929,
+      "lat": 33.9944526,
+      "lon": -6.8472478,
+      "tags": {
+        "name": "Tape à l'oeil",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429247940,
+      "lat": 33.9942146,
+      "lon": -6.8471244,
+      "tags": {
+        "brand": "Jack & Jones",
+        "brand:wikidata": "Q6077665",
+        "brand:wikipedia": "en:Jack & Jones",
+        "name": "Jack & Jones",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429247941,
+      "lat": 33.994546,
+      "lon": -6.8472826,
+      "tags": {
+        "name": "Du pareil au même",
+        "shop": "clothes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257569,
+      "lat": 33.9952969,
+      "lon": -6.8476491,
+      "tags": {
+        "name": "Armel",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257572,
+      "lat": 33.9953132,
+      "lon": -6.847339,
+      "tags": {
+        "addr:housenumber": "105",
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "name": "Gloria",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257577,
+      "lat": 33.9953666,
+      "lon": -6.8476957,
+      "tags": {
+        "name": "Lynx Optique",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257593,
+      "lat": 33.9949396,
+      "lon": -6.8474972,
+      "tags": {
+        "name": "Marwa",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191099,
+      "lat": 33.9966938,
+      "lon": -6.8470351,
+      "tags": {
+        "name": "Istikbal",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191102,
+      "lat": 33.9969851,
+      "lon": -6.845348,
+      "tags": {
+        "name": "Piel Del Toro",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191105,
+      "lat": 33.9969518,
+      "lon": -6.8454472,
+      "tags": {
+        "name": "Rip Curl",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191107,
+      "lat": 33.9966916,
+      "lon": -6.8462036,
+      "tags": {
+        "name": "Newberry",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191112,
+      "lat": 33.997332,
+      "lon": -6.8450957,
+      "tags": {
+        "name": "Hugo Boss",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191119,
+      "lat": 33.9969184,
+      "lon": -6.8463511,
+      "tags": {
+        "name": "Kayra",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191122,
+      "lat": 33.9971453,
+      "lon": -6.8456189,
+      "tags": {
+        "name": "Scali",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191133,
+      "lat": 33.9967606,
+      "lon": -6.8468339,
+      "tags": {
+        "name": "C&L",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191150,
+      "lat": 33.9966649,
+      "lon": -6.8470753,
+      "tags": {
+        "name": "Net optic",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191153,
+      "lat": 33.9969073,
+      "lon": -6.8455518,
+      "tags": {
+        "name": "303",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191158,
+      "lat": 33.9967094,
+      "lon": -6.8469626,
+      "tags": {
+        "name": "Zanka Shoes",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191173,
+      "lat": 33.9966227,
+      "lon": -6.8463538,
+      "tags": {
+        "name": "La bonne boucherie",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191180,
+      "lat": 33.9967316,
+      "lon": -6.8468983,
+      "tags": {
+        "name": "American Corners",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191189,
+      "lat": 33.9961446,
+      "lon": -6.8477298,
+      "tags": {
+        "clothes": "women",
+        "name": "Amazone",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191193,
+      "lat": 33.9968673,
+      "lon": -6.8464879,
+      "tags": {
+        "name": "Lissac Optique",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191196,
+      "lat": 33.9964203,
+      "lon": -6.8469466,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "Avenue Atlas شارع الأطلس",
+        "name": "Savoir plus",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191198,
+      "lat": 33.9972698,
+      "lon": -6.8453265,
+      "tags": {
+        "name": "Cerruti",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191201,
+      "lat": 33.9967145,
+      "lon": -6.8461383,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Avenue Atlas شارع الأطلس",
+        "name": "Ch'hiwates Bennani",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430191214,
+      "lat": 33.9968717,
+      "lon": -6.8456725,
+      "tags": {
+        "name": "Mihad Market",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585678371,
+      "lat": 34.0211216,
+      "lon": -6.8270774,
+      "tags": {
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "name": "Carrefour Market",
+        "name:fa": "کارفور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585731891,
+      "lat": 34.0212434,
+      "lon": -6.826576,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2690975278,
+      "lat": 33.9769968,
+      "lon": -6.8385535,
+      "tags": {
+        "name": "Jacques Dessanges",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2690975280,
+      "lat": 33.982564,
+      "lon": -6.8288437,
+      "tags": {
+        "name": "Locamed",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2774981946,
+      "lat": 34.0052839,
+      "lon": -6.8473137,
+      "tags": {
+        "name": "La Française",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2877936620,
+      "lat": 34.0313006,
+      "lon": -6.8363551,
+      "tags": {
+        "name": "Salon des Oudaya",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2877936622,
+      "lat": 34.0311677,
+      "lon": -6.8356864,
+      "tags": {
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2984298405,
+      "lat": 33.9901354,
+      "lon": -6.8258274,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "name": "Fennich",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111466943,
+      "lat": 34.0273812,
+      "lon": -6.8332901,
+      "tags": {
+        "name": "Bijouterie Moussa",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111468651,
+      "lat": 34.0259158,
+      "lon": -6.8318228,
+      "tags": {
+        "addr:city": "الرباط",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111468653,
+      "lat": 34.0202394,
+      "lon": -6.8274403,
+      "tags": {
+        "name": "Côté Optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111468654,
+      "lat": 34.0199082,
+      "lon": -6.8268021,
+      "tags": {
+        "name": "Cake Shop",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3116667696,
+      "lat": 34.0163381,
+      "lon": -6.8310474,
+      "tags": {
+        "name": "Boucherie du Marché",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3189941703,
+      "lat": 34.020953,
+      "lon": -6.8267027,
+      "tags": {
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190015785,
+      "lat": 34.0186907,
+      "lon": -6.8292288,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190015786,
+      "lat": 34.0187354,
+      "lon": -6.829257,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190076021,
+      "lat": 34.018799,
+      "lon": -6.8293013,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190076022,
+      "lat": 34.0188673,
+      "lon": -6.8293389,
+      "tags": {
+        "name": "Bouquiste Chellah",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190463450,
+      "lat": 34.0202157,
+      "lon": -6.8252873,
+      "tags": {
+        "name": "Boulangerie Agadir",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3190463452,
+      "lat": 34.0195516,
+      "lon": -6.8265773,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3271303378,
+      "lat": 33.9958643,
+      "lon": -6.8486642,
+      "tags": {
+        "name": "Al Abtal",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3366908031,
+      "lat": 34.0222379,
+      "lon": -6.8381205,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399559996,
+      "lat": 34.019993,
+      "lon": -6.8306398,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399575571,
+      "lat": 34.0195693,
+      "lon": -6.8312376,
+      "tags": {
+        "name": "Chez Rachid",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399578893,
+      "lat": 34.0195126,
+      "lon": -6.8313841,
+      "tags": {
+        "name": "Chez Younes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3399704341,
+      "lat": 34.0181429,
+      "lon": -6.828858,
+      "tags": {
+        "name": "Boutique INWI",
+        "operator": "INWI",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400340356,
+      "lat": 34.0143856,
+      "lon": -6.8306426,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400352874,
+      "lat": 34.0133965,
+      "lon": -6.8302185,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400355813,
+      "lat": 34.0137237,
+      "lon": -6.8290015,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400356862,
+      "lat": 34.0138619,
+      "lon": -6.8293416,
+      "tags": {
+        "name": "CREA Corner",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400366901,
+      "lat": 34.0147107,
+      "lon": -6.8284878,
+      "tags": {
+        "brand": "Bim",
+        "brand:wikidata": "Q1022075",
+        "brand:wikipedia": "en:Bim (company)",
+        "name": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400367660,
+      "lat": 34.0149157,
+      "lon": -6.8280389,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254116,
+      "lat": 34.0153034,
+      "lon": -6.8303802,
+      "tags": {
+        "name": "Foukairi",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254119,
+      "lat": 34.0171794,
+      "lon": -6.8312481,
+      "tags": {
+        "name": "Le Palmier D'or",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409254134,
+      "lat": 34.0155937,
+      "lon": -6.8306015,
+      "tags": {
+        "name": "Marwa",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410099466,
+      "lat": 33.9954771,
+      "lon": -6.8485047,
+      "tags": {
+        "name": "Apia",
+        "shop": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410378295,
+      "lat": 34.0202727,
+      "lon": -6.8298601,
+      "tags": {
+        "name": "Ahlen",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410415540,
+      "lat": 34.0208234,
+      "lon": -6.8367091,
+      "tags": {
+        "name": "Gallerie Ghazza",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410595002,
+      "lat": 34.0003536,
+      "lon": -6.849473,
+      "tags": {
+        "name": "Coiffeur pour hommes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3413975985,
+      "lat": 34.0206065,
+      "lon": -6.8374298,
+      "tags": {
+        "addr:city": "الرباط",
+        "name": "Kalila Wa Dimma",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3417578869,
+      "lat": 33.990355,
+      "lon": -6.8474793,
+      "tags": {
+        "name": "Amoud",
+        "shop": "bakery",
+        "website": "http://www.amoud.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436707868,
+      "lat": 33.9549227,
+      "lon": -6.8655992,
+      "tags": {
+        "name": "La Fonda",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436707871,
+      "lat": 33.9538681,
+      "lon": -6.8652007,
+      "tags": {
+        "name": "Vasco De Gama",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436728311,
+      "lat": 33.9556516,
+      "lon": -6.8664125,
+      "tags": {
+        "name": "Le Saint Honore",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3654962446,
+      "lat": 34.0188469,
+      "lon": -6.8353333,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3654962447,
+      "lat": 34.0184979,
+      "lon": -6.8359006,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3700911775,
+      "lat": 34.0012204,
+      "lon": -6.8476142,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:postcode": "10080",
+        "addr:street": "Avenue Al Abtal",
+        "name": "Boulangerie Patisserie Abtal",
+        "opening_hours": "06:00-21:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3700915095,
+      "lat": 34.0210221,
+      "lon": -6.8423142,
+      "tags": {
+        "addr:postcode": "10040",
+        "addr:street": "Avenue Maghreb Arabe",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3700915098,
+      "lat": 34.0203107,
+      "lon": -6.8447871,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:street": "Avenue Maghreb Arabe",
+        "name": "Boulangerie Patisserie Boumalek",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004578,
+      "lat": 34.0201306,
+      "lon": -6.8446128,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe",
+        "name": "Uneclair",
+        "operator": "Omar",
+        "shop": "radiotechnics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004580,
+      "lat": 34.0202396,
+      "lon": -6.8442292,
+      "tags": {
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004581,
+      "lat": 34.0203441,
+      "lon": -6.8437974,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe",
+        "name": "Abroun",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004585,
+      "lat": 34.0209043,
+      "lon": -6.8479012,
+      "tags": {
+        "addr:street": "Avenue Al Mouqaouama",
+        "name": "Boumalek delice",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004594,
+      "lat": 34.0007361,
+      "lon": -6.8496258,
+      "tags": {
+        "name": "Papeterie Chaïmae",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004595,
+      "lat": 34.0005604,
+      "lon": -6.8495749,
+      "tags": {
+        "addr:street": "Avenue Al Abtal",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004596,
+      "lat": 33.9995909,
+      "lon": -6.8499879,
+      "tags": {
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "name": "Abroun",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701062338,
+      "lat": 33.9812304,
+      "lon": -6.8727223,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "name": "Bricoma",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701062339,
+      "lat": 33.9744354,
+      "lon": -6.8778829,
+      "tags": {
+        "name": "Volkswagen Audi",
+        "operator": "Super Auto",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119347,
+      "lat": 34.000163,
+      "lon": -6.8470246,
+      "tags": {
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119348,
+      "lat": 34.0001474,
+      "lon": -6.8470138,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119352,
+      "lat": 33.9986531,
+      "lon": -6.8448775,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "name": "Dinia Ameublement",
+        "shop": "fabric"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119353,
+      "lat": 33.9986297,
+      "lon": -6.8449606,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "name": "Macrosec",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812371,
+      "lat": 34.0171335,
+      "lon": -6.8351361,
+      "tags": {
+        "addr:street": "Avenue Mohamed V",
+        "brand": "Celio",
+        "brand:wikidata": "Q2672003",
+        "brand:wikipedia": "en:Celio (retailer)",
+        "name": "Celio",
+        "name:fr": "Celio",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812372,
+      "lat": 34.0179853,
+      "lon": -6.8345733,
+      "tags": {
+        "addr:street": "Rue Prince Moulay Abdellah",
+        "name": "Jeff de Bruges",
+        "shop": "chocolate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812379,
+      "lat": 34.0126679,
+      "lon": -6.829107,
+      "tags": {
+        "name": "Destockage Hugo Boss",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812380,
+      "lat": 34.0138151,
+      "lon": -6.8297588,
+      "tags": {
+        "name": "Printemps",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705812383,
+      "lat": 34.0001283,
+      "lon": -6.8493428,
+      "tags": {
+        "name": "BIM",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705833329,
+      "lat": 34.0029975,
+      "lon": -6.8518853,
+      "tags": {
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3705833331,
+      "lat": 34.0021365,
+      "lon": -6.8520587,
+      "tags": {
+        "name": "Chez Said",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3721410025,
+      "lat": 34.0216277,
+      "lon": -6.8303801,
+      "tags": {
+        "name": "Poissonnerie Hassan",
+        "name:fr": "Poissonnerie Hassan",
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3721567164,
+      "lat": 34.0172002,
+      "lon": -6.8266578,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732257387,
+      "lat": 34.0215872,
+      "lon": -6.8304371,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761726878,
+      "lat": 34.0195302,
+      "lon": -6.8274376,
+      "tags": {
+        "name": "Blue River",
+        "phone": "+212 537 720 18",
+        "shop": "travel_agency",
+        "website": "http://www.bluerivervoyages.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761726881,
+      "lat": 34.0200171,
+      "lon": -6.8266705,
+      "tags": {
+        "name": "Salah Télécom",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761739747,
+      "lat": 34.0202505,
+      "lon": -6.8281349,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761739748,
+      "lat": 34.0203106,
+      "lon": -6.827915,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761739749,
+      "lat": 34.0203639,
+      "lon": -6.8278587,
+      "tags": {
+        "name": "Ets Younes",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761742507,
+      "lat": 34.0204213,
+      "lon": -6.8278027,
+      "tags": {
+        "name": "El Ghait",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761770753,
+      "lat": 34.0206451,
+      "lon": -6.8267865,
+      "tags": {
+        "name": "La plume d'oie",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761813666,
+      "lat": 34.0205359,
+      "lon": -6.8266947,
+      "tags": {
+        "name": "La couronne d'or",
+        "pastry": "yes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761815268,
+      "lat": 34.0204286,
+      "lon": -6.8268623,
+      "tags": {
+        "name": "Salon de la Tour Hassan",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761819524,
+      "lat": 34.020486,
+      "lon": -6.826916,
+      "tags": {
+        "name": "Toyota",
+        "operator": "Toyota",
+        "service": "dealer",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761841298,
+      "lat": 34.0200824,
+      "lon": -6.8249325,
+      "tags": {
+        "name": "Travelmex",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761841299,
+      "lat": 34.0200568,
+      "lon": -6.8248346,
+      "tags": {
+        "name": "Karim",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761843021,
+      "lat": 34.0200279,
+      "lon": -6.8237698,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762257067,
+      "lat": 34.0182481,
+      "lon": -6.8246279,
+      "tags": {
+        "name": "Pressing Presse Neige",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762258957,
+      "lat": 34.018013,
+      "lon": -6.8246044,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762260258,
+      "lat": 34.0182662,
+      "lon": -6.8248384,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762261558,
+      "lat": 34.0183882,
+      "lon": -6.8249689,
+      "tags": {
+        "name": "Moulay Ismail",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762263159,
+      "lat": 34.0183615,
+      "lon": -6.8247012,
+      "tags": {
+        "name": "Pâtisserie Al Yamama",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762281957,
+      "lat": 34.0189559,
+      "lon": -6.8256063,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762282057,
+      "lat": 34.0191288,
+      "lon": -6.8253851,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762282058,
+      "lat": 34.0192132,
+      "lon": -6.8254296,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762282957,
+      "lat": 34.0192771,
+      "lon": -6.8256076,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Sens du goût",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770229794,
+      "lat": 34.0219212,
+      "lon": -6.830036,
+      "tags": {
+        "name": "Espace Musique",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770229795,
+      "lat": 34.0218421,
+      "lon": -6.8299632,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772022858,
+      "lat": 34.0171833,
+      "lon": -6.8258545,
+      "tags": {
+        "name": "El Haramaine Voyages",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772094666,
+      "lat": 34.0171271,
+      "lon": -6.8241202,
+      "tags": {
+        "addr:street": "Avenue d'Alger",
+        "amenity": "pharmacy",
+        "name": "Pharma Naturel",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772131258,
+      "lat": 34.0171635,
+      "lon": -6.8248383,
+      "tags": {
+        "name": "Hilyatours",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3777111457,
+      "lat": 34.0144764,
+      "lon": -6.8289941,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3777835774,
+      "lat": 33.9999051,
+      "lon": -6.846446,
+      "tags": {
+        "name": "Au Porcelet Gourmand",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780661457,
+      "lat": 34.0213027,
+      "lon": -6.8265028,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780661557,
+      "lat": 34.0212554,
+      "lon": -6.8263094,
+      "tags": {
+        "name": "Top Métal",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780664357,
+      "lat": 34.021428,
+      "lon": -6.8262847,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780664358,
+      "lat": 34.0214164,
+      "lon": -6.8260537,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780664457,
+      "lat": 34.0214688,
+      "lon": -6.8261893,
+      "tags": {
+        "name": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780664557,
+      "lat": 34.0213878,
+      "lon": -6.8261387,
+      "tags": {
+        "name": "Al Faraj",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780665457,
+      "lat": 34.0211678,
+      "lon": -6.8262578,
+      "tags": {
+        "name": "Games Shop",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3781916858,
+      "lat": 34.0252278,
+      "lon": -6.8451805,
+      "tags": {
+        "name": "Salon Adil",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3783215357,
+      "lat": 34.0220568,
+      "lon": -6.8267363,
+      "tags": {
+        "name": "Looking new",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3783362147,
+      "lat": 34.0213321,
+      "lon": -6.8275625,
+      "tags": {
+        "name": "Parfums",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3783378958,
+      "lat": 34.0225392,
+      "lon": -6.8261275,
+      "tags": {
+        "name": "Somamher",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787377557,
+      "lat": 34.0216857,
+      "lon": -6.8301749,
+      "tags": {
+        "butcher": "poultry",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787408569,
+      "lat": 34.0207291,
+      "lon": -6.8306774,
+      "tags": {
+        "name": "Boumalek",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787408570,
+      "lat": 34.0206268,
+      "lon": -6.8305889,
+      "tags": {
+        "name": "Vunette",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787413801,
+      "lat": 34.0212133,
+      "lon": -6.8298525,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801916959,
+      "lat": 34.0213593,
+      "lon": -6.8307435,
+      "tags": {
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807086157,
+      "lat": 34.0186226,
+      "lon": -6.8259191,
+      "tags": {
+        "name": "Anakti",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810888772,
+      "lat": 34.0212369,
+      "lon": -6.8227514,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810899058,
+      "lat": 34.0209324,
+      "lon": -6.8249077,
+      "tags": {
+        "name": "Bel Tours",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810899161,
+      "lat": 34.0214109,
+      "lon": -6.824861,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810900764,
+      "lat": 34.0214658,
+      "lon": -6.8235495,
+      "tags": {
+        "name": "Ajnihat Al Amane",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810914573,
+      "lat": 34.0182661,
+      "lon": -6.8267605,
+      "tags": {
+        "name": "Ritaj Voyages",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810923258,
+      "lat": 34.0171899,
+      "lon": -6.8257471,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3811019465,
+      "lat": 34.0204044,
+      "lon": -6.827635,
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901498655,
+      "lat": 34.0185709,
+      "lon": -6.8482943,
+      "tags": {
+        "name": "Vennus Techno Pressing مصبنة فينوس تيكنو",
+        "name:ar": "مصبنة فينوس تيكنو",
+        "name:fr": "Vennus Techno Pressing",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901498656,
+      "lat": 34.0186109,
+      "lon": -6.8482661,
+      "tags": {
+        "name": "GSM Bayen GSM باين",
+        "name:ar": "GSM باين",
+        "name:fr": "GSM Bayen",
+        "operator": "Bayen",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901506673,
+      "lat": 34.0186853,
+      "lon": -6.8483782,
+      "tags": {
+        "name": "Salon Ambiance",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901536303,
+      "lat": 34.0181756,
+      "lon": -6.848721,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901536304,
+      "lat": 34.0181606,
+      "lon": -6.8487398,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901536305,
+      "lat": 34.0181206,
+      "lon": -6.8487263,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901540572,
+      "lat": 34.0181089,
+      "lon": -6.8487136,
+      "tags": {
+        "name": "Salon Inass - Dame",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901574949,
+      "lat": 34.0171537,
+      "lon": -6.848855,
+      "tags": {
+        "name": "Paradis Des Huiles",
+        "shop": "yes",
+        "website": "www.arganier-maroc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901583622,
+      "lat": 34.017356,
+      "lon": -6.8497482,
+      "tags": {
+        "name": "Sobinad",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901583623,
+      "lat": 34.0173404,
+      "lon": -6.8497965,
+      "tags": {
+        "name": "Boute Optic",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3935709203,
+      "lat": 34.0221246,
+      "lon": -6.8281821,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937814596,
+      "lat": 34.0172762,
+      "lon": -6.850033,
+      "tags": {
+        "name": "Pressing Agdal مصبنة أكدال",
+        "name:ar": "مصبنة أكدال",
+        "name:fr": "Pressing Agdal",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937814598,
+      "lat": 34.0169785,
+      "lon": -6.850635,
+      "tags": {
+        "name": "Salon Ilyass",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937814599,
+      "lat": 34.0170609,
+      "lon": -6.8506867,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937814600,
+      "lat": 34.0171381,
+      "lon": -6.8505998,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3937814601,
+      "lat": 34.0171381,
+      "lon": -6.850726,
+      "tags": {
+        "name": "Salon Khadija صالون خديجة",
+        "name:ar": "صالون خديجة",
+        "name:fr": "Salon Khadija",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951328662,
+      "lat": 34.0196396,
+      "lon": -6.8248746,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Rue Moulay Idriss",
+        "name": "Bejade",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951814257,
+      "lat": 34.0272992,
+      "lon": -6.8406853,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951818960,
+      "lat": 34.024685,
+      "lon": -6.8450175,
+      "tags": {
+        "name": "BIM",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951898157,
+      "lat": 34.0246967,
+      "lon": -6.8447299,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993387,
+      "lat": 34.0174991,
+      "lon": -6.8510385,
+      "tags": {
+        "name": "Salon Jad صالون جاد",
+        "name:ar": "صالون جاد",
+        "name:fr": "Salon Jad",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993388,
+      "lat": 34.0175391,
+      "lon": -6.8508668,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993389,
+      "lat": 34.0174858,
+      "lon": -6.8508132,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993390,
+      "lat": 34.0174191,
+      "lon": -6.8511458,
+      "tags": {
+        "name": "GSM Bayen",
+        "name:ar": "GSM باين",
+        "name:fr": "GSM Bayen GSM باين",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993391,
+      "lat": 34.0173701,
+      "lon": -6.8512209,
+      "tags": {
+        "name": "Pressing Taroudant مصبنة تارودانت",
+        "name:ar": "مصبنة تارودانت",
+        "name:fr": "Pressing Taroudant",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993393,
+      "lat": 34.0169522,
+      "lon": -6.8519129,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993394,
+      "lat": 34.0170233,
+      "lon": -6.8519826,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993395,
+      "lat": 34.0166943,
+      "lon": -6.8518056,
+      "tags": {
+        "name": "Salon Racha",
+        "name:fr": "Salon Racha",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993396,
+      "lat": 34.0167832,
+      "lon": -6.8518861,
+      "tags": {
+        "shop": "radiotechnics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993397,
+      "lat": 34.0165342,
+      "lon": -6.8522294,
+      "tags": {
+        "name": "Bim بيم",
+        "name:ar": "بيم",
+        "name:fr": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993398,
+      "lat": 34.0166543,
+      "lon": -6.85187,
+      "tags": {
+        "name": "Biomédical Pro",
+        "name:fr": "Biomédical Pro",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951993399,
+      "lat": 34.017797,
+      "lon": -6.8511941,
+      "tags": {
+        "name": "Pressing les étoiles مصبنة النجوم",
+        "name:ar": "مصبنة النجوم",
+        "name:fr": "Pressing les étoiles",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952130980,
+      "lat": 34.0253342,
+      "lon": -6.8452861,
+      "tags": {
+        "name": "Simo",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952150232,
+      "lat": 34.0257768,
+      "lon": -6.8450302,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952150233,
+      "lat": 34.0257207,
+      "lon": -6.845142,
+      "tags": {
+        "name": "Elegance",
+        "note": "Hommes & Femmes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952173848,
+      "lat": 34.026841,
+      "lon": -6.8447451,
+      "tags": {
+        "shop": "trade",
+        "trade": "wood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952173851,
+      "lat": 34.0265718,
+      "lon": -6.8453361,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952173852,
+      "lat": 34.026551,
+      "lon": -6.8454549,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3955990857,
+      "lat": 34.0251103,
+      "lon": -6.8450706,
+      "tags": {
+        "name": "Mustapha",
+        "shop": "frame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3964648024,
+      "lat": 34.0142323,
+      "lon": -6.828981,
+      "tags": {
+        "name": "Space Coiff",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3964648025,
+      "lat": 34.0163733,
+      "lon": -6.8296543,
+      "tags": {
+        "name": "Touring Club du Maroc",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3977698892,
+      "lat": 33.9933992,
+      "lon": -6.8237071,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "9",
+        "addr:postcode": "10000",
+        "addr:street": "Rue Doukkala",
+        "name": "Saytlia",
+        "organic": "yes",
+        "phone": "+212 537 65 78 86",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980286200,
+      "lat": 34.0178059,
+      "lon": -6.8516447,
+      "tags": {
+        "name": "Acima آسيما",
+        "name:ar": "آسيما",
+        "name:fr": "Acima",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980335200,
+      "lat": 34.0169196,
+      "lon": -6.8524551,
+      "tags": {
+        "name": "Les Minois",
+        "phone": "+212 642 08 39 25",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980611770,
+      "lat": 34.014077,
+      "lon": -6.854336,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554857,
+      "lat": 34.0208931,
+      "lon": -6.8501391,
+      "tags": {
+        "name": "Garage Atlas",
+        "name:fr": "Garage Atlas",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554858,
+      "lat": 34.0207979,
+      "lon": -6.850229,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554859,
+      "lat": 34.0205108,
+      "lon": -6.8497408,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554860,
+      "lat": 34.0204907,
+      "lon": -6.8492419,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554861,
+      "lat": 34.0215312,
+      "lon": -6.8511168,
+      "tags": {
+        "male": "yes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554862,
+      "lat": 34.0221872,
+      "lon": -6.8489896,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991554863,
+      "lat": 34.0222162,
+      "lon": -6.8489654,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991556757,
+      "lat": 34.031792,
+      "lon": -6.8360109,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3993875057,
+      "lat": 34.008551,
+      "lon": -6.8512633,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4000794628,
+      "lat": 33.9757027,
+      "lon": -6.8599642,
+      "tags": {
+        "name": "Les Domaines",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4004329199,
+      "lat": 34.0221584,
+      "lon": -6.8489762,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4004329200,
+      "lat": 34.0219574,
+      "lon": -6.8496339,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4004329212,
+      "lat": 34.0256838,
+      "lon": -6.8449773,
+      "tags": {
+        "name": "Garage Jakarta",
+        "name:fr": "Garage Jakarta",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016640331,
+      "lat": 34.0259907,
+      "lon": -6.845047,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4075599937,
+      "lat": 34.0173041,
+      "lon": -6.8353212,
+      "tags": {
+        "name": "Marwa",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4075602974,
+      "lat": 34.0314609,
+      "lon": -6.8362666,
+      "tags": {
+        "name": "Coiffure Hossine",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4095863039,
+      "lat": 34.0186457,
+      "lon": -6.8307952,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4096159042,
+      "lat": 33.9858561,
+      "lon": -6.8284043,
+      "tags": {
+        "name": "Boulangerie Patisserie",
+        "name:ar": "Souissi grill",
+        "operator": "Souissi",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4096159043,
+      "lat": 33.9830984,
+      "lon": -6.8293246,
+      "tags": {
+        "name": "Boulangerie Patisserie",
+        "operator": "Maymana",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4151832690,
+      "lat": 34.0161923,
+      "lon": -6.8309612,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4191187389,
+      "lat": 34.0100562,
+      "lon": -6.8397277,
+      "tags": {
+        "name": "trst",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4212562391,
+      "lat": 34.0226708,
+      "lon": -6.8381679,
+      "tags": {
+        "name": "La source",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4212562393,
+      "lat": 34.0217478,
+      "lon": -6.8377105,
+      "tags": {
+        "name": "Carly",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4212599290,
+      "lat": 34.0225651,
+      "lon": -6.8380887,
+      "tags": {
+        "name": "Aux merveilles de la Médina",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4212617789,
+      "lat": 34.0206574,
+      "lon": -6.8371808,
+      "tags": {
+        "name": "Cabane shoes",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4212629207,
+      "lat": 34.0210094,
+      "lon": -6.8362131,
+      "tags": {
+        "name": "Au bain bleu",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225190401,
+      "lat": 34.0190924,
+      "lon": -6.8273819,
+      "tags": {
+        "name": "L'Art voyages",
+        "shop": "travel_agency",
+        "website": "www.artvoyages.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225232392,
+      "lat": 34.0176061,
+      "lon": -6.8340363,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230710907,
+      "lat": 34.0177086,
+      "lon": -6.8345937,
+      "tags": {
+        "name": "Rabat Optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4237318500,
+      "lat": 33.9948196,
+      "lon": -6.8474261,
+      "tags": {
+        "name": "Jax Jones",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658883,
+      "lat": 34.0179564,
+      "lon": -6.8342933,
+      "tags": {
+        "name": "Carlson Wagon Lit",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658885,
+      "lat": 34.0175598,
+      "lon": -6.8346875,
+      "tags": {
+        "name": "Fabio Turkey",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658886,
+      "lat": 34.0175359,
+      "lon": -6.8348564,
+      "tags": {
+        "name": "Marignan",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658887,
+      "lat": 34.0176768,
+      "lon": -6.834617,
+      "tags": {
+        "name": "Méga Sport",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239661589,
+      "lat": 34.0179495,
+      "lon": -6.8345858,
+      "tags": {
+        "name": "Yves Rocher",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239661592,
+      "lat": 34.0183966,
+      "lon": -6.8344489,
+      "tags": {
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239728903,
+      "lat": 34.017354,
+      "lon": -6.8349373,
+      "tags": {
+        "name": "Le pain nu",
+        "pastry": "yes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239728906,
+      "lat": 34.0173236,
+      "lon": -6.8349584,
+      "tags": {
+        "name": "TopStyle",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239728907,
+      "lat": 34.0182388,
+      "lon": -6.8341662,
+      "tags": {
+        "name": "Voyages Tam",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4243315695,
+      "lat": 33.9801863,
+      "lon": -6.8884335,
+      "tags": {
+        "name": "El Haj service clim",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4258270490,
+      "lat": 33.9854933,
+      "lon": -6.8225774,
+      "tags": {
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4258292122,
+      "lat": 33.9538184,
+      "lon": -6.8642084,
+      "tags": {
+        "addr:street": "Avenue Annakhil شارع النخيل",
+        "brand": "Orange",
+        "brand:wikidata": "Q1431486",
+        "brand:wikipedia": "fr:Orange (entreprise)",
+        "name": "Orange",
+        "operator": "Orange",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4258298225,
+      "lat": 33.9561101,
+      "lon": -6.8670918,
+      "tags": {
+        "addr:street": "Avenue Annakhil شارع النخيل",
+        "name": "iSpot",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4281636093,
+      "lat": 34.0172117,
+      "lon": -6.8292287,
+      "tags": {
+        "name": "Avia tours international",
+        "phone": "+212537731136",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4285644428,
+      "lat": 34.0255712,
+      "lon": -6.8457618,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4285644431,
+      "lat": 34.0258158,
+      "lon": -6.8448713,
+      "tags": {
+        "shop": "music"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291817591,
+      "lat": 34.0230095,
+      "lon": -6.8482499,
+      "tags": {
+        "name": "Boucherie Charcuterie",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291817596,
+      "lat": 34.0237507,
+      "lon": -6.8469168,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291833190,
+      "lat": 34.0234003,
+      "lon": -6.8483646,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291833191,
+      "lat": 34.023464,
+      "lon": -6.8486855,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291833192,
+      "lat": 34.0224427,
+      "lon": -6.8482558,
+      "tags": {
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291833193,
+      "lat": 34.0199237,
+      "lon": -6.8485255,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851190,
+      "lat": 34.0227783,
+      "lon": -6.8490898,
+      "tags": {
+        "name": "Patisserie baghdad",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851191,
+      "lat": 34.0230492,
+      "lon": -6.8483268,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851289,
+      "lat": 34.0248119,
+      "lon": -6.8468557,
+      "tags": {
+        "name": "Pâtisserie Lazreq",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851290,
+      "lat": 34.0215098,
+      "lon": -6.8511783,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851299,
+      "lat": 34.0196019,
+      "lon": -6.8497975,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851389,
+      "lat": 34.0248332,
+      "lon": -6.8467325,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851396,
+      "lat": 34.0239079,
+      "lon": -6.8468477,
+      "tags": {
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851489,
+      "lat": 34.0214019,
+      "lon": -6.8510463,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851490,
+      "lat": 34.0233529,
+      "lon": -6.8508942,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851891,
+      "lat": 34.0236109,
+      "lon": -6.8480738,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851892,
+      "lat": 34.0258658,
+      "lon": -6.8449812,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291851990,
+      "lat": 34.0237653,
+      "lon": -6.8467134,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291852192,
+      "lat": 34.023872,
+      "lon": -6.8468086,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291852390,
+      "lat": 34.0224894,
+      "lon": -6.8480827,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291852589,
+      "lat": 34.0236829,
+      "lon": -6.8479967,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291852989,
+      "lat": 34.0233757,
+      "lon": -6.8471347,
+      "tags": {
+        "name": "Boulangerie Saâdiyine",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291853089,
+      "lat": 34.0224394,
+      "lon": -6.8482224,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291853689,
+      "lat": 34.0227372,
+      "lon": -6.8456429,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297346892,
+      "lat": 34.0256683,
+      "lon": -6.8372001,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297346991,
+      "lat": 34.0255163,
+      "lon": -6.8373106,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297347690,
+      "lat": 34.0196393,
+      "lon": -6.8497938,
+      "tags": {
+        "shop": "butcher;convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297356290,
+      "lat": 34.0274327,
+      "lon": -6.8351634,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297356389,
+      "lat": 34.0278476,
+      "lon": -6.8357502,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297356392,
+      "lat": 34.0210936,
+      "lon": -6.8495025,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297356689,
+      "lat": 34.027451,
+      "lon": -6.8352396,
+      "tags": {
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297356889,
+      "lat": 34.0274661,
+      "lon": -6.8352533,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357189,
+      "lat": 34.0274874,
+      "lon": -6.8351408,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357190,
+      "lat": 34.0285202,
+      "lon": -6.8347691,
+      "tags": {
+        "name:en": "Souq de tapis",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357191,
+      "lat": 34.0257098,
+      "lon": -6.837113,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357192,
+      "lat": 34.0251399,
+      "lon": -6.8383931,
+      "tags": {
+        "addr:city": "الرباط",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357391,
+      "lat": 34.0249999,
+      "lon": -6.8388447,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297357489,
+      "lat": 34.02846,
+      "lon": -6.8348659,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4318311690,
+      "lat": 33.9537634,
+      "lon": -6.8650453,
+      "tags": {
+        "name": "Inwi",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426830891,
+      "lat": 34.0236828,
+      "lon": -6.8373133,
+      "tags": {
+        "name:de": "Souq für Gewürze & Lebensmittel",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426863493,
+      "lat": 34.0268043,
+      "lon": -6.8327658,
+      "tags": {
+        "addr:city": "الرباط",
+        "name:de": "Souq für Textilien und Silberwaren",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4432505816,
+      "lat": 33.9990888,
+      "lon": -6.8642534,
+      "tags": {
+        "name": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4438007959,
+      "lat": 33.9794388,
+      "lon": -6.8955609,
+      "tags": {
+        "addr:city": "Rabat ⵕⵕⴱⴰⵟ الرباط",
+        "name": "Auto El Menzeh",
+        "phone": "+212 537 29 00 14",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440471390,
+      "lat": 34.0315512,
+      "lon": -6.836149,
+      "tags": {
+        "name": "Cobello.ma",
+        "name:fr": "Cobello.ma",
+        "shop": "travel_agency",
+        "website": "http://cobello.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463158196,
+      "lat": 34.0008549,
+      "lon": -6.8554544,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463158197,
+      "lat": 34.0022062,
+      "lon": -6.8542408,
+      "tags": {
+        "name": "Super marche la Gare",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463158198,
+      "lat": 34.0026484,
+      "lon": -6.8539854,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463158199,
+      "lat": 34.0046043,
+      "lon": -6.8547778,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463158202,
+      "lat": 34.0060474,
+      "lon": -6.8560225,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463199174,
+      "lat": 34.0098505,
+      "lon": -6.8597173,
+      "tags": {
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4463453768,
+      "lat": 33.9935839,
+      "lon": -6.8506216,
+      "tags": {
+        "name": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4485387241,
+      "lat": 33.9994768,
+      "lon": -6.8470988,
+      "tags": {
+        "name": "Kissariyat Qays",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4494839538,
+      "lat": 34.006487,
+      "lon": -6.8561862,
+      "tags": {
+        "name": "Feu Vert",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4494839539,
+      "lat": 34.0059932,
+      "lon": -6.8564089,
+      "tags": {
+        "name": "Feu Vert",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4510444090,
+      "lat": 34.0000484,
+      "lon": -6.8494346,
+      "tags": {
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4510776801,
+      "lat": 34.0185657,
+      "lon": -6.8300827,
+      "tags": {
+        "name": "Maroc Telecom",
+        "name:fr": "Maroc Telecom",
+        "opening_hours": "Mo-Sa 08:00-17:30",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4510819791,
+      "lat": 34.0197691,
+      "lon": -6.8315235,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4510819792,
+      "lat": 34.018663,
+      "lon": -6.830991,
+      "tags": {
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4510821294,
+      "lat": 34.0186169,
+      "lon": -6.8307068,
+      "tags": {
+        "name": "Modern Travel Agency",
+        "name:fr": "Modern Travel Agency",
+        "phone": "+212537704691",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4536056692,
+      "lat": 34.0160596,
+      "lon": -6.8312836,
+      "tags": {
+        "name": "Cervantes libreria",
+        "name:es": "Cervantes libreria",
+        "note": "Spanish is correct",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539615238,
+      "lat": 33.9560741,
+      "lon": -6.8402275,
+      "tags": {
+        "name": "Kitea Géant Rabat",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4546768747,
+      "lat": 34.0218825,
+      "lon": -6.8496415,
+      "tags": {
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743815,
+      "lat": 34.0314342,
+      "lon": -6.8362918,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743816,
+      "lat": 34.0202638,
+      "lon": -6.8482435,
+      "tags": {
+        "name": "Optic El Hamd",
+        "name:fr": "Optic El Hamd",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743817,
+      "lat": 34.0213441,
+      "lon": -6.8474502,
+      "tags": {
+        "name": "Chez Rachid",
+        "name:fr": "Chez Rachid",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743893,
+      "lat": 34.0237523,
+      "lon": -6.8469041,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560743896,
+      "lat": 34.0212804,
+      "lon": -6.847519,
+      "tags": {
+        "name": "Colorado كولورادو",
+        "name:ar": "كولورادو",
+        "name:fr": "Colorado",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560744001,
+      "lat": 34.0147007,
+      "lon": -6.8420496,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560744004,
+      "lat": 34.0219942,
+      "lon": -6.8468412,
+      "tags": {
+        "name": "Eye Boutique",
+        "name:fr": "Eye Boutique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560744105,
+      "lat": 34.0228868,
+      "lon": -6.8473269,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560744106,
+      "lat": 34.020256,
+      "lon": -6.8495995,
+      "tags": {
+        "name": "BELLISIMA",
+        "name:fr": "BELLISIMA",
+        "note": "COIFFURE -ESTHETIQUE POUR DAMES",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560786099,
+      "lat": 34.0221111,
+      "lon": -6.8467537,
+      "tags": {
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560786292,
+      "lat": 34.0314253,
+      "lon": -6.8363471,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560786690,
+      "lat": 34.0234643,
+      "lon": -6.8471251,
+      "tags": {
+        "name": "Boulangerie Saadiyinear مخبزة السعديين",
+        "name:ar": "مخبزة السعديين",
+        "name:fr": "Boulangerie Saadiyinear",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560786691,
+      "lat": 34.0223607,
+      "lon": -6.846575,
+      "tags": {
+        "name": "Chez Anouar عند أنوار",
+        "name:ar": "عند أنوار",
+        "name:fr": "Chez Anouar",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560794089,
+      "lat": 34.0207498,
+      "lon": -6.8432956,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560794689,
+      "lat": 34.0198113,
+      "lon": -6.8497286,
+      "tags": {
+        "name": "Espace Optique",
+        "name:fr": "Espace Optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560795489,
+      "lat": 34.0198781,
+      "lon": -6.8489115,
+      "tags": {
+        "name": "Institut OCEAN مؤسسة المحيط",
+        "name:ar": "مؤسسة المحيط",
+        "name:fr": "Institut OCEAN",
+        "phone": "+212 550111584",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4565112590,
+      "lat": 34.0003102,
+      "lon": -6.8456856,
+      "tags": {
+        "addr:housenumber": "30 Al Amal,App1",
+        "addr:street": "Rue Oued Ziz زنقة واد زيز",
+        "email": "contact@tpsbardo.com",
+        "internet_access": "wlan",
+        "name:en": "TPS Bardo Trad (centre d'appel)",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+212537686851",
+        "shop": "mobile_phone",
+        "website": "http://www.tpsbardo.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590537101,
+      "lat": 34.0268261,
+      "lon": -6.832808,
+      "tags": {
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4600846589,
+      "lat": 33.9621074,
+      "lon": -6.8646059,
+      "tags": {
+        "addr:housenumber": "lot 24 sect 3 n",
+        "addr:postcode": "1100",
+        "addr:street": "Rue Al Karm زنقة الكرم",
+        "email": "lahlou-19@hotmail.fr",
+        "internet_access": "wlan",
+        "name": "creatio lahlou jamal coiffure spa ésthétique",
+        "phone": "+212537565622",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4600850089,
+      "lat": 34.00057,
+      "lon": -6.8463707,
+      "tags": {
+        "addr:housenumber": "57",
+        "addr:postcode": "10100",
+        "addr:street": "Rue Oued Sebou زنقة واد سبو",
+        "email": "lahlou-19@hotmail.fr",
+        "internet_access": "wlan",
+        "name": "creation lahlou jamal",
+        "name:fr": "creation lahlou jamal",
+        "phone": "+212537680022",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4601502191,
+      "lat": 33.9790992,
+      "lon": -6.8206029,
+      "tags": {
+        "name": "Hay takadoum حي التقدم",
+        "name:ar": "حي التقدم",
+        "name:fr": "Hay takadoum",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631866735,
+      "lat": 33.9882975,
+      "lon": -6.8278665,
+      "tags": {
+        "name": "La vie Claire",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4635080591,
+      "lat": 33.9884117,
+      "lon": -6.8515759,
+      "tags": {
+        "name": "Trianon",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4638225790,
+      "lat": 33.9558706,
+      "lon": -6.8410097,
+      "tags": {
+        "addr:street": "Rocade de Rabat الطريق السيار المداري الرباط",
+        "name": "Kiabi",
+        "name:fr": "Kiabi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "+212 537634861",
+        "shop": "department_store",
+        "website": "http://www.kiabi.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720721445,
+      "lat": 34.0188825,
+      "lon": -6.8159498,
+      "tags": {
+        "name": "Marjane",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720743339,
+      "lat": 34.0187561,
+      "lon": -6.8165158,
+      "tags": {
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4784918221,
+      "lat": 33.944192,
+      "lon": -6.818456,
+      "tags": {
+        "name:zh": "摩洛哥办事处",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4811904633,
+      "lat": 34.0175809,
+      "lon": -6.8354597,
+      "tags": {
+        "name": "Librairie 3eme Millénaire",
+        "phone": "+212 537 263 238",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4813735872,
+      "lat": 34.0230052,
+      "lon": -6.8373037,
+      "tags": {
+        "addr:city": "الرباط",
+        "clothes": "underwear",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975967897,
+      "lat": 33.9520247,
+      "lon": -6.8953869,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975968280,
+      "lat": 33.9522564,
+      "lon": -6.8968744,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975968296,
+      "lat": 33.952275,
+      "lon": -6.8936858,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975969026,
+      "lat": 33.9525551,
+      "lon": -6.898653,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975969863,
+      "lat": 33.9527708,
+      "lon": -6.8951224,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975971191,
+      "lat": 33.9536701,
+      "lon": -6.8924365,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975972076,
+      "lat": 33.9541902,
+      "lon": -6.8949611,
+      "tags": {
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4975972964,
+      "lat": 33.9554735,
+      "lon": -6.894099,
+      "tags": {
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5031078321,
+      "lat": 33.998801,
+      "lon": -6.8492634,
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:postcode": "10090",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "email": "info@majesricmorocco.com",
+        "name": "Majestic Tours ماجستير تورز",
+        "name:ar": "ماجستير تورز",
+        "name:en": "Majestic Tours",
+        "name:fr": "Majestic Tours",
+        "opening_hours": "Mo-Fr 08:30-19:00; Su 00:00-24:00",
+        "phone": "00212537675724",
+        "shop": "travel_agency",
+        "website": "http://Www.majesticmorocco.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5072367125,
+      "lat": 33.9922639,
+      "lon": -6.8779113,
+      "tags": {
+        "name": "idrissi électrique",
+        "name:fr": "idrissi électrique",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5072388324,
+      "lat": 33.9936661,
+      "lon": -6.8667854,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "كوبي خطابي",
+        "name:ar": "كوبي خطابي",
+        "name:en": "copy khetabi",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5072406422,
+      "lat": 33.995613,
+      "lon": -6.867049,
+      "tags": {
+        "name": "عقاقير النور",
+        "name:ar": "عقاقير النور",
+        "name:en": "drouguerie A nour",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073821521,
+      "lat": 33.9963918,
+      "lon": -6.8702112,
+      "tags": {
+        "name": "حلاق عبد المالك",
+        "name:ar": "حلاق عبد المالك",
+        "name:en": "coiffeur Abd elmalk",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073821524,
+      "lat": 33.9979884,
+      "lon": -6.8703795,
+      "tags": {
+        "name": "قسارية وادي الذهب",
+        "name:ar": "قسارية وادي الذهب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073821525,
+      "lat": 33.9982238,
+      "lon": -6.8702196,
+      "tags": {
+        "name:en": "IDDER MAKEUP",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5139356123,
+      "lat": 33.9957053,
+      "lon": -6.8495523,
+      "tags": {
+        "addr:street": "Avenue Atlas شارع الأطلس",
+        "name": "Salon de la marne",
+        "name:en": "Salon de la marne",
+        "name:fr": "Salon de la marne",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5169754740,
+      "lat": 33.99083,
+      "lon": -6.8512666,
+      "tags": {
+        "name:en": "Atlas Voyage Agdal",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5170692268,
+      "lat": 34.013707,
+      "lon": -6.8219585,
+      "tags": {
+        "name": "Tour Bereber",
+        "shop": "music",
+        "website": "https://www.woohands.com/en/provider-profile/tour-bereber"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5195003822,
+      "lat": 34.0170882,
+      "lon": -6.8286905,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "10020",
+        "addr:street": "Rue Annaba",
+        "email": "optiquelacapitale@yahoo.fr",
+        "internet_access": "wlan",
+        "name": "optique la capitale بصريات العاصمة",
+        "name:ar": "بصريات العاصمة",
+        "name:fr": "optique la capitale",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-14:00",
+        "phone": "+212537204820",
+        "shop": "optician",
+        "website": "https://optique-la-capitale.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249854322,
+      "lat": 34.021815,
+      "lon": -6.8385567,
+      "tags": {
+        "name": "Marché central",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268844091,
+      "lat": 33.9981762,
+      "lon": -6.84618,
+      "tags": {
+        "name": "boucherie al alkhawaine",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5439565027,
+      "lat": 34.0037461,
+      "lon": -6.8515147,
+      "tags": {
+        "name:en": "Pressing Top Net",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5470730160,
+      "lat": 33.9559611,
+      "lon": -6.8403664,
+      "tags": {
+        "name": "Cosmos Electro Rabat",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479477021,
+      "lat": 33.9980335,
+      "lon": -6.8702211,
+      "tags": {
+        "addr:street": "Avenue Salam شارع السلام",
+        "email": "arianeras@gmail.com",
+        "internet_access": "wlan",
+        "name": "Mossa shoes",
+        "name:fr": "Mossa shoes",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "0602133281",
+        "shop": "shoes",
+        "website": "http://www.facebook.com/Mossashoes.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5497758121,
+      "lat": 33.9846118,
+      "lon": -6.8815206,
+      "tags": {
+        "addr:street": "Avenue Al Faouz",
+        "email": "immerimmer@gmail.com",
+        "name": "Im'tek system",
+        "opening_hours": "Mo-Sa 10:00-20:30",
+        "phone": "0676343878",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5564426624,
+      "lat": 34.0218716,
+      "lon": -6.8379518,
+      "tags": {
+        "name": "Le Gout Du Fruit",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5714482063,
+      "lat": 34.0231246,
+      "lon": -6.8465026,
+      "tags": {
+        "name": "Look Optic",
+        "name:en": "Look Optic",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5714500480,
+      "lat": 34.0206682,
+      "lon": -6.8512823,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758378652,
+      "lat": 34.0230974,
+      "lon": -6.8464136,
+      "tags": {
+        "name:en": "Look Optic",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758378728,
+      "lat": 34.0229702,
+      "lon": -6.8464767,
+      "tags": {
+        "name": "Revolution",
+        "name:en": "Revolution",
+        "name:fr": "Revolution",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758378826,
+      "lat": 34.0197632,
+      "lon": -6.8496298,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768820353,
+      "lat": 34.0178604,
+      "lon": -6.8320222,
+      "tags": {
+        "addr:street": "Rue Abou Inane",
+        "name": "Grande Optique",
+        "shop": "optician",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379790,
+      "lat": 34.0168422,
+      "lon": -6.8505657,
+      "tags": {
+        "addr:street": "Rue Al Hind",
+        "name": "Dinia Optique",
+        "shop": "optician",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379795,
+      "lat": 34.0152959,
+      "lon": -6.8504906,
+      "tags": {
+        "addr:street": "Avenue Madagascar",
+        "name": "Ere Optique",
+        "shop": "optician",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379806,
+      "lat": 34.0145289,
+      "lon": -6.8507011,
+      "tags": {
+        "addr:street": "Avenue Madagascar",
+        "name": "Med Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771475741,
+      "lat": 34.0161763,
+      "lon": -6.8497999,
+      "tags": {
+        "addr:street": "Rue Dahomey",
+        "name": "Super Marché Aissa",
+        "shop": "convenience",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779779494,
+      "lat": 34.020581,
+      "lon": -6.8253315,
+      "tags": {
+        "addr:street": "Avenue Al Alaouiyine",
+        "name": "Optic Benyass",
+        "shop": "optician",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555416,
+      "lat": 33.9955311,
+      "lon": -6.84958,
+      "tags": {
+        "addr:street": "Avenue Atlas",
+        "name": "Cabinet d'Ophtalmologie Atlas",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782839870,
+      "lat": 34.0000197,
+      "lon": -6.8447064,
+      "tags": {
+        "addr:street": "Avenue Omar Ibn Khattab",
+        "name": "Super Marche Addoha",
+        "shop": "supermarket",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155763,
+      "lat": 34.0211257,
+      "lon": -6.8497026,
+      "tags": {
+        "name": "Quincaillerie",
+        "payment:cash": "yes",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155764,
+      "lat": 34.0209345,
+      "lon": -6.8495122,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155766,
+      "lat": 34.0230909,
+      "lon": -6.848206,
+      "tags": {
+        "name": "Boucherie Charcuterie",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155767,
+      "lat": 34.0227752,
+      "lon": -6.8481121,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155768,
+      "lat": 34.0227085,
+      "lon": -6.8483401,
+      "tags": {
+        "name": "Boucherie Charcuterie",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155769,
+      "lat": 34.0226574,
+      "lon": -6.849252,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790155770,
+      "lat": 34.0233288,
+      "lon": -6.8484742,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790163528,
+      "lat": 34.0219637,
+      "lon": -6.8503622,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5819328817,
+      "lat": 34.0195606,
+      "lon": -6.8498616,
+      "tags": {
+        "payment:cash": "yes",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5819328818,
+      "lat": 34.0199852,
+      "lon": -6.8503793,
+      "tags": {
+        "name": "Bim",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5819328819,
+      "lat": 34.0198296,
+      "lon": -6.8502237,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5829047785,
+      "lat": 34.0224884,
+      "lon": -6.8385566,
+      "tags": {
+        "name:en": "Central market",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5890467993,
+      "lat": 33.991312,
+      "lon": -6.8153493,
+      "tags": {
+        "name": "Boulangerie مخبزة اكيوض",
+        "name:ar": "مخبزة اكيوض",
+        "name:en": "Bakery",
+        "name:fr": "Boulangerie",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940880390,
+      "lat": 34.0157931,
+      "lon": -6.8306668,
+      "tags": {
+        "name": "Afdal",
+        "name:fr": "Afdal",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6071064631,
+      "lat": 33.9966062,
+      "lon": -6.8472558,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:housenumber": "N° 2",
+        "addr:postcode": "10120",
+        "addr:street": "Angle Av Atlass et Rue Melouiya",
+        "email": "bijoux.rayane@gmail.com",
+        "name": "Bijouterie Rayane",
+        "opening_hours": "Mo-Su 10:00-21:30",
+        "operator": "Mhemed Ait Said",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+212 537777754",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6223195685,
+      "lat": 33.9793461,
+      "lon": -6.8751226,
+      "tags": {
+        "addr:housenumber": "CYM 10052",
+        "addr:street": "Avenue Hassan II شارع الحسن الثاني",
+        "email": "info@boisturque.com",
+        "name": "Bois Turquie",
+        "opening_hours": "Mo-Sa 09:00-18:30",
+        "phone": "+212 537 79 01 77",
+        "shop": "hardware",
+        "website": "http://www.boisturque.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411909694,
+      "lat": 33.9770282,
+      "lon": -6.8174799,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411909695,
+      "lat": 33.977003,
+      "lon": -6.8175937,
+      "tags": {
+        "brand": "Boulanger",
+        "brand:wikidata": "Q2921695",
+        "brand:wikipedia": "fr:Boulanger (entreprise)",
+        "name": "Boulanger",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417668418,
+      "lat": 34.0154658,
+      "lon": -6.8285204,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6417668420,
+      "lat": 34.0240373,
+      "lon": -6.85122,
+      "tags": {
+        "name": "Montecarlo",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6489521185,
+      "lat": 34.0211621,
+      "lon": -6.8417006,
+      "tags": {
+        "name:en": "cute clothes place",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979279164,
+      "lat": 33.9481698,
+      "lon": -6.8708996,
+      "tags": {
+        "name": "constructeurs automobiles",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979279170,
+      "lat": 33.9546998,
+      "lon": -6.8488774,
+      "tags": {
+        "brand": "Levi's",
+        "brand:wikidata": "Q127962",
+        "brand:wikipedia": "en:Levi Strauss & Co.",
+        "clothes": "denim;men;women",
+        "name": "Levi's",
+        "operator": "Levi Strauss",
+        "shop": "clothes",
+        "website": "https://www.levi.com/FR/fr_FR/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6981119513,
+      "lat": 33.9547579,
+      "lon": -6.8493297,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "brand": "Courir",
+        "brand:wikidata": "Q3001258",
+        "brand:wikipedia": "fr:Courir (chaîne de magasins)",
+        "name": "Courir",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114150785,
+      "lat": 33.9942314,
+      "lon": -6.8766079,
+      "tags": {
+        "addr:housenumber": "magasin 5",
+        "addr:postcode": "10020",
+        "addr:street": "Marche bouhlal Mag 5 hay bouhlal c.y.m",
+        "email": "info@rabat-services.com",
+        "name": "الرباط للخدمات",
+        "name:ar": "الرباط للخدمات",
+        "name:en": "Rabat services",
+        "name:fr": "Rabat services",
+        "opening_hours": "Mo-Sa 00:00-24:00",
+        "phone": "0662884749",
+        "shop": "car",
+        "website": "http://www.rabat-services.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114150786,
+      "lat": 33.9942245,
+      "lon": -6.8766164,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "10020",
+        "addr:street": "Marché bouhlal Mag N 5 hay bouhlal c.y.m",
+        "email": "info@rabat-services.com",
+        "name": "الرباط للخدمات",
+        "name:ar": "الرباط للخدمات",
+        "name:en": "Rabat services",
+        "name:fr": "Rabat services",
+        "opening_hours": "24/7",
+        "phone": "0662884749",
+        "shop": "car_repair",
+        "website": "http://www.rabat-services.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7157491196,
+      "lat": 33.9835585,
+      "lon": -6.8817566,
+      "tags": {
+        "addr:city": "RABAT",
+        "addr:housenumber": "n°366 cym amal 1 J5",
+        "addr:postcode": "10150",
+        "addr:street": "Avenue Al Izdihar شارع الإزدهار",
+        "description": "تفريش تأثيت تصنيع و تزيين منازلكم توضيب و تصنيع جميع أنواع أفرشتكم بما فيه:\nالصالونات التقليدية و العصرية و أسرة النوم و الستائر و الريدوات\nبيع جميع الإحتياجات للمواد الأولية لصناعة الأفرشة و أسرة النوم بما فيه:\nالبونج بأنواعه الاواط توب العمارة جميع الإك",
+        "name": "FrachDari",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "بيع وصناعة جميع انواع الأثات ولوازم الأفرشة",
+        "payment:cash": "yes",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7180579957,
+      "lat": 34.0073898,
+      "lon": -6.8497156,
+      "tags": {
+        "name": "épicerie",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7180579958,
+      "lat": 34.0075298,
+      "lon": -6.8514697,
+      "tags": {
+        "name": "épicerie",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7182553733,
+      "lat": 33.9887089,
+      "lon": -6.82737,
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "131",
+        "addr:postcode": "10000",
+        "addr:street": "R401",
+        "name": "marjane",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185003408,
+      "lat": 34.0194901,
+      "lon": -6.843248,
+      "tags": {
+        "name": "Centre Commercial Ait Baha",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185016104,
+      "lat": 34.0195157,
+      "lon": -6.843249,
+      "tags": {
+        "name": "Ait Baha",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7209343685,
+      "lat": 33.9973431,
+      "lon": -6.8181658,
+      "tags": {
+        "name:fr": "Abdul Couturier",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7694255399,
+      "lat": 33.9458695,
+      "lon": -6.8698044,
+      "tags": {
+        "name": "Mosquée Lalla Khadija",
+        "payment:cash": "yes",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7720148010,
+      "lat": 33.9696521,
+      "lon": -6.8645104,
+      "tags": {
+        "name": "marjane market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781582539,
+      "lat": 33.953997,
+      "lon": -6.8527407,
+      "tags": {
+        "brand": "Paul",
+        "brand:wikidata": "Q3370417",
+        "brand:wikipedia": "en:Paul (bakery)",
+        "name": "Paul",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8010545731,
+      "lat": 33.9897606,
+      "lon": -6.8789976,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/E-Bale-107708973977923",
+        "name": "E-Bale Depot-vent. Sport et loisirs",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8044161899,
+      "lat": 34.0173589,
+      "lon": -6.8353515,
+      "tags": {
+        "name": "Librairie Alfia",
+        "phone": "0537263271",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8119378670,
+      "lat": 33.997657,
+      "lon": -6.8488774,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Avenue Fal Ould Oumeir شارع فال ولد عمير",
+        "air_conditioning": "yes",
+        "brand": "Alain Afflelou",
+        "level": "0",
+        "name": "Alain Afflelou Agdal",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "Alain Afflelou",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "optician",
+        "website": "https://www.facebook.com/Alainafflelourabat/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8119378671,
+      "lat": 34.0033279,
+      "lon": -6.8456534,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Avenue Omar Ibn Khattab شارع عمر بن الخطاب",
+        "air_conditioning": "yes",
+        "brand": "Alain Afflelou",
+        "level": "1",
+        "name": "Alain Afflelou Arribat Center",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "Alain Afflelou",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "optician",
+        "stroller": "yes",
+        "website": "https://www.facebook.com/Alainafflelourabat",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8165791517,
+      "lat": 34.0159646,
+      "lon": -6.8354536,
+      "tags": {
+        "name:en": "Liquor store",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8171336119,
+      "lat": 34.0206586,
+      "lon": -6.8435431,
+      "tags": {
+        "name:en": "Pressing",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8171336120,
+      "lat": 34.0219435,
+      "lon": -6.844655,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8176433908,
+      "lat": 34.0209906,
+      "lon": -6.8435188,
+      "tags": {
+        "phone": "+212668433863",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8182508244,
+      "lat": 33.9966808,
+      "lon": -6.856154,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8190218717,
+      "lat": 34.0210224,
+      "lon": -6.8435648,
+      "tags": {
+        "name": "Pressing Amsterdam",
+        "phone": "+212669157014",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8191100942,
+      "lat": 34.0204337,
+      "lon": -6.8419705,
+      "tags": {
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8215570140,
+      "lat": 34.0210158,
+      "lon": -6.8432574,
+      "tags": {
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243060213,
+      "lat": 34.0047585,
+      "lon": -6.85195,
+      "tags": {
+        "name": "Biougnach",
+        "shop": "hifi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243063410,
+      "lat": 34.0050543,
+      "lon": -6.8497104,
+      "tags": {
+        "name": "Orchidea",
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243063412,
+      "lat": 34.0055501,
+      "lon": -6.8473634,
+      "tags": {
+        "name": "Carrefour Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243063414,
+      "lat": 34.0042805,
+      "lon": -6.8517462,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243063416,
+      "lat": 34.0048252,
+      "lon": -6.850617,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243087419,
+      "lat": 34.003589,
+      "lon": -6.8437747,
+      "tags": {
+        "name": "Marjane",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243087420,
+      "lat": 34.0046051,
+      "lon": -6.8514619,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8289902407,
+      "lat": 33.9888022,
+      "lon": -6.8531044,
+      "tags": {
+        "name": "Patisserie La Spatule D'or",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "phone": "+212537674625",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8305487142,
+      "lat": 33.9892683,
+      "lon": -6.8513002,
+      "tags": {
+        "name": "La cave de Thalia",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8306192543,
+      "lat": 33.9946294,
+      "lon": -6.8502797,
+      "tags": {
+        "name": "Let's Shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8306513092,
+      "lat": 33.9943124,
+      "lon": -6.8496993,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8307167594,
+      "lat": 33.9891821,
+      "lon": -6.8510781,
+      "tags": {
+        "name": "Les Chais de L'Agdal",
+        "phone": "+212622268873",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8311424505,
+      "lat": 34.0228786,
+      "lon": -6.8268997,
+      "tags": {
+        "name": "Ben Music",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8311579231,
+      "lat": 34.0199369,
+      "lon": -6.8264099,
+      "tags": {
+        "name": "Les étoiles",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8311580496,
+      "lat": 34.0182461,
+      "lon": -6.8289252,
+      "tags": {
+        "name": "Alami Optical Center",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8314170866,
+      "lat": 33.9901216,
+      "lon": -6.8541157,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8383915327,
+      "lat": 33.9875474,
+      "lon": -6.8511987,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8384594885,
+      "lat": 33.9483571,
+      "lon": -6.8433886,
+      "tags": {
+        "name": "épicerie jnane souissi",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "open",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8393197521,
+      "lat": 33.9954866,
+      "lon": -6.8558858,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8468061317,
+      "lat": 33.9871882,
+      "lon": -6.8684493,
+      "tags": {
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8482034363,
+      "lat": 34.0014273,
+      "lon": -6.8503761,
+      "tags": {
+        "name": "Maison Chorouk",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8482058286,
+      "lat": 34.0012328,
+      "lon": -6.8499307,
+      "tags": {
+        "name": "optical blue",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8485157641,
+      "lat": 33.9923505,
+      "lon": -6.8711919,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8568720770,
+      "lat": 33.9882599,
+      "lon": -6.8521244,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Rue Soukaina",
+        "email": "lprabat_2@menara.ma",
+        "name": "LP Traiteur Pâtissier Rabat",
+        "phone": "+212537672679",
+        "shop": "pastry",
+        "website": "https://www.lprabat.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8592295725,
+      "lat": 33.9748731,
+      "lon": -6.8896674,
+      "tags": {
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8603298484,
+      "lat": 33.9883456,
+      "lon": -6.8278641,
+      "tags": {
+        "name": "Green Village Rabat",
+        "opening_hours": "Mo-Fr, Su 08:30-20:00; Sa 10:00-19:00",
+        "phone": "+212537757000",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8714383002,
+      "lat": 33.9905832,
+      "lon": -6.8700769,
+      "tags": {
+        "name": "Hard Auto Services",
+        "phone": "+212537290063",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8753990317,
+      "lat": 33.9894352,
+      "lon": -6.8513228,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8786534542,
+      "lat": 33.9955862,
+      "lon": -6.8199128,
+      "tags": {
+        "addr:city": "El Youssoufia اليوسفية",
+        "addr:housenumber": "IMM A2 , Magasin 3",
+        "addr:postcode": "10180",
+        "addr:street": "Avenue de Tadla شارع تادلا",
+        "internet_access": "wlan",
+        "name": "Boucherie superette bienvenue",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Boucherie-charcuterie",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+212537758858",
+        "shop": "butcher",
+        "website": "https://boucherie-superette-bienvenue.business.site/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8932550017,
+      "lat": 33.9920409,
+      "lon": -6.8479101,
+      "tags": {
+        "addr:street": "Rue 16 Novembre شارع 16 نوفمبر",
+        "name": "BOSCH Électroménager",
+        "phone": "+212537674365",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9032703817,
+      "lat": 33.9993663,
+      "lon": -6.849579,
+      "tags": {
+        "name": "Maroc Télécom",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96826325,
+      "nodes": [
+        1121872147,
+        1121872193,
+        1121872140,
+        1121872150,
+        1121872186,
+        1121872147
+      ],
+      "tags": {
+        "name": "Arribat Center",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109711402,
+      "nodes": [
+        1255216634,
+        1255216597,
+        1255216636,
+        4530898181,
+        1255216634
+      ],
+      "tags": {
+        "addr:postcode": "10100",
+        "addr:street": "Avenue Mohammed VI",
+        "building": "yes",
+        "name": "Mega Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205290539,
+      "nodes": [
+        2152709744,
+        2152709742,
+        2152709738,
+        2152709731,
+        2152709737,
+        2152709744
+      ],
+      "tags": {
+        "name": "Divers commerces",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205679892,
+      "nodes": [
+        2156544553,
+        2156544548,
+        2156544525,
+        7691920882,
+        7691920883,
+        2156544552,
+        2156544513,
+        2156544555,
+        2156544509,
+        2156544529,
+        2156544527,
+        2156544534,
+        2156544523,
+        2156544553
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Centre Commercial Marjane Hay Ryad",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 207076150,
+      "nodes": [
+        2171983591,
+        2171983631,
+        2171983669,
+        2171983482,
+        2171983471,
+        2171983466,
+        2171983513,
+        2171983591
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Carrefour Market",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260506724,
+      "nodes": [
+        2660049126,
+        2660049123,
+        2660049143,
+        2660049088,
+        2660049124,
+        2660049110,
+        2660049129,
+        2660049151,
+        2660049096,
+        2660049107,
+        2660049080,
+        2660049113,
+        2660049126
+      ],
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "building": "yes",
+        "name": "Mercedes Benz",
+        "operator": "Auto Nejma",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 280553238,
+      "nodes": [
+        2846508158,
+        2846508159,
+        2846508160,
+        2846508161,
+        2846508162,
+        2846508163,
+        2846508164,
+        2846508165,
+        2846508166,
+        2846508167,
+        2846508168,
+        2846508169,
+        2846508170,
+        2846508171,
+        2846508172,
+        2846508173,
+        2846508158
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Centre Comerciale Marjane Bouregreg",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284275861,
+      "nodes": [
+        2880182909,
+        2880182910,
+        7720148009,
+        2880182912,
+        2880182909
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Centre commercial",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297150369,
+      "nodes": [
+        3010005544,
+        3010005545,
+        3010005543,
+        3010005542,
+        3010005544
+      ],
+      "tags": {
+        "name": "Centre commercial",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297176565,
+      "nodes": [
+        3010277125,
+        3010277126,
+        3010277124,
+        3010277123,
+        3010277122,
+        3010277125
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Chez Karnas",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395452791,
+      "nodes": [
+        3983112140,
+        3983112152,
+        3983112066,
+        3983113401,
+        3983112140
+      ],
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "50",
+        "addr:postcode": "10080",
+        "addr:street": "Rue Jabal Oukaïmeden زنقة جبل أوكايمدن",
+        "building": "yes",
+        "description": "Traditional Thai Massage , provide by the hand of Thai therapist professional",
+        "email": "thaimassage@ttm.ma",
+        "fax": "+212537681923",
+        "name": "Traditional Thai Massage",
+        "opening_hours": "24/7",
+        "operator": "Jeera",
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 445902191,
+      "nodes": [
+        4432505385,
+        4432505386,
+        4432505387,
+        4432505388,
+        4432505385
+      ],
+      "tags": {
+        "name": "Renault",
+        "operator": "Hakam",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451704851,
+      "nodes": [
+        4485260511,
+        4485260512,
+        4485260513,
+        4485260514,
+        4485260515,
+        4485260516,
+        4485260517,
+        4485260518,
+        4485260519,
+        4485260520,
+        4485260521,
+        4485260522,
+        4485260523,
+        4485260511
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Auto Hall",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 506235584,
+      "nodes": [
+        4960023663,
+        4960023664,
+        4960023665,
+        4960023666,
+        4960023667,
+        4960023668,
+        4960023669,
+        4960023670,
+        4960023663
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hypermarché Asswak Assalam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 581182296,
+      "nodes": [
+        5561512452,
+        5561512453,
+        5561512454,
+        7691920881,
+        5561512452
+      ],
+      "tags": {
+        "brand": "Decathlon",
+        "brand:wikidata": "Q509349",
+        "brand:wikipedia": "en:Decathlon Group",
+        "building": "yes",
+        "name": "Decathlon",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "way",
+      "id": 581182340,
+      "nodes": [
+        5561513095,
+        5561513096,
+        5561513097,
+        5561513098,
+        5561513095
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 581186993,
+      "nodes": [
+        5561542651,
+        5561542652,
+        5561542653,
+        5561542654,
+        5561542655,
+        5561542656,
+        5561542651
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Supérmarché ACIMA",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 601112674,
+      "nodes": [
+        5713923302,
+        5713923303,
+        5713923304,
+        5713923305,
+        5713923302
+      ],
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Avenue Hassan II",
+        "building": "yes",
+        "name": "Volkswagen",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:used_car_sales": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 601112806,
+      "nodes": [
+        5713923477,
+        5713923478,
+        5713923479,
+        5713923480,
+        5713923477
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 601117219,
+      "nodes": [
+        5713969013,
+        5713969014,
+        5713969015,
+        5713969016,
+        5713969013
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609297347,
+      "nodes": [
+        5771379012,
+        5771379011,
+        5771379010,
+        5771379009,
+        5771379012
+      ],
+      "tags": {
+        "addr:street": "Rue Al Hind",
+        "building": "yes",
+        "name": "Centre Commercial Ezzaouia",
+        "shop": "mall",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610292354,
+      "nodes": [
+        5780017846,
+        5780017843,
+        5780017844,
+        5780017845,
+        5780017846
+      ],
+      "tags": {
+        "brand": "Afriquia",
+        "building": "roof",
+        "name": "Speedy",
+        "shop": "car_repair",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684390227,
+      "nodes": [
+        6411908176,
+        6411908177,
+        6411908178,
+        6415558109,
+        6411908179,
+        6415558108,
+        6411908176
+      ],
+      "tags": {
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "building": "yes",
+        "name": "Carrefour Gourmet",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Groupe Carrefour",
+        "operator:wikidata": "Q3117359",
+        "operator:wikipedia": "fr:Groupe Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 745640572,
+      "nodes": [
+        6979256427,
+        6979256428,
+        4460489552,
+        4460489551,
+        6979256427
+      ],
+      "tags": {
+        "brand": "Lacoste",
+        "brand:wikidata": "Q309031",
+        "brand:wikipedia": "en:Lacoste",
+        "building": "retail",
+        "name": "Lacoste",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 745657818,
+      "nodes": [
+        6979409020,
+        6979409021,
+        6979409022,
+        6979409023,
+        6979409024,
+        6979409020
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "way",
+      "id": 768783473,
+      "nodes": [
+        7177237789,
+        7177266492,
+        7177266493,
+        7177237790,
+        7177237791,
+        7177237792,
+        7177237789
+      ],
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Rue Jaafar Assidiq",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "fr:Carrefour Market",
+        "building": "commercial",
+        "layer": "1",
+        "name": "Carrefour Market",
+        "name:fa": "کارفور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 769072322,
+      "nodes": [
+        7179162414,
+        7179162415,
+        7179162416,
+        7179162417,
+        7179162414
+      ],
+      "tags": {
+        "addr:city": "Rabat",
+        "addr:housenumber": "4",
+        "addr:postcode": "10000",
+        "addr:street": "Rue Ghaza زنقة غزة",
+        "building": "bookshop",
+        "building:levels": "1",
+        "name": "Librairie Populaire",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 769472729,
+      "nodes": [
+        7182620746,
+        7182620747,
+        7182620748,
+        7182620749,
+        7182620746
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "-1",
+        "name": "Salon de coiffure Cheez Youssef",
+        "operator": "Youssef",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4960023663,
+      "lat": 33.9484267,
+      "lon": -6.8695076
+    },
+    {
+      "type": "node",
+      "id": 4960023664,
+      "lat": 33.9486503,
+      "lon": -6.869292
+    },
+    {
+      "type": "node",
+      "id": 4960023665,
+      "lat": 33.9487065,
+      "lon": -6.8689453
+    },
+    {
+      "type": "node",
+      "id": 4960023666,
+      "lat": 33.9485724,
+      "lon": -6.8686419
+    },
+    {
+      "type": "node",
+      "id": 4960023667,
+      "lat": 33.9482145,
+      "lon": -6.8685417
+    },
+    {
+      "type": "node",
+      "id": 4960023668,
+      "lat": 33.9480216,
+      "lon": -6.8687266
+    },
+    {
+      "type": "node",
+      "id": 4960023669,
+      "lat": 33.9479602,
+      "lon": -6.8691148
+    },
+    {
+      "type": "node",
+      "id": 4960023670,
+      "lat": 33.9480931,
+      "lon": -6.869426
+    },
+    {
+      "type": "node",
+      "id": 2152709731,
+      "lat": 33.9576814,
+      "lon": -6.8793022
+    },
+    {
+      "type": "node",
+      "id": 2152709737,
+      "lat": 33.9577956,
+      "lon": -6.8791935
+    },
+    {
+      "type": "node",
+      "id": 2152709738,
+      "lat": 33.9580095,
+      "lon": -6.8798035
+    },
+    {
+      "type": "node",
+      "id": 2152709742,
+      "lat": 33.9580926,
+      "lon": -6.8797245
+    },
+    {
+      "type": "node",
+      "id": 2152709744,
+      "lat": 33.9581131,
+      "lon": -6.8796787
+    },
+    {
+      "type": "node",
+      "id": 2171983466,
+      "lat": 33.9624872,
+      "lon": -6.8770217
+    },
+    {
+      "type": "node",
+      "id": 2171983471,
+      "lat": 33.9624694,
+      "lon": -6.8770942
+    },
+    {
+      "type": "node",
+      "id": 2171983482,
+      "lat": 33.9621757,
+      "lon": -6.8773114
+    },
+    {
+      "type": "node",
+      "id": 2171983513,
+      "lat": 33.962347,
+      "lon": -6.8767267
+    },
+    {
+      "type": "node",
+      "id": 2171983591,
+      "lat": 33.9623225,
+      "lon": -6.8767321
+    },
+    {
+      "type": "node",
+      "id": 2171983631,
+      "lat": 33.9619444,
+      "lon": -6.8769761
+    },
+    {
+      "type": "node",
+      "id": 2171983669,
+      "lat": 33.9620979,
+      "lon": -6.8772953
+    },
+    {
+      "type": "node",
+      "id": 5713923302,
+      "lat": 33.9858643,
+      "lon": -6.8686715
+    },
+    {
+      "type": "node",
+      "id": 5713923303,
+      "lat": 33.9862256,
+      "lon": -6.8683543
+    },
+    {
+      "type": "node",
+      "id": 5713923304,
+      "lat": 33.9865608,
+      "lon": -6.8690445
+    },
+    {
+      "type": "node",
+      "id": 5713923305,
+      "lat": 33.9861822,
+      "lon": -6.8693198
+    },
+    {
+      "type": "node",
+      "id": 5713923477,
+      "lat": 33.9855926,
+      "lon": -6.8696196
+    },
+    {
+      "type": "node",
+      "id": 5713923478,
+      "lat": 33.985766,
+      "lon": -6.8694872
+    },
+    {
+      "type": "node",
+      "id": 5713923479,
+      "lat": 33.985555,
+      "lon": -6.8690828
+    },
+    {
+      "type": "node",
+      "id": 5713923480,
+      "lat": 33.9853787,
+      "lon": -6.8692362
+    },
+    {
+      "type": "node",
+      "id": 5713969013,
+      "lat": 33.9858643,
+      "lon": -6.8694314
+    },
+    {
+      "type": "node",
+      "id": 5713969014,
+      "lat": 33.9860984,
+      "lon": -6.8692397
+    },
+    {
+      "type": "node",
+      "id": 5713969015,
+      "lat": 33.9858787,
+      "lon": -6.8688423
+    },
+    {
+      "type": "node",
+      "id": 5713969016,
+      "lat": 33.9856417,
+      "lon": -6.8690305
+    },
+    {
+      "type": "node",
+      "id": 7182620746,
+      "lat": 33.9520018,
+      "lon": -6.8552754
+    },
+    {
+      "type": "node",
+      "id": 7182620747,
+      "lat": 33.9520115,
+      "lon": -6.8553175
+    },
+    {
+      "type": "node",
+      "id": 7182620748,
+      "lat": 33.9518546,
+      "lon": -6.8553338
+    },
+    {
+      "type": "node",
+      "id": 7182620749,
+      "lat": 33.9518546,
+      "lon": -6.8552824
+    },
+    {
+      "type": "node",
+      "id": 2156544509,
+      "lat": 33.9539288,
+      "lon": -6.8542995
+    },
+    {
+      "type": "node",
+      "id": 2156544513,
+      "lat": 33.9547571,
+      "lon": -6.8531091
+    },
+    {
+      "type": "node",
+      "id": 2156544523,
+      "lat": 33.9534952,
+      "lon": -6.8546489
+    },
+    {
+      "type": "node",
+      "id": 2156544525,
+      "lat": 33.9527984,
+      "lon": -6.8542891
+    },
+    {
+      "type": "node",
+      "id": 2156544527,
+      "lat": 33.953604,
+      "lon": -6.854203
+    },
+    {
+      "type": "node",
+      "id": 2156544529,
+      "lat": 33.9538621,
+      "lon": -6.8544122
+    },
+    {
+      "type": "node",
+      "id": 2156544534,
+      "lat": 33.9533958,
+      "lon": -6.854571
+    },
+    {
+      "type": "node",
+      "id": 2156544548,
+      "lat": 33.9531877,
+      "lon": -6.8546034
+    },
+    {
+      "type": "node",
+      "id": 2156544552,
+      "lat": 33.9548689,
+      "lon": -6.852885
+    },
+    {
+      "type": "node",
+      "id": 2156544553,
+      "lat": 33.9534232,
+      "lon": -6.8547855
+    },
+    {
+      "type": "node",
+      "id": 2156544555,
+      "lat": 33.9540356,
+      "lon": -6.8543693
+    },
+    {
+      "type": "node",
+      "id": 5561512452,
+      "lat": 33.9548652,
+      "lon": -6.8527859
+    },
+    {
+      "type": "node",
+      "id": 5561512453,
+      "lat": 33.9550472,
+      "lon": -6.8525116
+    },
+    {
+      "type": "node",
+      "id": 5561512454,
+      "lat": 33.9546683,
+      "lon": -6.8521704
+    },
+    {
+      "type": "node",
+      "id": 5561513095,
+      "lat": 33.9541873,
+      "lon": -6.85117
+    },
+    {
+      "type": "node",
+      "id": 5561513096,
+      "lat": 33.9539243,
+      "lon": -6.8507757
+    },
+    {
+      "type": "node",
+      "id": 5561513097,
+      "lat": 33.9538299,
+      "lon": -6.8508895
+    },
+    {
+      "type": "node",
+      "id": 5561513098,
+      "lat": 33.9540828,
+      "lon": -6.8512757
+    },
+    {
+      "type": "node",
+      "id": 5780017843,
+      "lat": 33.9536014,
+      "lon": -6.8511309
+    },
+    {
+      "type": "node",
+      "id": 5780017844,
+      "lat": 33.9535302,
+      "lon": -6.8510879
+    },
+    {
+      "type": "node",
+      "id": 5780017845,
+      "lat": 33.953398,
+      "lon": -6.8514066
+    },
+    {
+      "type": "node",
+      "id": 5780017846,
+      "lat": 33.9534692,
+      "lon": -6.8514495
+    },
+    {
+      "type": "node",
+      "id": 7691920881,
+      "lat": 33.9544898,
+      "lon": -6.8524782
+    },
+    {
+      "type": "node",
+      "id": 7691920882,
+      "lat": 33.9540129,
+      "lon": -6.8521501
+    },
+    {
+      "type": "node",
+      "id": 7691920883,
+      "lat": 33.9546124,
+      "lon": -6.8526892
+    },
+    {
+      "type": "node",
+      "id": 2880182909,
+      "lat": 33.9689893,
+      "lon": -6.8645391
+    },
+    {
+      "type": "node",
+      "id": 2880182910,
+      "lat": 33.969663,
+      "lon": -6.8642444
+    },
+    {
+      "type": "node",
+      "id": 2880182912,
+      "lat": 33.9690087,
+      "lon": -6.8646095
+    },
+    {
+      "type": "node",
+      "id": 7720148009,
+      "lat": 33.9697624,
+      "lon": -6.8646154
+    },
+    {
+      "type": "node",
+      "id": 6979409020,
+      "lat": 33.9689455,
+      "lon": -6.8551014
+    },
+    {
+      "type": "node",
+      "id": 6979409024,
+      "lat": 33.9689299,
+      "lon": -6.8551175
+    },
+    {
+      "type": "node",
+      "id": 5561542651,
+      "lat": 33.9660275,
+      "lon": -6.8514759
+    },
+    {
+      "type": "node",
+      "id": 5561542652,
+      "lat": 33.9656402,
+      "lon": -6.8508548
+    },
+    {
+      "type": "node",
+      "id": 5561542653,
+      "lat": 33.9651406,
+      "lon": -6.8513358
+    },
+    {
+      "type": "node",
+      "id": 5561542654,
+      "lat": 33.9654737,
+      "lon": -6.8519055
+    },
+    {
+      "type": "node",
+      "id": 5561542655,
+      "lat": 33.9656828,
+      "lon": -6.851672
+    },
+    {
+      "type": "node",
+      "id": 5561542656,
+      "lat": 33.965737,
+      "lon": -6.8517607
+    },
+    {
+      "type": "node",
+      "id": 6979409021,
+      "lat": 33.9690778,
+      "lon": -6.8549593
+    },
+    {
+      "type": "node",
+      "id": 6979409022,
+      "lat": 33.9690266,
+      "lon": -6.8548654
+    },
+    {
+      "type": "node",
+      "id": 6979409023,
+      "lat": 33.9688654,
+      "lon": -6.855029
+    },
+    {
+      "type": "node",
+      "id": 2660049080,
+      "lat": 33.9894858,
+      "lon": -6.8658095
+    },
+    {
+      "type": "node",
+      "id": 2660049088,
+      "lat": 33.9891086,
+      "lon": -6.866032
+    },
+    {
+      "type": "node",
+      "id": 2660049096,
+      "lat": 33.9897883,
+      "lon": -6.8662179
+    },
+    {
+      "type": "node",
+      "id": 2660049107,
+      "lat": 33.9897262,
+      "lon": -6.8662655
+    },
+    {
+      "type": "node",
+      "id": 2660049110,
+      "lat": 33.9892095,
+      "lon": -6.8663614
+    },
+    {
+      "type": "node",
+      "id": 2660049113,
+      "lat": 33.9893879,
+      "lon": -6.8658845
+    },
+    {
+      "type": "node",
+      "id": 2660049123,
+      "lat": 33.989037,
+      "lon": -6.8657371
+    },
+    {
+      "type": "node",
+      "id": 2660049124,
+      "lat": 33.9892613,
+      "lon": -6.8663217
+    },
+    {
+      "type": "node",
+      "id": 2660049126,
+      "lat": 33.9892316,
+      "lon": -6.8655879
+    },
+    {
+      "type": "node",
+      "id": 2660049129,
+      "lat": 33.9894023,
+      "lon": -6.8667271
+    },
+    {
+      "type": "node",
+      "id": 2660049143,
+      "lat": 33.9891683,
+      "lon": -6.8659862
+    },
+    {
+      "type": "node",
+      "id": 2660049151,
+      "lat": 33.9898683,
+      "lon": -6.8663697
+    },
+    {
+      "type": "node",
+      "id": 7177237789,
+      "lat": 33.9873752,
+      "lon": -6.8494675
+    },
+    {
+      "type": "node",
+      "id": 7177237790,
+      "lat": 33.9873098,
+      "lon": -6.8496282
+    },
+    {
+      "type": "node",
+      "id": 7177237791,
+      "lat": 33.9872592,
+      "lon": -6.8495983
+    },
+    {
+      "type": "node",
+      "id": 7177237792,
+      "lat": 33.9873246,
+      "lon": -6.8494375
+    },
+    {
+      "type": "node",
+      "id": 7177266492,
+      "lat": 33.9873553,
+      "lon": -6.8495164
+    },
+    {
+      "type": "node",
+      "id": 7177266493,
+      "lat": 33.9873355,
+      "lon": -6.8495652
+    },
+    {
+      "type": "node",
+      "id": 1255216597,
+      "lat": 33.9681668,
+      "lon": -6.8293388
+    },
+    {
+      "type": "node",
+      "id": 1255216634,
+      "lat": 33.9677622,
+      "lon": -6.8311248
+    },
+    {
+      "type": "node",
+      "id": 1255216636,
+      "lat": 33.9677483,
+      "lon": -6.8291893
+    },
+    {
+      "type": "node",
+      "id": 4530898181,
+      "lat": 33.9673683,
+      "lon": -6.8309858
+    },
+    {
+      "type": "node",
+      "id": 6411908176,
+      "lat": 33.9743788,
+      "lon": -6.8297558
+    },
+    {
+      "type": "node",
+      "id": 6411908177,
+      "lat": 33.9745772,
+      "lon": -6.8289211
+    },
+    {
+      "type": "node",
+      "id": 6411908179,
+      "lat": 33.9741889,
+      "lon": -6.8292183
+    },
+    {
+      "type": "node",
+      "id": 6415558108,
+      "lat": 33.9740852,
+      "lon": -6.8296543
+    },
+    {
+      "type": "node",
+      "id": 6415558109,
+      "lat": 33.9736418,
+      "lon": -6.8290292
+    },
+    {
+      "type": "node",
+      "id": 6411908178,
+      "lat": 33.9737365,
+      "lon": -6.8286306
+    },
+    {
+      "type": "node",
+      "id": 4432505385,
+      "lat": 33.9955028,
+      "lon": -6.8627085
+    },
+    {
+      "type": "node",
+      "id": 4432505387,
+      "lat": 33.9938684,
+      "lon": -6.8620255
+    },
+    {
+      "type": "node",
+      "id": 4432505388,
+      "lat": 33.9946137,
+      "lon": -6.8632961
+    },
+    {
+      "type": "node",
+      "id": 4432505386,
+      "lat": 33.9949893,
+      "lon": -6.8615937
+    },
+    {
+      "type": "node",
+      "id": 3983112066,
+      "lat": 33.9951898,
+      "lon": -6.8493934
+    },
+    {
+      "type": "node",
+      "id": 3983112140,
+      "lat": 33.9953766,
+      "lon": -6.8493023
+    },
+    {
+      "type": "node",
+      "id": 3983112152,
+      "lat": 33.9952542,
+      "lon": -6.8492219
+    },
+    {
+      "type": "node",
+      "id": 3983113401,
+      "lat": 33.9953121,
+      "lon": -6.8494578
+    },
+    {
+      "type": "node",
+      "id": 4460489551,
+      "lat": 33.995481,
+      "lon": -6.850358
+    },
+    {
+      "type": "node",
+      "id": 4460489552,
+      "lat": 33.9955244,
+      "lon": -6.8502266
+    },
+    {
+      "type": "node",
+      "id": 6979256427,
+      "lat": 33.9955622,
+      "lon": -6.8503965
+    },
+    {
+      "type": "node",
+      "id": 6979256428,
+      "lat": 33.9956009,
+      "lon": -6.8502681
+    },
+    {
+      "type": "node",
+      "id": 1121872150,
+      "lat": 34.0028096,
+      "lon": -6.843394
+    },
+    {
+      "type": "node",
+      "id": 1121872186,
+      "lat": 34.0021572,
+      "lon": -6.845509
+    },
+    {
+      "type": "node",
+      "id": 1121872140,
+      "lat": 34.0036169,
+      "lon": -6.8431579
+    },
+    {
+      "type": "node",
+      "id": 1121872147,
+      "lat": 34.0045466,
+      "lon": -6.8466304
+    },
+    {
+      "type": "node",
+      "id": 1121872193,
+      "lat": 34.0039024,
+      "lon": -6.8435219
+    },
+    {
+      "type": "node",
+      "id": 5771379009,
+      "lat": 34.01452,
+      "lon": -6.8530053
+    },
+    {
+      "type": "node",
+      "id": 5771379010,
+      "lat": 34.0148057,
+      "lon": -6.8526271
+    },
+    {
+      "type": "node",
+      "id": 5771379011,
+      "lat": 34.0150324,
+      "lon": -6.8528764
+    },
+    {
+      "type": "node",
+      "id": 5771379012,
+      "lat": 34.0147468,
+      "lon": -6.8532546
+    },
+    {
+      "type": "node",
+      "id": 3010005542,
+      "lat": 33.9916591,
+      "lon": -6.8291982
+    },
+    {
+      "type": "node",
+      "id": 3010005543,
+      "lat": 33.9918064,
+      "lon": -6.8288792
+    },
+    {
+      "type": "node",
+      "id": 3010005544,
+      "lat": 33.9918106,
+      "lon": -6.8292999
+    },
+    {
+      "type": "node",
+      "id": 3010005545,
+      "lat": 33.9919579,
+      "lon": -6.8289809
+    },
+    {
+      "type": "node",
+      "id": 3010277122,
+      "lat": 34.0085686,
+      "lon": -6.839071
+    },
+    {
+      "type": "node",
+      "id": 3010277123,
+      "lat": 34.008576,
+      "lon": -6.8390208
+    },
+    {
+      "type": "node",
+      "id": 3010277124,
+      "lat": 34.0085834,
+      "lon": -6.8389705
+    },
+    {
+      "type": "node",
+      "id": 3010277125,
+      "lat": 34.0085972,
+      "lon": -6.8390771
+    },
+    {
+      "type": "node",
+      "id": 3010277126,
+      "lat": 34.0086119,
+      "lon": -6.8389766
+    },
+    {
+      "type": "node",
+      "id": 4485260511,
+      "lat": 34.0182731,
+      "lon": -6.8434922
+    },
+    {
+      "type": "node",
+      "id": 4485260512,
+      "lat": 34.0181748,
+      "lon": -6.8430133
+    },
+    {
+      "type": "node",
+      "id": 4485260513,
+      "lat": 34.0180588,
+      "lon": -6.8430133
+    },
+    {
+      "type": "node",
+      "id": 4485260514,
+      "lat": 34.0179324,
+      "lon": -6.8429878
+    },
+    {
+      "type": "node",
+      "id": 4485260515,
+      "lat": 34.0176022,
+      "lon": -6.8428819
+    },
+    {
+      "type": "node",
+      "id": 4485260516,
+      "lat": 34.0172966,
+      "lon": -6.843204
+    },
+    {
+      "type": "node",
+      "id": 4485260517,
+      "lat": 34.017409,
+      "lon": -6.8433057
+    },
+    {
+      "type": "node",
+      "id": 4485260518,
+      "lat": 34.017546,
+      "lon": -6.8433905
+    },
+    {
+      "type": "node",
+      "id": 4485260519,
+      "lat": 34.0181256,
+      "lon": -6.8436363
+    },
+    {
+      "type": "node",
+      "id": 4485260520,
+      "lat": 34.0181958,
+      "lon": -6.8436447
+    },
+    {
+      "type": "node",
+      "id": 4485260521,
+      "lat": 34.0182415,
+      "lon": -6.8436236
+    },
+    {
+      "type": "node",
+      "id": 4485260522,
+      "lat": 34.0182661,
+      "lon": -6.8435939
+    },
+    {
+      "type": "node",
+      "id": 4485260523,
+      "lat": 34.0182802,
+      "lon": -6.843543
+    },
+    {
+      "type": "node",
+      "id": 7179162414,
+      "lat": 34.0210899,
+      "lon": -6.8364215
+    },
+    {
+      "type": "node",
+      "id": 7179162415,
+      "lat": 34.0211262,
+      "lon": -6.8363143
+    },
+    {
+      "type": "node",
+      "id": 7179162416,
+      "lat": 34.0211698,
+      "lon": -6.8363376
+    },
+    {
+      "type": "node",
+      "id": 7179162417,
+      "lat": 34.0211345,
+      "lon": -6.8364421
+    },
+    {
+      "type": "node",
+      "id": 2846508158,
+      "lat": 34.019394,
+      "lon": -6.8166935
+    },
+    {
+      "type": "node",
+      "id": 2846508159,
+      "lat": 34.0183525,
+      "lon": -6.8166828
+    },
+    {
+      "type": "node",
+      "id": 2846508172,
+      "lat": 34.019572,
+      "lon": -6.8159133
+    },
+    {
+      "type": "node",
+      "id": 2846508173,
+      "lat": 34.0193995,
+      "lon": -6.8159116
+    },
+    {
+      "type": "node",
+      "id": 2846508160,
+      "lat": 34.0183612,
+      "lon": -6.8154569
+    },
+    {
+      "type": "node",
+      "id": 2846508161,
+      "lat": 34.0185293,
+      "lon": -6.8154586
+    },
+    {
+      "type": "node",
+      "id": 2846508162,
+      "lat": 34.0185283,
+      "lon": -6.8156077
+    },
+    {
+      "type": "node",
+      "id": 2846508163,
+      "lat": 34.018566,
+      "lon": -6.8156081
+    },
+    {
+      "type": "node",
+      "id": 2846508164,
+      "lat": 34.0185667,
+      "lon": -6.8155228
+    },
+    {
+      "type": "node",
+      "id": 2846508165,
+      "lat": 34.0188088,
+      "lon": -6.8155253
+    },
+    {
+      "type": "node",
+      "id": 2846508166,
+      "lat": 34.0188094,
+      "lon": -6.8154306
+    },
+    {
+      "type": "node",
+      "id": 2846508167,
+      "lat": 34.0192892,
+      "lon": -6.8154356
+    },
+    {
+      "type": "node",
+      "id": 2846508168,
+      "lat": 34.0192881,
+      "lon": -6.8155972
+    },
+    {
+      "type": "node",
+      "id": 2846508169,
+      "lat": 34.019526,
+      "lon": -6.8155996
+    },
+    {
+      "type": "node",
+      "id": 2846508170,
+      "lat": 34.0195251,
+      "lon": -6.815727
+    },
+    {
+      "type": "node",
+      "id": 2846508171,
+      "lat": 34.0195733,
+      "lon": -6.8157275
+    }
+  ]
+}

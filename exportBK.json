@@ -1,0 +1,3509 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-15T17:10:41Z",
+    "timestamp_areas_base": "2021-09-15T15:56:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1255216599,
+      "lat": 33.960579,
+      "lon": -6.8680772,
+      "tags": {
+        "alt_name:ar": "الشركة العامة",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "سوسيتيه جنرال",
+        "brand:ar": "سوسيتيه جنرال",
+        "brand:wikidata": "Q270363",
+        "brand:wikipedia": "ar:سوسيتيه جنرال",
+        "brand:wikipedia:ar": "سوسيتيه جنرال",
+        "name": "Société Générale سوسيتيه جنرال",
+        "name:ar": "سوسيتيه جنرال",
+        "name:fr": "Société Générale",
+        "operator": "سوسيتيه جنرال",
+        "operator:ar": "سوسيتيه جنرال",
+        "operator:wikidata": "Q270363",
+        "operator:wikipedia": "ar:سوسيتيه جنرال",
+        "operator:wikipedia:ar": "سوسيتيه جنرال"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1255216629,
+      "lat": 33.9599774,
+      "lon": -6.8741464,
+      "tags": {
+        "addr:postcode": "10100",
+        "addr:street": "Avenue Annakhil",
+        "alt_name:ar": "الشركة العامة",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "سوسيتيه جنرال",
+        "brand:ar": "سوسيتيه جنرال",
+        "brand:wikidata": "Q270363",
+        "brand:wikipedia": "ar:سوسيتيه جنرال",
+        "brand:wikipedia:ar": "سوسيتيه جنرال",
+        "designation": "Société Générale",
+        "name": "Société Générale سوسيتيه جنرال",
+        "name:ar": "سوسيتيه جنرال",
+        "name:fr": "Société Générale",
+        "operator": "سوسيتيه جنرال",
+        "operator:ar": "سوسيتيه جنرال",
+        "operator:wikidata": "Q270363",
+        "operator:wikipedia": "ar:سوسيتيه جنرال",
+        "operator:wikipedia:ar": "سوسيتيه جنرال"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1421320010,
+      "lat": 33.9621862,
+      "lon": -6.8640709,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1421320076,
+      "lat": 33.9595044,
+      "lon": -6.8677831,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422294994,
+      "lat": 33.9625825,
+      "lon": -6.8643307,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429132115,
+      "lat": 33.9935498,
+      "lon": -6.8472432,
+      "tags": {
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429252920,
+      "lat": 33.9948262,
+      "lon": -6.8470949,
+      "tags": {
+        "addr:housenumber": "107 ter",
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CIH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429257574,
+      "lat": 33.9960115,
+      "lon": -6.8480927,
+      "tags": {
+        "amenity": "bank",
+        "name": "Crédit du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2614573500,
+      "lat": 34.0206846,
+      "lon": -6.8303502,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617609311,
+      "lat": 34.0178156,
+      "lon": -6.8288651,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623435855,
+      "lat": 34.0164194,
+      "lon": -6.8324217,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2626897156,
+      "lat": 34.0200852,
+      "lon": -6.835305,
+      "tags": {
+        "addr:street": "Avenue Allal Ben Abdellah",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2626897166,
+      "lat": 34.0222678,
+      "lon": -6.8369156,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Arab Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3111468652,
+      "lat": 34.0247223,
+      "lon": -6.8302396,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "alt_name:ar": "الشركة العامة",
+        "amenity": "bank",
+        "brand": "سوسيتيه جنرال",
+        "brand:ar": "سوسيتيه جنرال",
+        "brand:wikidata": "Q270363",
+        "brand:wikipedia": "ar:سوسيتيه جنرال",
+        "brand:wikipedia:ar": "سوسيتيه جنرال",
+        "name": "Société Générale سوسيتيه جنرال",
+        "name:ar": "سوسيتيه جنرال",
+        "name:fr": "Société Générale",
+        "operator": "سوسيتيه جنرال",
+        "operator:ar": "سوسيتيه جنرال",
+        "operator:wikidata": "Q270363",
+        "operator:wikipedia": "ar:سوسيتيه جنرال",
+        "operator:wikipedia:ar": "سوسيتيه جنرال"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3116669261,
+      "lat": 34.0174855,
+      "lon": -6.8286846,
+      "tags": {
+        "addr:street": "Avenue Tripoli",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3189941700,
+      "lat": 34.0210833,
+      "lon": -6.8270481,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3217569193,
+      "lat": 34.0175411,
+      "lon": -6.8268783,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Attijariwafa bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3363127004,
+      "lat": 33.999374,
+      "lon": -6.8444241,
+      "tags": {
+        "addr:street": "Avenue Omar Ibn Khattab",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CIH",
+        "website": "http://www.cihbank.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400357955,
+      "lat": 34.0138082,
+      "lon": -6.8287126,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410397262,
+      "lat": 34.0234042,
+      "lon": -6.8322968,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole - Rabat - Chellah",
+        "operator": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410437723,
+      "lat": 34.0206399,
+      "lon": -6.8356911,
+      "tags": {
+        "addr:street": "Avenue Allal Ben Abdellah",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3413975980,
+      "lat": 34.0206896,
+      "lon": -6.8374506,
+      "tags": {
+        "amenity": "bank",
+        "name": "Bmce"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3417559338,
+      "lat": 34.00076,
+      "lon": -6.8463746,
+      "tags": {
+        "addr:street": "Rue Oued Baht",
+        "amenity": "bank",
+        "name": "Attijariwafabank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434788504,
+      "lat": 34.0224369,
+      "lon": -6.8305512,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "addr:street": "Avenue Abdelmoumen",
+        "amenity": "bank",
+        "name": "Credit Du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434791261,
+      "lat": 34.0239737,
+      "lon": -6.8301282,
+      "tags": {
+        "addr:city:en": "Rabat",
+        "amenity": "bank",
+        "name": "Bmci"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434791262,
+      "lat": 34.0235441,
+      "lon": -6.8297005,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3434818741,
+      "lat": 34.0242766,
+      "lon": -6.8301466,
+      "tags": {
+        "addr:street": "Avenue Moulay Ismail",
+        "amenity": "bank",
+        "name": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436585819,
+      "lat": 34.022838,
+      "lon": -6.8458651,
+      "tags": {
+        "addr:street": "Avenue Al Mouqaouama شارع المقاومة",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3436707872,
+      "lat": 33.9543473,
+      "lon": -6.8649181,
+      "tags": {
+        "amenity": "bank",
+        "name": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572810195,
+      "lat": 34.0061108,
+      "lon": -6.8563157,
+      "tags": {
+        "addr:housenumber": "457",
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Banque Populaire",
+        "operator:ar": "البنك الشعبي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572851405,
+      "lat": 34.0110826,
+      "lon": -6.8592864,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Al Barid Bank - Rabat - Akkari",
+        "operator": "Al Barid Bank",
+        "operator:ar": "البريد بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572851407,
+      "lat": 34.0115517,
+      "lon": -6.8588009,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CIH Bank - Rabat - Akkari",
+        "operator": "CIH Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572853894,
+      "lat": 34.0137906,
+      "lon": -6.8564781,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCE - Rabat - Akkari",
+        "operator": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586311710,
+      "lat": 34.0270318,
+      "lon": -6.841688,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Al Barid Bank",
+        "operator": "Al Barid Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586315218,
+      "lat": 34.0272402,
+      "lon": -6.8407881,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586326031,
+      "lat": 34.0219144,
+      "lon": -6.83778,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Attijariwafa bank",
+        "operator": "Attijariwafa bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586359746,
+      "lat": 34.0256027,
+      "lon": -6.8456666,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCI - Rabat - Océan",
+        "operator": "BMCI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586367694,
+      "lat": 34.0205139,
+      "lon": -6.842274,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole - Rabat - Hassan II",
+        "operator": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586372471,
+      "lat": 34.0197537,
+      "lon": -6.8429835,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Société Générale - Rabat - Bab el Had",
+        "operator": "Société Générale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593222692,
+      "lat": 33.9905075,
+      "lon": -6.8516215,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Avenue Ibn Sina",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit du Maroc - Rabat - Ibn Sina",
+        "operator": "Crédit du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593225294,
+      "lat": 33.9908768,
+      "lon": -6.8516615,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCE - Rabat - Ibn Sina",
+        "operator": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593241636,
+      "lat": 33.9912994,
+      "lon": -6.851243,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banque Populaire - Rabat - Zellaqa",
+        "operator": "Banque Populaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593257079,
+      "lat": 34.0020201,
+      "lon": -6.8506556,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Société Générale - Rabat - Fal Ould Oumeir",
+        "operator": "Société Générale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593262067,
+      "lat": 34.0025267,
+      "lon": -6.8501507,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banque Populaire - Rabat - Oqbah",
+        "operator": "Banque Populaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593330933,
+      "lat": 34.0054776,
+      "lon": -6.8495854,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit du Maroc",
+        "operator": "Crédit du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3593335893,
+      "lat": 34.0053198,
+      "lon": -6.8493065,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701004582,
+      "lat": 34.0202863,
+      "lon": -6.8448757,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702119346,
+      "lat": 33.9997646,
+      "lon": -6.8468112,
+      "tags": {
+        "addr:street": "Rue Tensift",
+        "alt_name:ar": "الشركة العامة",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "سوسيتيه جنرال",
+        "brand:ar": "سوسيتيه جنرال",
+        "brand:wikidata": "Q270363",
+        "brand:wikipedia": "ar:سوسيتيه جنرال",
+        "brand:wikipedia:ar": "سوسيتيه جنرال",
+        "name": "Société Générale سوسيتيه جنرال",
+        "name:ar": "سوسيتيه جنرال",
+        "name:fr": "Société Générale",
+        "operator": "سوسيتيه جنرال",
+        "operator:ar": "سوسيتيه جنرال",
+        "operator:wikidata": "Q270363",
+        "operator:wikipedia": "ar:سوسيتيه جنرال",
+        "operator:wikipedia:ar": "سوسيتيه جنرال"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761727235,
+      "lat": 34.0201861,
+      "lon": -6.8267,
+      "tags": {
+        "alt_name:ar": "الشركة العامة",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "سوسيتيه جنرال",
+        "brand:ar": "سوسيتيه جنرال",
+        "brand:wikidata": "Q270363",
+        "brand:wikipedia": "ar:سوسيتيه جنرال",
+        "brand:wikipedia:ar": "سوسيتيه جنرال",
+        "name": "Société Générale سوسيتيه جنرال",
+        "name:ar": "سوسيتيه جنرال",
+        "name:fr": "Société Générale",
+        "opening_hours": "08:15-16:15",
+        "operator": "سوسيتيه جنرال",
+        "operator:ar": "سوسيتيه جنرال",
+        "operator:wikidata": "Q270363",
+        "operator:wikipedia": "ar:سوسيتيه جنرال",
+        "operator:wikipedia:ar": "سوسيتيه جنرال"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762276558,
+      "lat": 34.0189051,
+      "lon": -6.8252012,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772094667,
+      "lat": 34.0171616,
+      "lon": -6.8254365,
+      "tags": {
+        "addr:street": "Avenue d'Alger",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3783212257,
+      "lat": 34.0206158,
+      "lon": -6.8286933,
+      "tags": {
+        "amenity": "bank",
+        "atm": "no",
+        "drive_through": "no",
+        "name": "Crédit Agrricole - contrôle general",
+        "office": "company",
+        "operator": "Crédit Agricole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3798202958,
+      "lat": 34.0175211,
+      "lon": -6.8274201,
+      "tags": {
+        "amenity": "bank",
+        "name": "CIH",
+        "operator": "CIH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901481359,
+      "lat": 34.0189426,
+      "lon": -6.8497202,
+      "tags": {
+        "amenity": "bank",
+        "name": "Crédit Agricole du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980611771,
+      "lat": 34.0138601,
+      "lon": -6.8545784,
+      "tags": {
+        "addr:street": "Avenue Mohamed Zerktouni",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4111800011,
+      "lat": 34.0216686,
+      "lon": -6.8364271,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4131535013,
+      "lat": 34.0254501,
+      "lon": -6.8457272,
+      "tags": {
+        "amenity": "bank",
+        "name": "Western Union"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4131535014,
+      "lat": 34.0255124,
+      "lon": -6.845533,
+      "tags": {
+        "amenity": "bank",
+        "name": "tawfik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4153508290,
+      "lat": 34.0191053,
+      "lon": -6.8356433,
+      "tags": {
+        "addr:street": "Rue du Caire",
+        "amenity": "bank",
+        "name": "société générale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4239658884,
+      "lat": 34.0178343,
+      "lon": -6.8346709,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291833194,
+      "lat": 34.0291193,
+      "lon": -6.8361289,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4319319990,
+      "lat": 33.9575648,
+      "lon": -6.8688689,
+      "tags": {
+        "amenity": "bank",
+        "name": "CIH Agence Hay riad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4350796098,
+      "lat": 33.9618676,
+      "lon": -6.8647745,
+      "tags": {
+        "amenity": "bank",
+        "name": "Attijari Wafa Banque"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4546761802,
+      "lat": 34.0186907,
+      "lon": -6.8493787,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Rue Mali زنقة مالي",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole Du Maroc",
+        "opening_hours": "Lundi - Jeudi 08:15 à 15:45 / Vendredi 08:15 à 15:30",
+        "phone": "0800002323"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4546780159,
+      "lat": 34.0211987,
+      "lon": -6.8515928,
+      "tags": {
+        "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCE BANK",
+        "opening_hours": "Mo-Fr 08:15-16:00",
+        "phone": "0801008100"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625879489,
+      "lat": 33.954171,
+      "lon": -6.8637696,
+      "tags": {
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "drive_through": "no",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708641431,
+      "lat": 33.9931195,
+      "lon": -6.8477959,
+      "tags": {
+        "amenity": "bank",
+        "name": "BMCE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4770108622,
+      "lat": 34.0180033,
+      "lon": -6.8309783,
+      "tags": {
+        "amenity": "bank",
+        "name:en": "Afm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4777197824,
+      "lat": 34.0188238,
+      "lon": -6.825897,
+      "tags": {
+        "amenity": "bank",
+        "name": "Banque CIH بنك",
+        "name:ar": "CIH بنك",
+        "name:en": "CIH Bank",
+        "name:fr": "Banque CIH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998495821,
+      "lat": 33.9994423,
+      "lon": -6.849638,
+      "tags": {
+        "amenity": "bank",
+        "name": "Al Barid Bank البريد بنك",
+        "name:ar": "البريد بنك",
+        "name:en": "Al Barid Bank",
+        "name:fr": "Al Barid Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073821522,
+      "lat": 33.996985,
+      "lon": -6.8747371,
+      "tags": {
+        "addr:street": "Avenue Sidi Mohammed Ben Abdellah",
+        "amenity": "bank",
+        "name": "مصرف المغرب",
+        "name:ar": "مصرف المغرب",
+        "name:en": "Credit du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073821523,
+      "lat": 33.997098,
+      "lon": -6.8746283,
+      "tags": {
+        "addr:street": "Avenue Sidi Mohammed Ben Abdellah",
+        "amenity": "bank",
+        "branch": "el kora",
+        "name": "CIH بنك",
+        "name:ar": "بنك",
+        "name:fr": "CIH",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073825221,
+      "lat": 33.9964227,
+      "lon": -6.8751681,
+      "tags": {
+        "addr:street": "Avenue Sidi Mohammed Ben Abdellah",
+        "amenity": "bank",
+        "name": "البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073866823,
+      "lat": 33.9963043,
+      "lon": -6.8757798,
+      "tags": {
+        "amenity": "bank",
+        "name": "بريد كاش - ويسترن يونيون",
+        "name:ar": "بريد كاش - ويسترن يونيون",
+        "name:en": "barid cash - wester union"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5114996021,
+      "lat": 33.9737312,
+      "lon": -6.8183775,
+      "tags": {
+        "addr:street": "Rue Bani Hamid",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bmce banque jnane nahda البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:fr": "Bmce banque jnane nahda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268844090,
+      "lat": 33.9984653,
+      "lon": -6.8459252,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "bank",
+        "name": "attijariwafa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268844092,
+      "lat": 33.9981785,
+      "lon": -6.8468707,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268909788,
+      "lat": 33.9983992,
+      "lon": -6.8462922,
+      "tags": {
+        "amenity": "bank",
+        "name": "Credit du maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268909790,
+      "lat": 33.9978721,
+      "lon": -6.8470754,
+      "tags": {
+        "amenity": "bank",
+        "name": "wafasalaf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5561548245,
+      "lat": 33.9631613,
+      "lon": -6.8527975,
+      "tags": {
+        "amenity": "bank",
+        "name": "Attijari Wafa Banque"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758378827,
+      "lat": 34.0195853,
+      "lon": -6.8495707,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banque populaire",
+        "name:fr": "Banque populaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758899726,
+      "lat": 33.9954155,
+      "lon": -6.879217,
+      "tags": {
+        "alt_name:ar": "البنك العقاري والسياحي",
+        "amenity": "bank",
+        "brand": "القرض العقاري والسياحي",
+        "brand:ar": "القرض العقاري والسياحي",
+        "brand:website": "https://www.cihbank.ma/ar/",
+        "brand:wikidata": "Q3006220",
+        "brand:wikipedia": "ar:القرض العقاري والسياحي",
+        "brand:wikipedia:ar": "القرض العقاري والسياحي",
+        "name": "CIH Bank القرض العقاري والسياحي",
+        "name:ar": "القرض العقاري والسياحي",
+        "name:en": "CIH Bank",
+        "name:fr": "CIH Bank",
+        "operator": "القرض العقاري والسياحي",
+        "operator:ar": "القرض العقاري والسياحي",
+        "operator:website": "https://www.cihbank.ma/ar/",
+        "operator:wikidata": "Q3006220",
+        "operator:wikipedia": "ar:القرض العقاري والسياحي",
+        "operator:wikipedia:ar": "القرض العقاري والسياحي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5763861449,
+      "lat": 34.0215163,
+      "lon": -6.8362601,
+      "tags": {
+        "addr:street": "Rue Tabariya",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5763910971,
+      "lat": 34.0165254,
+      "lon": -6.8337107,
+      "tags": {
+        "addr:street": "Avenue Allal Ben Abdellah",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5763910977,
+      "lat": 34.016153,
+      "lon": -6.8336034,
+      "tags": {
+        "addr:street": "Avenue Allal Ben Abdellah",
+        "alt_name:ar": "البنك العقاري والسياحي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "القرض العقاري والسياحي",
+        "brand:ar": "القرض العقاري والسياحي",
+        "brand:website": "https://www.cihbank.ma/ar/",
+        "brand:wikidata": "Q3006220",
+        "brand:wikipedia": "ar:القرض العقاري والسياحي",
+        "brand:wikipedia:ar": "القرض العقاري والسياحي",
+        "name": "CIH Bank القرض العقاري والسياحي",
+        "name:ar": "القرض العقاري والسياحي",
+        "name:en": "CIH Bank",
+        "name:fr": "CIH Bank",
+        "operator": "القرض العقاري والسياحي",
+        "operator:ar": "القرض العقاري والسياحي",
+        "operator:website": "https://www.cihbank.ma/ar/",
+        "operator:wikidata": "Q3006220",
+        "operator:wikipedia": "ar:القرض العقاري والسياحي",
+        "operator:wikipedia:ar": "القرض العقاري والسياحي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5763938472,
+      "lat": 34.017657,
+      "lon": -6.8341452,
+      "tags": {
+        "addr:street": "Avenue Allal Ben Abdellah",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة والصناعة",
+        "brand:ar": "البنك المغربي للتجارة والصناعة",
+        "brand:wikidata": "Q2883409",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة والصناعة",
+        "name": "BMCI البنك المغربي للتجارة والصناعة",
+        "name:ar": "البنك المغربي للتجارة والصناعة",
+        "name:fr": "BMCI",
+        "operator": "البنك المغربي للتجارة والصناعة",
+        "operator:ar": "البنك المغربي للتجارة والصناعة",
+        "operator:wikidata": "Q499707",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة والصناعة",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة والصناعة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5763944112,
+      "lat": 34.0210906,
+      "lon": -6.834974,
+      "tags": {
+        "addr:street": "Rue Yougoslavie",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5764412857,
+      "lat": 34.0232786,
+      "lon": -6.8291842,
+      "tags": {
+        "addr:street": "Avenue Abdelmoumen",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5766588123,
+      "lat": 33.9823754,
+      "lon": -6.8806654,
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5766588128,
+      "lat": 33.9837521,
+      "lon": -6.8790534,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5766688885,
+      "lat": 33.9719837,
+      "lon": -6.8853472,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5766706541,
+      "lat": 33.9676572,
+      "lon": -6.8927944,
+      "tags": {
+        "addr:street": "Avenue El Majd",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5767000107,
+      "lat": 34.0165132,
+      "lon": -6.832328,
+      "tags": {
+        "addr:street": "Avenue Abou Faris Al Marini",
+        "amenity": "bank",
+        "name": "Al Akhdar Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768749604,
+      "lat": 33.9721138,
+      "lon": -6.8929124,
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768749611,
+      "lat": 33.975209,
+      "lon": -6.8895777,
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768749623,
+      "lat": 33.9754426,
+      "lon": -6.8892083,
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768749628,
+      "lat": 33.9756739,
+      "lon": -6.8888535,
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768805768,
+      "lat": 33.9757462,
+      "lon": -6.8918583,
+      "tags": {
+        "addr:street": "Avenue El Menzeh",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768805777,
+      "lat": 33.9736848,
+      "lon": -6.8943628,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768820233,
+      "lat": 34.020796,
+      "lon": -6.8393084,
+      "tags": {
+        "addr:street": "Rue de la Mamounia زنقة المامونية",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768820245,
+      "lat": 34.017269,
+      "lon": -6.8333995,
+      "tags": {
+        "addr:street": "Rue Abou Inane",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768989459,
+      "lat": 34.0170022,
+      "lon": -6.8361059,
+      "tags": {
+        "addr:street": "Rue Taïf",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771378978,
+      "lat": 34.0131371,
+      "lon": -6.8483944,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "name": "BMCE BANK",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379015,
+      "lat": 34.0147912,
+      "lon": -6.8508674,
+      "tags": {
+        "addr:street": "Avenue Madagascar",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379032,
+      "lat": 34.0120955,
+      "lon": -6.8511383,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "name": "Credit Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379044,
+      "lat": 34.0130849,
+      "lon": -6.8488973,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "name": "Al Barid Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771379755,
+      "lat": 34.0154315,
+      "lon": -6.8467931,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771413894,
+      "lat": 34.015785,
+      "lon": -6.8496081,
+      "tags": {
+        "addr:street": "Rue Dahomey",
+        "amenity": "bank",
+        "name": "Al Barid Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771652049,
+      "lat": 34.0166765,
+      "lon": -6.8456827,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "name": "BMCE BANK",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771911342,
+      "lat": 34.0199157,
+      "lon": -6.8453032,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe شارع المغرب العربي",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771911347,
+      "lat": 34.0205337,
+      "lon": -6.8430904,
+      "tags": {
+        "addr:street": "Avenue Maghreb Arabe شارع المغرب العربي",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771913117,
+      "lat": 34.0198334,
+      "lon": -6.8486063,
+      "tags": {
+        "addr:street": "Avenue Al Mouqaouama شارع المقاومة",
+        "amenity": "bank",
+        "name": "Societe Generale",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771913122,
+      "lat": 34.0199145,
+      "lon": -6.8425043,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771934586,
+      "lat": 34.0252477,
+      "lon": -6.8459898,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "alt_name:ar": "البنك العقاري والسياحي",
+        "amenity": "bank",
+        "brand": "القرض العقاري والسياحي",
+        "brand:ar": "القرض العقاري والسياحي",
+        "brand:website": "https://www.cihbank.ma/ar/",
+        "brand:wikidata": "Q3006220",
+        "brand:wikipedia": "ar:القرض العقاري والسياحي",
+        "brand:wikipedia:ar": "القرض العقاري والسياحي",
+        "name": "CIH Bank القرض العقاري والسياحي",
+        "name:ar": "القرض العقاري والسياحي",
+        "name:en": "CIH Bank",
+        "name:fr": "CIH Bank",
+        "operator": "القرض العقاري والسياحي",
+        "operator:ar": "القرض العقاري والسياحي",
+        "operator:website": "https://www.cihbank.ma/ar/",
+        "operator:wikidata": "Q3006220",
+        "operator:wikipedia": "ar:القرض العقاري والسياحي",
+        "operator:wikipedia:ar": "القرض العقاري والسياحي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771934596,
+      "lat": 34.0245908,
+      "lon": -6.8472223,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "bank",
+        "name": "BMCE BANK",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771934601,
+      "lat": 34.0251021,
+      "lon": -6.8465759,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771934607,
+      "lat": 34.025281,
+      "lon": -6.8463224,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "bank",
+        "name": "Credit Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5773411454,
+      "lat": 34.0246453,
+      "lon": -6.8468696,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5773411464,
+      "lat": 34.0250432,
+      "lon": -6.8463372,
+      "tags": {
+        "addr:street": "Avenue Abdelkrim Al Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5773536062,
+      "lat": 34.022191,
+      "lon": -6.8464042,
+      "tags": {
+        "addr:street": "Avenue Al Mouqaouama شارع المقاومة",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5773745105,
+      "lat": 33.960672,
+      "lon": -6.8667823,
+      "tags": {
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5773745106,
+      "lat": 33.9598166,
+      "lon": -6.868161,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774148685,
+      "lat": 34.0122033,
+      "lon": -6.8286862,
+      "tags": {
+        "addr:street": "Avenue Patrice Lumumba",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774156711,
+      "lat": 34.0113384,
+      "lon": -6.828597,
+      "tags": {
+        "addr:street": "Avenue Patrice Lumumba",
+        "amenity": "bank",
+        "name": "BMCI Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774156716,
+      "lat": 34.0127914,
+      "lon": -6.8285367,
+      "tags": {
+        "addr:street": "Avenue Patrice Lumumba",
+        "amenity": "bank",
+        "name": "AttijariwafaBank",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779729398,
+      "lat": 33.9547552,
+      "lon": -6.8750274,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779912422,
+      "lat": 34.0165342,
+      "lon": -6.8293172,
+      "tags": {
+        "addr:street": "Rue d'Annaba",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779912423,
+      "lat": 34.0166065,
+      "lon": -6.8291402,
+      "tags": {
+        "addr:street": "Rue d'Annaba",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779912429,
+      "lat": 34.0180516,
+      "lon": -6.8288143,
+      "tags": {
+        "addr:street": "Avenue Chellah",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit du Maroc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779915037,
+      "lat": 34.0171545,
+      "lon": -6.8330562,
+      "tags": {
+        "addr:street": "Rue Abou Inane",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780313673,
+      "lat": 34.0096809,
+      "lon": -6.8572028,
+      "tags": {
+        "addr:street": "Chari El Haj El Hassan",
+        "amenity": "bank",
+        "name": "Societe Generale",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555372,
+      "lat": 33.9973557,
+      "lon": -6.8491749,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555377,
+      "lat": 33.9971683,
+      "lon": -6.8498079,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "bank",
+        "name": "CFG Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782555382,
+      "lat": 33.996842,
+      "lon": -6.8498334,
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782838127,
+      "lat": 34.0004944,
+      "lon": -6.8470037,
+      "tags": {
+        "addr:street": "Rue Oued Baht",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782838150,
+      "lat": 34.0006612,
+      "lon": -6.8492273,
+      "tags": {
+        "addr:street": "Rue Melouya",
+        "amenity": "bank",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782839875,
+      "lat": 34.0005978,
+      "lon": -6.8450497,
+      "tags": {
+        "addr:street": "Avenue Omar Ibn Khattab",
+        "amenity": "bank",
+        "name": "AL Barid Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782839886,
+      "lat": 34.0012049,
+      "lon": -6.8502907,
+      "tags": {
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "amenity": "bank",
+        "name": "Bank Assafa",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784867193,
+      "lat": 33.9968832,
+      "lon": -6.8481115,
+      "tags": {
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784867199,
+      "lat": 33.9948784,
+      "lon": -6.8471593,
+      "tags": {
+        "addr:street": "Avenue Fal Ould Oumeir",
+        "amenity": "bank",
+        "name": "Umnia Bank",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784934189,
+      "lat": 33.998005,
+      "lon": -6.8473806,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "bank",
+        "name": "Bank Al Yousr",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790116270,
+      "lat": 33.9787333,
+      "lon": -6.8176201,
+      "tags": {
+        "addr:street": "Rue Bani Jaber",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5791069009,
+      "lat": 33.9742381,
+      "lon": -6.8176804,
+      "tags": {
+        "addr:street": "Rue Bani Hamid",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5796279115,
+      "lat": 33.9729613,
+      "lon": -6.8193796,
+      "tags": {
+        "addr:street": "Rue Bani Hamid",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5796327253,
+      "lat": 33.9757873,
+      "lon": -6.821343,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole Du Maroc",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957176985,
+      "lat": 33.9809133,
+      "lon": -6.8291762,
+      "tags": {
+        "addr:street": "Avenue Mohammed VI شارع محمد السادس",
+        "amenity": "bank",
+        "name:en": "BMCI",
+        "opening_hours": "Tu-Fr 08:15-15:45; Sa 09:15-12:30; Mo 13:00-16:00",
+        "operator": "BNP PARIBAS",
+        "phone": "+212537635344",
+        "website": "https://www.bmci.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957177085,
+      "lat": 33.9752141,
+      "lon": -6.8308282,
+      "tags": {
+        "addr:street": "Avenue Mohammed VI شارع محمد السادس",
+        "amenity": "bank",
+        "name:en": "BMCI",
+        "operator": "BNP PARIBAS",
+        "website": "https://www.bmci.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411909697,
+      "lat": 33.9778586,
+      "lon": -6.8166226,
+      "tags": {
+        "amenity": "bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411909698,
+      "lat": 33.9780096,
+      "lon": -6.8170626,
+      "tags": {
+        "amenity": "bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6424286001,
+      "lat": 34.0156189,
+      "lon": -6.8350332,
+      "tags": {
+        "amenity": "bank",
+        "name:en": "Banque populaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7182513602,
+      "lat": 33.9705332,
+      "lon": -6.8282393,
+      "tags": {
+        "alt_name:ar": "البنك العقاري والسياحي",
+        "amenity": "bank",
+        "brand": "القرض العقاري والسياحي",
+        "brand:ar": "القرض العقاري والسياحي",
+        "brand:website": "https://www.cihbank.ma/ar/",
+        "brand:wikidata": "Q3006220",
+        "brand:wikipedia": "ar:القرض العقاري والسياحي",
+        "brand:wikipedia:ar": "القرض العقاري والسياحي",
+        "name": "CIH Bank القرض العقاري والسياحي",
+        "name:ar": "القرض العقاري والسياحي",
+        "name:en": "CIH Bank",
+        "name:fr": "CIH Bank",
+        "operator": "القرض العقاري والسياحي",
+        "operator:ar": "القرض العقاري والسياحي",
+        "operator:website": "https://www.cihbank.ma/ar/",
+        "operator:wikidata": "Q3006220",
+        "operator:wikipedia": "ar:القرض العقاري والسياحي",
+        "operator:wikipedia:ar": "القرض العقاري والسياحي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8308461917,
+      "lat": 34.002386,
+      "lon": -6.8502748,
+      "tags": {
+        "amenity": "bank",
+        "name": "Al Akhdar Bank"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140387855,
+      "nodes": [
+        1538199677,
+        1538199679,
+        1538199680,
+        1538199675,
+        1538199677
+      ],
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "building": "yes",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140387879,
+      "nodes": [
+        1538201082,
+        1538201083,
+        1538201080,
+        1538201085,
+        1538201082
+      ],
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Crédit du Maroc",
+        "operator": "Crédit du Maroc"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289025335,
+      "nodes": [
+        2925743906,
+        2925743907,
+        2925743908,
+        2925743909,
+        2925743906
+      ],
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "building": "yes",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607516158,
+      "nodes": [
+        5757428433,
+        5757428430,
+        5757428431,
+        5757428432,
+        5757428433
+      ],
+      "tags": {
+        "addr:street": "Avenue Al Haouz",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "building": "yes",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607729829,
+      "nodes": [
+        5758871557,
+        5758871554,
+        5758871555,
+        5758871556,
+        5758871557
+      ],
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "building": "commercial",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607729831,
+      "nodes": [
+        5758871567,
+        5758871566,
+        5758871563,
+        5758871565,
+        5758871562,
+        5758871561,
+        5758871560,
+        5758871564,
+        5758871567
+      ],
+      "tags": {
+        "addr:street": "Rue Sanhaja",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "building": "commercial",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608725804,
+      "nodes": [
+        5766588355,
+        5766588354,
+        5766588353,
+        5766588152,
+        5766588355
+      ],
+      "tags": {
+        "addr:street": "Avenue El Massira",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "building": "commercial",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608744799,
+      "nodes": [
+        5766800255,
+        5766800254,
+        5766800253,
+        5766799052,
+        5766800255
+      ],
+      "tags": {
+        "addr:street": "Rue Moulay Ali Cherif",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "building": "commercial",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609313010,
+      "nodes": [
+        5771534879,
+        5771534878,
+        5771534877,
+        5771534876,
+        5771534879
+      ],
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "building": "yes",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610832059,
+      "nodes": [
+        5784503285,
+        5784503284,
+        5784503283,
+        5784503277,
+        5784503276,
+        5784503282,
+        5784503281,
+        5784503280,
+        5784503279,
+        5784503278,
+        5784503285
+      ],
+      "tags": {
+        "addr:street": "Avenue Mehdi Ben Barka",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Societe Generale",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610857790,
+      "nodes": [
+        5784711938,
+        5784711937,
+        5784711936,
+        5784711935,
+        5784711938
+      ],
+      "tags": {
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Societe Generale",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610857791,
+      "nodes": [
+        5784711947,
+        5784711946,
+        5784711945,
+        5784711944,
+        5784711943,
+        5784711942,
+        5784711941,
+        5784711940,
+        5784711939,
+        5784711947
+      ],
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "building": "yes",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610921848,
+      "nodes": [
+        5785267925,
+        5785267924,
+        5785267923,
+        5785267922,
+        5785267925
+      ],
+      "tags": {
+        "addr:street": "Avenue Mehdi Ben Barka",
+        "alt_name:ar": "البنك الشعبي المركزي",
+        "amenity": "bank",
+        "brand": "البنك الشعبي",
+        "brand:ar": "البنك الشعبي",
+        "brand:website": "https://www.groupebcp.com/AR",
+        "brand:wikidata": "Q2883441",
+        "brand:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "brand:wikipedia:ar": "البنك الشعبي (المغرب)",
+        "building": "commercial",
+        "name": "Banque Populaire البنك الشعبي",
+        "name:ar": "البنك الشعبي",
+        "name:en": "Banque Populaire",
+        "name:fr": "Banque Populaire",
+        "operator": "البنك الشعبي",
+        "operator:ar": "البنك الشعبي",
+        "operator:website": "https://www.groupebcp.com/AR",
+        "operator:wikidata": "Q2883441",
+        "operator:wikipedia": "ar:البنك الشعبي (المغرب)",
+        "operator:wikipedia:ar": "البنك الشعبي (المغرب)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610927190,
+      "nodes": [
+        5785348385,
+        5785348384,
+        5785348383,
+        5785348382,
+        5785348385
+      ],
+      "tags": {
+        "addr:street": "Avenue Mohammed VI",
+        "amenity": "bank",
+        "brand": "التجاري وفا بنك",
+        "brand:ar": "التجاري وفا بنك",
+        "brand:website": "https://www.attijariwafabank.com/ar",
+        "brand:wikidata": "Q758052",
+        "brand:wikipedia": "ar:التجاري وفا بنك",
+        "brand:wikipedia:ar": "التجاري وفا بنك",
+        "building": "commercial",
+        "name": "Attijariwafa Bank التجاري وفا بنك",
+        "name:ar": "التجاري وفا بنك",
+        "name:en": "Attijariwafa Bank",
+        "name:fr": "Attijariwafa Bank",
+        "operator": "التجاري وفا بنك",
+        "operator:ar": "التجاري وفا بنك",
+        "operator:website": "https://www.attijariwafabank.com/ar",
+        "operator:wikidata": "Q758052",
+        "operator:wikipedia": "ar:التجاري وفا بنك",
+        "operator:wikipedia:ar": "التجاري وفا بنك",
+        "source": "Kaart Ground Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 611277344,
+      "nodes": [
+        5787789341,
+        5787789340,
+        5787789339,
+        5787789338,
+        5787789341
+      ],
+      "tags": {
+        "alt_name:ar": "البنك المغربي للتجارة الخارجية لإفريقيا;بنك أفريقيا",
+        "amenity": "bank",
+        "brand": "البنك المغربي للتجارة الخارجية",
+        "brand:ar": "البنك المغربي للتجارة الخارجية",
+        "brand:website": "https://www.bankofafrica.ma/ar",
+        "brand:wikidata": "Q2300433",
+        "brand:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "brand:wikipedia:ar": "البنك المغربي للتجارة الخارجية",
+        "building": "yes",
+        "name": "BMCE Bank البنك المغربي للتجارة الخارجية",
+        "name:ar": "البنك المغربي للتجارة الخارجية",
+        "name:en": "BMCE Bank",
+        "name:fr": "BMCE Bank",
+        "official_name": "البنك المغربي للتجارة الخارجية",
+        "official_name:ar": "البنك المغربي للتجارة الخارجية",
+        "official_name:en": "Moroccan Bank of Foreign Commerce",
+        "operator": "البنك المغربي للتجارة الخارجية",
+        "operator:ar": "البنك المغربي للتجارة الخارجية",
+        "operator:website": "https://www.bankofafrica.ma/ar",
+        "operator:wikidata": "Q2300433",
+        "operator:wikipedia": "ar:البنك المغربي للتجارة الخارجية",
+        "operator:wikipedia:ar": "البنك المغربي للتجارة الخارجية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2925743906,
+      "lat": 33.9759734,
+      "lon": -6.8701213
+    },
+    {
+      "type": "node",
+      "id": 2925743907,
+      "lat": 33.9759234,
+      "lon": -6.8699817
+    },
+    {
+      "type": "node",
+      "id": 2925743908,
+      "lat": 33.9758142,
+      "lon": -6.870038
+    },
+    {
+      "type": "node",
+      "id": 2925743909,
+      "lat": 33.9758632,
+      "lon": -6.8701779
+    },
+    {
+      "type": "node",
+      "id": 5766588152,
+      "lat": 33.9831736,
+      "lon": -6.8802462
+    },
+    {
+      "type": "node",
+      "id": 5766588353,
+      "lat": 33.9832394,
+      "lon": -6.8803168
+    },
+    {
+      "type": "node",
+      "id": 5766588354,
+      "lat": 33.9832927,
+      "lon": -6.8802519
+    },
+    {
+      "type": "node",
+      "id": 5766588355,
+      "lat": 33.9832555,
+      "lon": -6.8801878
+    },
+    {
+      "type": "node",
+      "id": 5784503276,
+      "lat": 33.9650304,
+      "lon": -6.8514791
+    },
+    {
+      "type": "node",
+      "id": 5784503277,
+      "lat": 33.9649587,
+      "lon": -6.8515414
+    },
+    {
+      "type": "node",
+      "id": 5784503278,
+      "lat": 33.9650959,
+      "lon": -6.8516401
+    },
+    {
+      "type": "node",
+      "id": 5784503279,
+      "lat": 33.9650582,
+      "lon": -6.8515772
+    },
+    {
+      "type": "node",
+      "id": 5784503280,
+      "lat": 33.9650336,
+      "lon": -6.8515986
+    },
+    {
+      "type": "node",
+      "id": 5784503281,
+      "lat": 33.9650037,
+      "lon": -6.8515485
+    },
+    {
+      "type": "node",
+      "id": 5784503282,
+      "lat": 33.9650486,
+      "lon": -6.8515094
+    },
+    {
+      "type": "node",
+      "id": 5784503283,
+      "lat": 33.9649281,
+      "lon": -6.8514903
+    },
+    {
+      "type": "node",
+      "id": 5784503284,
+      "lat": 33.9650627,
+      "lon": -6.8513731
+    },
+    {
+      "type": "node",
+      "id": 5784503285,
+      "lat": 33.9651791,
+      "lon": -6.8515677
+    },
+    {
+      "type": "node",
+      "id": 5771534877,
+      "lat": 33.990194,
+      "lon": -6.8516429
+    },
+    {
+      "type": "node",
+      "id": 5771534878,
+      "lat": 33.9901917,
+      "lon": -6.8515313
+    },
+    {
+      "type": "node",
+      "id": 5758871554,
+      "lat": 33.9719123,
+      "lon": -6.8299113
+    },
+    {
+      "type": "node",
+      "id": 5758871555,
+      "lat": 33.9721092,
+      "lon": -6.8299878
+    },
+    {
+      "type": "node",
+      "id": 5758871556,
+      "lat": 33.9721572,
+      "lon": -6.8298081
+    },
+    {
+      "type": "node",
+      "id": 5758871557,
+      "lat": 33.9719603,
+      "lon": -6.8297316
+    },
+    {
+      "type": "node",
+      "id": 5758871564,
+      "lat": 33.9716848,
+      "lon": -6.8288846
+    },
+    {
+      "type": "node",
+      "id": 5784711935,
+      "lat": 33.9745621,
+      "lon": -6.8308411
+    },
+    {
+      "type": "node",
+      "id": 5784711936,
+      "lat": 33.9746332,
+      "lon": -6.8304375
+    },
+    {
+      "type": "node",
+      "id": 5784711937,
+      "lat": 33.9748042,
+      "lon": -6.8304813
+    },
+    {
+      "type": "node",
+      "id": 5784711938,
+      "lat": 33.974733,
+      "lon": -6.830885
+    },
+    {
+      "type": "node",
+      "id": 5784711939,
+      "lat": 33.9748153,
+      "lon": -6.8309064
+    },
+    {
+      "type": "node",
+      "id": 5784711940,
+      "lat": 33.974892,
+      "lon": -6.8304786
+    },
+    {
+      "type": "node",
+      "id": 5784711941,
+      "lat": 33.9749888,
+      "lon": -6.8305095
+    },
+    {
+      "type": "node",
+      "id": 5784711942,
+      "lat": 33.9749855,
+      "lon": -6.8305403
+    },
+    {
+      "type": "node",
+      "id": 5784711943,
+      "lat": 33.9749877,
+      "lon": -6.8305872
+    },
+    {
+      "type": "node",
+      "id": 5784711944,
+      "lat": 33.9750021,
+      "lon": -6.8306141
+    },
+    {
+      "type": "node",
+      "id": 5784711945,
+      "lat": 33.9750322,
+      "lon": -6.8306462
+    },
+    {
+      "type": "node",
+      "id": 5784711946,
+      "lat": 33.9750622,
+      "lon": -6.830665
+    },
+    {
+      "type": "node",
+      "id": 5784711947,
+      "lat": 33.9750077,
+      "lon": -6.8309574
+    },
+    {
+      "type": "node",
+      "id": 5758871560,
+      "lat": 33.9715055,
+      "lon": -6.8288317
+    },
+    {
+      "type": "node",
+      "id": 5758871561,
+      "lat": 33.9714131,
+      "lon": -6.8288264
+    },
+    {
+      "type": "node",
+      "id": 5758871562,
+      "lat": 33.9713308,
+      "lon": -6.8288116
+    },
+    {
+      "type": "node",
+      "id": 5758871563,
+      "lat": 33.9713931,
+      "lon": -6.8285984
+    },
+    {
+      "type": "node",
+      "id": 5758871565,
+      "lat": 33.9713523,
+      "lon": -6.8287089
+    },
+    {
+      "type": "node",
+      "id": 5758871566,
+      "lat": 33.971412,
+      "lon": -6.8284321
+    },
+    {
+      "type": "node",
+      "id": 5758871567,
+      "lat": 33.9717468,
+      "lon": -6.828534
+    },
+    {
+      "type": "node",
+      "id": 5785267922,
+      "lat": 33.9783896,
+      "lon": -6.8371524
+    },
+    {
+      "type": "node",
+      "id": 5785267923,
+      "lat": 33.9785786,
+      "lon": -6.8369499
+    },
+    {
+      "type": "node",
+      "id": 5785267924,
+      "lat": 33.9786811,
+      "lon": -6.8370889
+    },
+    {
+      "type": "node",
+      "id": 5785267925,
+      "lat": 33.978492,
+      "lon": -6.8372914
+    },
+    {
+      "type": "node",
+      "id": 1538199675,
+      "lat": 33.9816081,
+      "lon": -6.8290141
+    },
+    {
+      "type": "node",
+      "id": 1538199677,
+      "lat": 33.9817526,
+      "lon": -6.8289927
+    },
+    {
+      "type": "node",
+      "id": 1538199679,
+      "lat": 33.9817559,
+      "lon": -6.8288832
+    },
+    {
+      "type": "node",
+      "id": 1538199680,
+      "lat": 33.9816291,
+      "lon": -6.828894
+    },
+    {
+      "type": "node",
+      "id": 1538201080,
+      "lat": 33.9813512,
+      "lon": -6.8289462
+    },
+    {
+      "type": "node",
+      "id": 1538201082,
+      "lat": 33.9815187,
+      "lon": -6.8290531
+    },
+    {
+      "type": "node",
+      "id": 1538201083,
+      "lat": 33.9815098,
+      "lon": -6.8289243
+    },
+    {
+      "type": "node",
+      "id": 1538201085,
+      "lat": 33.9813719,
+      "lon": -6.8290745
+    },
+    {
+      "type": "node",
+      "id": 5757428430,
+      "lat": 33.9828645,
+      "lon": -6.8269734
+    },
+    {
+      "type": "node",
+      "id": 5757428431,
+      "lat": 33.9827799,
+      "lon": -6.827204
+    },
+    {
+      "type": "node",
+      "id": 5757428432,
+      "lat": 33.9828786,
+      "lon": -6.8272566
+    },
+    {
+      "type": "node",
+      "id": 5757428433,
+      "lat": 33.9829631,
+      "lon": -6.8270259
+    },
+    {
+      "type": "node",
+      "id": 5785348382,
+      "lat": 33.9847917,
+      "lon": -6.8286019
+    },
+    {
+      "type": "node",
+      "id": 5785348383,
+      "lat": 33.9847628,
+      "lon": -6.828323
+    },
+    {
+      "type": "node",
+      "id": 5785348384,
+      "lat": 33.985071,
+      "lon": -6.8282765
+    },
+    {
+      "type": "node",
+      "id": 5785348385,
+      "lat": 33.9850999,
+      "lon": -6.8285555
+    },
+    {
+      "type": "node",
+      "id": 5787789338,
+      "lat": 33.9860819,
+      "lon": -6.8205715
+    },
+    {
+      "type": "node",
+      "id": 5787789339,
+      "lat": 33.9860443,
+      "lon": -6.8206484
+    },
+    {
+      "type": "node",
+      "id": 5787789340,
+      "lat": 33.9860995,
+      "lon": -6.8206876
+    },
+    {
+      "type": "node",
+      "id": 5787789341,
+      "lat": 33.9861371,
+      "lon": -6.8206107
+    },
+    {
+      "type": "node",
+      "id": 5771534876,
+      "lat": 33.9903068,
+      "lon": -6.8516395
+    },
+    {
+      "type": "node",
+      "id": 5771534879,
+      "lat": 33.9903045,
+      "lon": -6.8515279
+    },
+    {
+      "type": "node",
+      "id": 5766799052,
+      "lat": 34.0170887,
+      "lon": -6.8304949
+    },
+    {
+      "type": "node",
+      "id": 5766800253,
+      "lat": 34.0171176,
+      "lon": -6.830444
+    },
+    {
+      "type": "node",
+      "id": 5766800254,
+      "lat": 34.0172034,
+      "lon": -6.8305148
+    },
+    {
+      "type": "node",
+      "id": 5766800255,
+      "lat": 34.0171745,
+      "lon": -6.8305658
+    }
+  ]
+}
